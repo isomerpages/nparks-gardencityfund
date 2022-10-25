@@ -14,7 +14,7 @@ Chairman
 --------
 
 **Professor Leo Tan**  
-_Director (Special Projects), National University of Singapore_
+<i>Director (Special Projects), National University of Singapore</i>
 
 * * *
 
