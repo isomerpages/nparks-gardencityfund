@@ -3,7 +3,7 @@ url: https://gardencityfund.nparks.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#215732"
-  secondary-color: "#7a9a01"
+  secondary-color: "#215732"
   media-colors:
     - title: media-color-one
       color: "#215732"
