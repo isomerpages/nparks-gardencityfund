@@ -11,14 +11,14 @@ sections:
       subtitle: Let's Make Singapore Our City in Nature
       background: /images/T_Henderson rd.jpeg
       key_highlights:
+        - title: About GCF
+          description: Who We Are
+          url: /who-we-are/about-gcf
         - title: Plant A Tree Programme
-          description: ""
+          description: Enhance Singapore's Greenery
           url: ""
-        - title: Make a Difference
-          description: ""
-          url: ""
-        - title: Our Partners
-          description: ""
+        - title: Make A Difference
+          description: Contribute and Leave a Legacy
           url: ""
   - infopic:
       title: Be Our Partner
