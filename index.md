@@ -16,10 +16,10 @@ sections:
           url: /who-we-are/aboutgcf/
         - title: Plant A Tree Programme
           description: Enhance Singapore's Greenery
-          url: ""
+          url: /make-a-difference/Plant-A-Tree-Programme/about/
         - title: Make A Difference
           description: Contribute and Leave a Legacy
-          url: ""
+          url: /make-a-difference/
         - title: Frequently Asked Questions
           description: ""
           url: /faq
