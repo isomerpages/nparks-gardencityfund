@@ -2,6 +2,6 @@ collections:
   partnerships:
     output: true
     order:
-      - Existing Collaborations.md
-      - Partners' Testimonials.md
       - Support Our Projects.md
+      - Partners' Testimonials.md
+      - Existing Collaborations.md
