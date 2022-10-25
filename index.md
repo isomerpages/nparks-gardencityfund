@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Garden City Fund
       subtitle: Let's Make Singapore Our City in Nature
-      background: /images/hero-banner.png
+      background: /images/T_Henderson rd.jpeg
       key_highlights:
         - title: Plant A Tree Programme
           description: ""
