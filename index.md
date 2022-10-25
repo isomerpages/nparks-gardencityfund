@@ -20,7 +20,7 @@ sections:
         - title: Make A Difference
           description: Contribute and Leave a Legacy
           url: ""
-        - title: FAQs
+        - title: Frequently Asked Questions
           description: ""
           url: /faq
   - infopic:
