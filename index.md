@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: About GCF
           description: Who We Are
-          url: /who-we-are/aboutgcf
+          url: /who-we-are/aboutgcf/
         - title: Plant A Tree Programme
           description: Enhance Singapore's Greenery
           url: ""
