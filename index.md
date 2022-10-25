@@ -20,6 +20,9 @@ sections:
         - title: Make A Difference
           description: Contribute and Leave a Legacy
           url: ""
+        - title: FAQs
+          description: ""
+          url: /faq
   - infopic:
       title: Be Our Partner
       subtitle: Make a positive impact
