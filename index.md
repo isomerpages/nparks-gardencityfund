@@ -27,4 +27,5 @@ sections:
       button: Join us
       url: https://www.gardencityfund.gov.sg/partnerships/support-our-projects
       alt: Image alt text
+      image: /images/Bishan-Ang Mo Kio Park.jpg
 ---
