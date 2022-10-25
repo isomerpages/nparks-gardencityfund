@@ -2,4 +2,5 @@ collections:
   make-a-difference:
     output: true
     order:
+      - Plant A Tree Programme/.keep
       - Contribute to our City in Nature.md
