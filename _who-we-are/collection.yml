@@ -2,5 +2,5 @@ collections:
   who-we-are:
     output: true
     order:
-      - Committee.md
       - About GCF.md
+      - Committee.md
