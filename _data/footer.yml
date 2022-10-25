@@ -1,4 +1,9 @@
 show_reach: true
-social_media: {}
+social_media:
+  facebook: https://www.facebook.com/nparksbuzz
+  twitter: https://www.twitter.com/nparksbuzz
+  youtube: https://www.youtube.com/c/NParksSG
+  telegram: https://t.me/s/nparksbuzz
+  tiktok: https://www.tiktok.com/@nparkssg
 feedback: https://www.nparks.gov.sg/feedback
 contact_us: garden_city_fund@nparks.gov.sg
