@@ -31,4 +31,19 @@ sections:
       url: https://www.gardencityfund.gov.sg/partnerships/support-our-projects
       alt: Image alt text
       image: /images/Bishan-Ang Mo Kio Park.jpg
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
 ---
