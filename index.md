@@ -23,14 +23,6 @@ sections:
         - title: Frequently Asked Questions
           description: ""
           url: /faq
-  - infopic:
-      title: Be Our Partner
-      subtitle: Make a positive impact
-      description: Create a sustainable future and a viable environment
-      button: Join us
-      url: https://www.gardencityfund.gov.sg/partnerships/support-our-projects
-      alt: Image alt text
-      image: /images/Bishan-Ang Mo Kio Park.jpg
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
