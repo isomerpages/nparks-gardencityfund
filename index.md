@@ -23,6 +23,13 @@ sections:
         - title: Frequently Asked Questions
           description: ""
           url: /faq
+  - infopic:
+      title: Be Our Partner
+      subtitle: Make an impact
+      description: Contribute and make a legacy
+      button: Join us
+      url: /partnerships/
+      alt: Image alt text
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
