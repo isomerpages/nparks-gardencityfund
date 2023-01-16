@@ -2,5 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
+      - Existing Collaborations.md
       - Our Programmes/.keep
       - Be Our Partner.md
