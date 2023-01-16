@@ -2,8 +2,6 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
-### **Terms of Use**
-
 In these Terms of Use, the user of the Website is defined as "You" or "Your" and the provider of the Website is defined as "We", "Us" or "Our".  
   
 
