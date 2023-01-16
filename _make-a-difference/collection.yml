@@ -2,6 +2,6 @@ collections:
   make-a-difference:
     output: true
     order:
+      - Contribute to our City in Nature.md
       - Leave A Living Legacy.md
       - Raise Funds for GCF.md
-      - Contribute to our City in Nature.md
