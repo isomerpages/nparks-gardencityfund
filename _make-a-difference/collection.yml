@@ -1,4 +1,5 @@
 collections:
   make-a-difference:
     output: true
-    order: []
+    order:
+      - Contribute to our City in Nature.md
