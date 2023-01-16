@@ -2,4 +2,5 @@ collections:
   make-a-difference:
     output: true
     order:
+      - Raise Funds for GCF.md
       - Contribute to our City in Nature.md
