@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Plant A Coral Initiative.md
       - Orchid Conservation Fund.md
       - Conservation Efforts.md
       - How to take part in Plant A Tree Programme.md
