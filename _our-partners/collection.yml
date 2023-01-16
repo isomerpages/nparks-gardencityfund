@@ -2,4 +2,5 @@ collections:
   our-partners:
     output: true
     order:
+      - Partners.md
       - Partners' Testimonials.md
