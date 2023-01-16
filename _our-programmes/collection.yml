@@ -2,7 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
-      - Existing Collaborations/.keep
       - Be Our Partner.md
       - Plant A Tree Programme/.keep
       - Plant A Tree Programme/About Plant A Tree Programme.md
@@ -11,3 +10,4 @@ collections:
       - Plant A Coral Initiative.md
       - Orchid Conservation Fund.md
       - Conservation Efforts.md
+      - Existing Collaborations/.keep
