@@ -4,10 +4,6 @@ permalink: /our-programmes/support-our-projects/plant-a-tree/
 description: ""
 third_nav_title: Support our Projects
 ---
-
-
-
-
 Caring for trees and the environment is the social responsibility of every individual. The Plant-A-Tree Programme is a platform for organisations and individuals to actively participate in the greening of our [City in Nature](https://www.nparks.gov.sg/about-us/city-in-nature) by planting trees.
 
 Every tree planted will also contribute to the OneMillionTrees movement to plant one million more trees across Singapore over ten years till 2030. This aims to restore nature back to our city and redouble our efforts to green our urban infrastructure on an unprecedented scale. Read more about the movement [here](https://www.nparks.gov.sg/treessg/one-million-trees-movement).
@@ -52,4 +48,4 @@ Another way to contribute is to donate to the Garden City Fund. The support you 
 Pledge your support 
 --------------------
 
-Please click LINK to find out more on how to take part in the Plant-A-Tree Programme.
+Please click here to find out more on how to take part in the Plant-A-Tree Programme.
