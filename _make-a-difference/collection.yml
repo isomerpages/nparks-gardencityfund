@@ -1,7 +1,0 @@
-collections:
-  make-a-difference:
-    output: true
-    order:
-      - Contribute to our City in Nature.md
-      - Plant A Tree Programme/.keep
-      - Plant A Tree Programme/About Plant A Tree Programme.md
