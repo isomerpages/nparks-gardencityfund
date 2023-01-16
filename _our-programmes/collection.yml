@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - Be Our Partner.md
-      - Support our Projects/Plant A Coral Initiative.md
-      - Support our Projects/Orchid Conservation Fund.md
-      - Support our Projects/Conservation Efforts.md
-      - Support our Projects/Give to the Gardens Programme.md
       - Support our Projects/.keep
       - Support our Projects/Plant A Tree Programme.md
+      - Support our Projects/Conservation Efforts.md
+      - Support our Projects/Plant A Coral Initiative.md
+      - Support our Projects/Give to the Gardens Programme.md
+      - Support our Projects/Orchid Conservation Fund.md
       - How to Take Part.md
       - Existing Collaborations.md
