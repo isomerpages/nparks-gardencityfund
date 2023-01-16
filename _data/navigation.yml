@@ -2,5 +2,11 @@ logo: /images/gcf.png
 links:
   - title: Who We Are
     collection: who-we-are
-  - title: Frequently Asked Questions
+  - title: Our Progammes
+    collection: our-programmes
+  - title: Make A Difference
+    collection: make-a-difference
+  - title: Our Partners
+    collection: our-partners
+  - title: FAQ
     url: /faq
