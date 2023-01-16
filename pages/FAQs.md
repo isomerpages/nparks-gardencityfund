@@ -33,18 +33,18 @@ If you require printed receipts, please send us an email at [garden\_city\_fund
 If you have provided us with your details (Name/NRIC/FIN/UEN Number), we will submit your details to IRAS. IRAS will automatically recognise the status of your tax-deduction when GCF submits your donation details to them.
 
 <b>7. Can I get a refund of my donation?</b><br>
-All donations to Garden City Funs are generally non-refundable unless there is a proven unauthorised usage of credit card. We seek your understanding that donations received may have already been used for the intended projects. On the basis of the foregoing, we will nevertheless review all refund requests on a case-by-case basis. Please write to [garden\_city\_fund@nparks.gov.sg](mailto:garden_city_fund@nparks.gov.sg) within 30 days from the date the donation was made.
+All donations to Garden City Funs are generally non-refundable unless there is a proven unauthorised usage of credit card. We seek your understanding that donations received may have already been used for the intended projects. On the basis of the foregoing, we will nevertheless review all refund requests on a case-by-case basis. Please write to [garden_city_fund@nparks.gov.sg](mailto:garden_city_fund@nparks.gov.sg) within 30 days from the date the donation was made.
 
 <b>8. What is the Plant-A Tree Programme and how do I donate?</b><br>
 The Plant-A-Tree Programme is a platform for organisations and individuals to actively participate in the greening of our City in a Garden.
 
 With a minimum donation of $300, you can plant one tree in our parks. This amount has been revised due to the increase in cost of trees, especially native trees.
 
-For individual donations, check out the Plant-A-Tree schedule LINK
+For individual donations, check out the Plant-A-Tree schedule [here](https://gardencityfund.nparks.gov.sg/our-programmes/plant-a-tree/howtotakepart/)
 
 For private donations with a minimum requirement of 50 trees, please send us an email at [garden_city_fund@nparks.gov.sg](mailto:garden_city_fund@nparks.gov.sg).
 
-For more information about the Plant-A-Tree Programme, click LINK
+For more information about the Plant-A-Tree Programme, click [here](https://gardencityfund.nparks.gov.sg/our-programmes/plant-a-tree/about).
 
 <b>9. None of my questions were answered. How can I submit query?</b><br>
 Please write in to us at [garden_city_fund@nparks.gov.sg](mailto:garden_city_fund@nparks.gov.sg). Alternatively, you can also submit your query via [nparks.gov.sg/feedback](nparks.gov.sg/feedback).
