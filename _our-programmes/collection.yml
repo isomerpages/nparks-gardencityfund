@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Plant A Tree Programme/.keep
       - Plant A Tree Programme.md
       - Give to the Gardens Programme.md
       - Plant A Coral Initiative.md
