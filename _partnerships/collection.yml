@@ -2,6 +2,5 @@ collections:
   partnerships:
     output: true
     order:
-      - Be Our Partner.md
       - Support our Projects/.keep
       - Existing Collaborations.md
