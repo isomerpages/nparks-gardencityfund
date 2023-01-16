@@ -1,5 +1,5 @@
 collections:
-  our-programmes:
+  partnerships:
     output: true
     order:
       - Be Our Partner.md
