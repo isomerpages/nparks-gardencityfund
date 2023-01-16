@@ -2,9 +2,9 @@ collections:
   our-programmes:
     output: true
     order:
+      - Conserving our Corals/.keep
       - Conserving our Corals/Grow A Reef Initiative.md
       - Conserving our Corals/Plant A Coral Initiative.md
-      - Conserving our Corals/.keep
       - Be Our Partner.md
       - Plant A Tree Programme/.keep
       - Plant A Tree Programme/About Plant A Tree Programme.md
