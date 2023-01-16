@@ -44,3 +44,8 @@ Another way to contribute is to donate to the Garden City Fund. The support you 
 *   Develop outreach, education and green activities
 *   Enhance amenities and add special features such as access for the disabled, so that more people can enjoy our parks
 *   Fund research and conservation projects
+
+Pledge your support 
+--------------------
+
+Please click LINK to find out more on how to take part in the Plant-A-Tree Programme.
