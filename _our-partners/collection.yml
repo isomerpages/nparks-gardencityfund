@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Lifetime Contributors.md
-      - Partners.md
+      - GCF Partners.md
       - Partners' Testimonials.md
