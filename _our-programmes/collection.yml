@@ -2,4 +2,5 @@ collections:
   our-programmes:
     output: true
     order:
+      - Our Programmes/.keep
       - Be Our Partner.md
