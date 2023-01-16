@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Plant A Tree Programme/.keep
-      - Plant A Tree Programme.md
       - Give to the Gardens Programme.md
       - Plant A Coral Initiative.md
       - How to take part in Plant A Tree Programme.md
