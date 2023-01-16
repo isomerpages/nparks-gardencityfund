@@ -2,5 +2,6 @@ collections:
   our-partners:
     output: true
     order:
+      - Lifetime Contributors.md
       - Partners.md
       - Partners' Testimonials.md
