@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Garden City Fund
       subtitle: Let's Make Singapore Our City in Nature
-      background: /images/home3.gif
+      background: /images/Banner.gif
       key_highlights:
         - title: About GCF
           description: Who We Are
