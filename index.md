@@ -20,9 +20,9 @@ sections:
         - title: Frequently Asked Questions
           description: ""
           url: /faq
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
+        - title: Give to the Gardens
+          description: Support our UNESCO World Heritage Site
+          url: our-programmes/give-to-the-gardens/
   - infopic:
       title: Be Our Partner
       subtitle: Make an impact
