@@ -4,9 +4,6 @@ permalink: /our-programmes/plant-a-coral/
 description: ""
 third_nav_title: Conserving our Corals
 ---
-
-
-
 Caring and conserving our marine biodiversity is the social responsibility of every individual.
 
 The Garden City Fund’s Plant-A-Coral, Seed-A-Reef Programme is a platform for organisations and individuals to support the habitat enhancement efforts at the Sisters’ Islands Marine Park.
@@ -15,7 +12,7 @@ The Programme aims to enhance our marine biodiversity by providing areas for mar
 
 # Process of Reef Enhancement
 
-Insert Step by Step image
+![](/images/Plant%20a%20Coral.png)
 
 Plant-A-Coral Initiative
 ------------------------
@@ -55,4 +52,3 @@ More REUs will be put up for sponsorship in subsequent phases of the Seed-A-Reef
 
 In partnership with
 ![HSBC logo](https://www.gardencityfund.gov.sg/-/media/gcf/logos/in_partnership_with_hsbc_cmyk.ashx?h=106&w=200&hash=7E42CC4021EB4D42BA652C7AF36510CD)
-
