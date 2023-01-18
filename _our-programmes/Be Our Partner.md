@@ -3,9 +3,6 @@ title: Be Our Partner
 permalink: /our-programmes/be-our-partner/
 description: ""
 ---
-
-
-
 As a responsible business and individual looking to create a sustainable future and a viable environment, you are one of the key custodians of our City in Nature.  
   
 Together, we can make a positive impact in this City in Nature that we work, live and play in.
@@ -47,4 +44,4 @@ Together, we can make a positive impact in this City in Nature that we work, liv
 Support Our Projects
 --------------------
 
-Contact us at [garden\_city\_fund@nparks.gov.sg](mailto:garden_city_fund@nparks.gov.sg) to find out more about the partnership opportunities.
+Contact us at [garden_city_fund@nparks.gov.sg](mailto:garden_city_fund@nparks.gov.sg) to find out more about the partnership opportunities.
