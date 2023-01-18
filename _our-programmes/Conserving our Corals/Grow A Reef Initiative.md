@@ -61,10 +61,10 @@ It just takes 2 simple steps:
 *   Step 1: Complete this form ([Grow a Reef Garden Sponsorship Annex A](https://www.gardencityfund.gov.sg/-/media/files/grow-a-reef-garden-sponsorship-annex-a.ashx)) 
 *   Step 2: Mail your cheque, payable to Garden City Fund, with your full name written at the back of the cheque, to:
 
-Garden City Fund  
+**Garden City Fund  
 1 Cluny Road, Singapore Botanic Gardens  
 Singapore 259569  
-Attn: Jacqueline Teo/Jancy Yeo
+Attn: Jacqueline Teo/Jancy Yeo**
 
  With a minimum donation of $20,000, all proceeds will go towards the construction of several reef structures, as well as programmes such as monitoring, research, education and public outreach activities. If you are donating as an organisations, your company will be entitled to a 2.5 time tax deduction.
 
