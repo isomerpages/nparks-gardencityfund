@@ -134,3 +134,41 @@ Care has been taken to select the native tree species from four botanical famili
 STMicroelectronics's contribution supported the costs of implementing the tree-planting project, installing educational signs and organising educational programmes for the public.
 
 Read [here](https://www.nparks.gov.sg/news/2010/5/singing-forest-launched-to-boost-biodiversity-in-urban-areas) for more information.
+
+---
+
+# The TreeTop Walk
+
+<b>Partnership</b><br>
+* **The Hongkong and Shanghai Banking Corporation Limited (HSBC)**<br>
+S$300,000 to support programmes at the TreeTop Walk
+
+<b>About the Project</b><br>
+The first of its kind in Singapore and in the region, this free-standing suspension bridge connects the two highest points in the Centre Catchment Nature Reserve.
+
+The suspension bridge offers a bird's eye view of the forest canopy. One can also enjoy the panoramic view of the verdant greenery of the Nature Reserve and the placid waters of the Upper Peirce Reservoir.
+
+The total length of the walkway is about 250 m and its height from the forest floor varies, with the highest point at 25 m.
+
+The TreeTop Walk, besides providing another avenue for nature recreation for Singaporeans, also plays an important role in forest canopy research – an area many researchers were not able to study previously because of the lack of access.
+
+HSBC and NParks established the HSBC-GCF TreeTop Walk Fund to support a host of programmes and activities for conservation, education and outreach, including programmes for school children, workshops for teachers, training of nature guides as well as the production of educational materials.
+
+Read more [here](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/central-catchment-nature-reserve/treetop-walk).
+
+---
+# Yishun Park Dipterocarp Arboretum project – Raising the Forest Giants
+<b>Partnership</b><br>
+* **Banyan Tree Holdings Limited**<br>
+S$160,000 to support the cost of implementing Singapore's first Dipteropcarp arboretum and its educational activities.
+
+<b>About the Project</b><br>
+Towering nearly 80 m high, Dipterocarps are iconic trees unique to this region and form the backbone of the Indo-Malayan rainforests. However, many of these forests have diminished over the years.
+
+To highlight the biodiversity of these majestic giants in an urban area, Singapore's first Dipterocarp Arboretum was set up in Yishun Park. Showcasing more than 800 trees of over 70 species, the Arboretum serves as a living gallery of trees for education and research benefiting our community today and for generations to come.
+
+Visitors to Yishun Park can learn more about this unique family of rainforest trees. The Arboretum is part of the NParks' initiative to enhance biodiversity in urban areas.
+
+Banyan Tree's contribution supported the costs of implementing the project, installing educational signage, and organising educational programmes for the public, including guided walks and tree hunts. The arboretum was officially opened on 10 July 2008.
+
+Read more [here](https://www.nparks.gov.sg/news/2008/7/singapores-first-dipterocarp-arboretum-at-yishun-park).
