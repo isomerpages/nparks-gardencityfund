@@ -34,9 +34,7 @@ Contribute to your City in Nature by making an outright donation towards our con
 |[Cheque](/files/GCF%20cheque%20donation%20online%20form.pdf)|
 |[GIRO](/files/Giro%20Form.pdf)|
 
-(Sample)
-[![](/images/Banner1.gif)](www.gardencityfund.gov.sg)
 
-<small>Note: All donations to Garden City Fund are eligible for 2.5 times tax deduction, with a valid NRIC/FIN number (individual) or local UEN/Business Registration Number (organisation). We will provide your details to IRAS. Tax-deduction for your donation will automatically be included in your tax assessment.
+Note: All donations to Garden City Fund are eligible for 2.5 times tax deduction, with a valid NRIC/FIN number (individual) or local UEN/Business Registration Number (organisation). We will provide your details to IRAS. Tax-deduction for your donation will automatically be included in your tax assessment.
 
-In support of green efforts, we will not be issuing any receipts for donations received, unless upon request. If you require printed receipts, please send us an email at gardencityfund@nparks.gov.sg.</small>
+In support of green efforts, we will not be issuing any receipts for donations received, unless upon request. If you require printed receipts, please send us an email at garden_city_fund@nparks.gov.sg.
