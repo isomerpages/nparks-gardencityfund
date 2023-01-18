@@ -4,9 +4,8 @@ permalink: /our-programmes/Collaborations/valueadded-enhancements/
 description: ""
 third_nav_title: Existing Collaborations
 ---
-
 # Butterfly Garden at Alexandra Canal Linear Park
------------------------------------------------
+
 <b>Partnership</b><br>
 * **Sharp Roxy**<br>
 S$12,000 to set up a butterfly garden at Alexandra Canal Linear Park
@@ -18,7 +17,7 @@ The Garden's star-shaped design was inspired by the winning entry submitted by S
 
 ---
 # Jacob Ballas Children's Garden
-------------------------------
+
 <b>Partnership</b><br>
 * **Jacob Ballas Trust Fund**<br>
 Over S$3 million to make possible Asia's first children's garden
@@ -38,7 +37,7 @@ Visit Jacob Ballas Children's Garden website [here](https://www.nparks.gov.sg/s
 
 ---
 # Mingxin Foundation Rambler's Ridge at Gallop Extension
-------------------------------------------------------
+
 <b>Partnership</b><br>
 * **Mingxin Foundation**
 $1.2 million to develop the Mingxin Foundation Rambler’s Ridge, allowing visitors to learn and get up close and personal with forest ecology
@@ -52,7 +51,7 @@ The ridge-top hiking trail on the Rambler’s Ridge provides adventure seekers a
 
 ---
 # OCBC Arboretum at Gallop Extension
-----------------------------------
+
 <b>Partnership</b><br>
 * **OCBC Bank**<br>
 $4 million for the development of and outreach programming at the OCBC Arboretum, home to 2,000 specimens of over 200 species of dipterocarps, and the upcoming Forest Discovery Centre @OCBC Arboretum.
