@@ -12,17 +12,13 @@ Sembcorp Industries, Group President & CEO<br>
 Shaw Foundation, Chairman<br>
 <i>The Shaw Foundation contributed to the Symphony stage because music is one of the common bonds between the rich and the poor, the old and the young. Music should be brought to everyone. We will be participating in the Garden City Fund so that future generations will have the heritage of this garden to enjoy. It is important to realise it takes a lot of money to upkeep this garden, not only for this generation but for the next.</i>
 
-Shell
+**Shell**<br>
+Shell, Chairman<br>
+<i>This marine biodiversity survey is a milestone for Singapore. It provides Shell the opportunity to contribute resources, including our staff who volunteer as surveyors. The Shell Visiting Scientists Programme brings expertise from globally renowned scientists to support our scientists and volunteers in this work, and also builds knowledge and capability. Protecting biodiversity is an important factor when we consider any major project, whether it be new or an expansion of existing operations. This is integrated with the way we operate. Early in these projects, we consider the impact on biodiversity, develop action plans, and if needed we collaborate with experts to help protect areas with rich and delicate eco-systems. This protection of biodiversity makes business sense for Shell. It ensures we start our projects on the right footing, and reduces operational and financial risk from late changes. It helps to build trust with regulators and the community, and helps to make us the first choice as business partners. It is also motivating for our staff.</i>
 
-Shell, Chairman
-
-This marine biodiversity survey is a milestone for Singapore. It provides Shell the opportunity to contribute resources, including our staff who volunteer as surveyors. The Shell Visiting Scientists Programme brings expertise from globally renowned scientists to support our scientists and volunteers in this work, and also builds knowledge and capability. Protecting biodiversity is an important factor when we consider any major project, whether it be new or an expansion of existing operations. This is integrated with the way we operate. Early in these projects, we consider the impact on biodiversity, develop action plans, and if needed we collaborate with experts to help protect areas with rich and delicate eco-systems. This protection of biodiversity makes business sense for Shell. It ensures we start our projects on the right footing, and reduces operational and financial risk from late changes. It helps to build trust with regulators and the community, and helps to make us the first choice as business partners. It is also motivating for our staff.
-Singapore Oxygen Air Liquide Pte Ltd
-
-Singapore Oxygen Air Liquide Pte Ltd, Managing Director
-
-Respect and preservation of the environment are at the heart of the Air Liquide Group's concerns and the creation of the Air Liquide Foundation was very much in line with this commitment. Air Liquide's gases are used to protect lives and support technologies that contribute to environmental protection. This project has strong synergies with our environmental objectives and we are proud to be associated with this meaningful project.
-
+**Singapore Oxygen Air Liquide Pte Ltd**
+<br>Singapore Oxygen Air Liquide Pte Ltd, Managing Director
+<br><i>Respect and preservation of the environment are at the heart of the Air Liquide Group's concerns and the creation of the Air Liquide Foundation was very much in line with this commitment. Air Liquide's gases are used to protect lives and support technologies that contribute to environmental protection. This project has strong synergies with our environmental objectives and we are proud to be associated with this meaningful project.</i>**
 Singapore Oxygen Air Liquide Pte Ltd
 
 Singapore Oxygen Air Liquide Pte Ltd, Managing Director
