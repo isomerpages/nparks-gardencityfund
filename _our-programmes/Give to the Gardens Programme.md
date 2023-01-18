@@ -3,12 +3,6 @@ title: Give to the Gardens Programme
 permalink: /our-programmes/give-to-the-gardens/
 description: ""
 ---
-
-
-
-
-
-
 Think "green" and show extra love for our environment by pledging a donation towards the Give To The Gardens Programme at the Singapore Botanic Gardens.
 
 The programme is a platform for individuals and businesses to make a contribution in support of our UNESCO World Heritage Site.
@@ -32,6 +26,6 @@ Your donation will entitle you to a 2.5 times tax deduction, with a valid NRIC/F
 
 *Based on total donations received on annual basis.
 
-For a list of tenants and benefits, please click [**here**](https://www.gardencityfund.gov.sg/-/media/gcf/documents/list-of-tenants-and-benefits.ashx).
+For a list of tenants and benefits, please click [here](/files/List%20of%20Tenants%20and%20Benefits.pdf).
 
 **IMPORTANT**: By donating, you are consenting to be enrolled into the Give to the Gardens Programme and to be bound by the Terms and Conditions of the Give to the Gardens Programme.
