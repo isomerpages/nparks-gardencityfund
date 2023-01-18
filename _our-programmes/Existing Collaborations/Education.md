@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Existing Collaborations
 ---
 # Nature Keeper Programme
------------------------
 <b>Partnership</b><br>
 * **Mitsubishi Corporation**<br>
 S$55,000 to fund the Programme
@@ -20,7 +19,7 @@ Designed to stimulate the interest of the young and inculcate in them an appreci
 ---
 
 # Migratory Birds of Sungei Buloh Wetland Reserve (Publication)
--------------------------------------------------------------
+
 <b>Partnership</b><br>
 * **Grand Hyatt Singapore**<br>
 S$14,731 (USD$10,000) to fund the cost of producing and printing the Migratory Birds of Sungei Buloh Wetland Reserve (1st edition).
