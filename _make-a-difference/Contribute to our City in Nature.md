@@ -20,9 +20,9 @@ Provide us your full name as in NRIC/FIN and your NRIC/FIN number. We will proce
 
 Provide us your company registered full name and UEN number issued by ACRA/ROC/ROB. We will submit your information to IRAS and you can proceed to claim the tax deduction in your tax returns. You are not required to support your claim with the donation receipt.
 
-For more details on donations to charities and tax deductions, please visit IRAS portal here.
+For more details on donations to charities and tax deductions, please visit IRAS portal [here](https://www.iras.gov.sg/irashome/Other-Taxes/Charities/Donations-and-Tax-Deductions/).
 
-If you are our existing donor and wish to inform us of any changes in personal particulars, pledge or payment details, please send us an email at garden\_city\_fund@nparks.gov.sg.
+If you are our existing donor and wish to inform us of any changes in personal particulars, pledge or payment details, please send us an email at garden_city_fund@nparks.gov.sg.
 
 ### Make your donation now
 
@@ -35,9 +35,9 @@ Contribute to your City in Nature by making an outright donation towards our con
 |Cheque|
 |GIRO|
 
+(Sample)
+[![](/images/Banner1.gif)](www.gardencityfund.gov.sg)
 
+<small>Note: All donations to Garden City Fund are eligible for 2.5 times tax deduction, with a valid NRIC/FIN number (individual) or local UEN/Business Registration Number (organisation). We will provide your details to IRAS. Tax-deduction for your donation will automatically be included in your tax assessment.
 
-
-_Note: All donations to Garden City Fund are eligible for 2.5 times tax deduction, with a valid NRIC/FIN number (individual) or local UEN/Business Registration Number (organisation). We will provide your details to IRAS. Tax-deduction for your donation will automatically be included in your tax assessment._
-
-_In support of green efforts, we will not be issuing any receipts for donations received, unless upon request. If you require printed receipts, please send us an email at garden_city_fund@nparks.gov.sg._
+In support of green efforts, we will not be issuing any receipts for donations received, unless upon request. If you require printed receipts, please send us an email at gardencityfund@nparks.gov.sg.</small>
