@@ -33,6 +33,8 @@ As of May 2013, the project has collected some 30,000 specimens through surveys 
 
 Read more [here](http://www.nparks.gov.sg/cmbs/).
 
+---
+
 # Coral Nursery
 <b>Partnership</b><br>
 * **Keppel Group**<br>
@@ -53,7 +55,8 @@ Coral fragments that have been successfully grown in the coral nursery are trans
 
 Read more [here](http://mygreenspace.nparks.gov.sg/a-helping-hand-for-local-reefs/).
 
-# Mangorve Biodiversity Monitoring Study
+---
+# Mangrove Biodiversity Monitoring Study
 
 <b>Partnership</b><br>
 * **Panasonic**<br>
