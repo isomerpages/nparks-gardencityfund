@@ -101,3 +101,36 @@ As the number of giant trees has dwindled within the region, the Sembcorp Forest
 
 Read more [here](https://www.nparks.gov.sg/news/2010/4/new-arboretum-of-giant-trees-launched-at-southern-ridges).
 
+# The Shaw Foundation Symphony Stage
+<b>Partnership</b><br>
+* **Shaw Foundation**<br>
+S$1.5 million to redevelop the Shaw Foundation Symphony Stage
+
+<b>About the Project</b><br>
+The stage is an important icon and a much-loved feature in the Singapore Botanic Gardens since the 1990s. It has brought together a diversity of talents who entertained over millions of visitors.
+
+In 2005, the stage was redeveloped at a cost of S$1.5 million to cater to a wider variety of performances.
+
+Named the Shaw Foundation Symphony Stage in appreciation of the sponsorship from the Shaw Foundation, it now features a bigger stage area, improved sound system, stage lighting and back-of-house facilities.
+
+More than a concert venue, the Shaw Stage is also a civic sculpture. The design of the stage was inspired by its beautiful setting in the Palm Valley. The structure was built as two overlapping petal-like forms growing out of a floral stem, echoing the organic forms of flowers and leaves. The bigger petal shelters the stage while the smaller one at the rear houses the changing area and support services.
+
+The petal-like form of the roof was constructed from free-standing steel ribs and clad with a titanium zinc roof to achieve the complex curvature. The ribbed texture of the roof also evokes the venation of flowers and leaves.
+
+Visit the Singapore Botanic Gardens [website](http://www.sbg.org.sg/) and Facebook [page](https://www.facebook.com/SingaporeBotanicGardens).
+
+# The Singing Forest at Southern Ridges
+<b>Partnership</b><br>
+* **ST Microelectronics**<br>
+S$150,000 to implement the planting efforts to create a forest that birds would be attracted to, and related educational initiatives for public.
+
+<b>About the Project</b><br>
+The Singing Forest is part of the NParks' plans to enhance biodiversity within our urban areas. Showcasing 38 native tree species that originally dominated our regional landscape before urbanisation, the Singing Forest project will intensify the already high diversity of native bird species in the Southern Ridges.
+
+Visitors to Southern Ridges will, in time to come, enjoy a wonderful chorus of birds singing at dawn when the collection of bird-attracting tree species is established.
+
+Care has been taken to select the native tree species from four botanical families that will provide a wide variety of suitable food sources as well as shelter and nesting areas for native birds. When established, the additional planting of suitable tree species will eventually provide an opportunity for visitors to learn and appreciate the diverse collection of birds and trees in Singapore.
+
+STMicroelectronics's contribution supported the costs of implementing the tree-planting project, installing educational signs and organising educational programmes for the public.
+
+Read [here](https://www.nparks.gov.sg/news/2010/5/singing-forest-launched-to-boost-biodiversity-in-urban-areas) for more information.
