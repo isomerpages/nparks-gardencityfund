@@ -17,6 +17,8 @@ The two-year programme (2010-2012) brought students through a series of theoreti
 
 Designed to stimulate the interest of the young and inculcate in them an appreciation of our forests, the programme was carried out at the Bukit Timah and Central Catchment Nature Reserves.
 
+---
+
 # Migratory Birds of Sungei Buloh Wetland Reserve (Publication)
 -------------------------------------------------------------
 <b>Partnership</b><br>
