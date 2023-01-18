@@ -21,7 +21,7 @@ Your donation will support conservation and research efforts including:
 Conservation starts with you!
 You may make a donation via:
 
-* Credit card on Giving.sg
+* Credit card on [Giving.sg](https://www.giving.sg/garden-city-fund/supportconservationefforts)
 * Cheque<br>
 
 For cheque donations, mail the cheque, payable to Garden City Fund, with your full name/company name, NRIC/FIN/UEN and purpose of donation written at the back of the cheque, to:
