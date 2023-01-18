@@ -8,31 +8,31 @@ third_nav_title: Existing Collaborations
 <b>Partnership</b><br>
 | Amount Above S$50,000 (cash and in-kind)  |
 | -------- |
-| Suntec Singapore  
-City Developments Limited  
-Moove Media Pte Ltd  
-Clarins Singapore  
-Sony Singapore Marketing Company  
-Korean Air Lines Co., Ltd.  
+| Suntec Singapore  |
+City Developments Limited  |
+Moove Media Pte Ltd  |
+Clarins Singapore  |
+Sony Singapore Marketing Company  |
+Korean Air Lines Co., Ltd.  |
 StarHub Limited  |
 
 
 | Amount Below S$50,000 (cash and in-kind) | 
 | -------- | 
-| Singapore Press Holdings Limited  
-Greenology Pte Ltd  
-Esmond Landscape and Horticultural Pte Ltd  
-Isetan (Singapore) Limited  
-Culina Pte Ltd  
-Singapore Airlines Limited  
-Yeo Hiap Seng Limited  
-Streetdirectory Pte Ltd  
-NESCAFÉ  
-Bai-Quo Pte Ltd  
-Green Turf Pte Ltd  
-Kranji Countryside Association  
-NTUC Fairprice Co-operative Ltd  
-Culina Pte Ltd  
+| Singapore Press Holdings Limited  |
+Greenology Pte Ltd  |
+Esmond Landscape and Horticultural Pte Ltd  |
+Isetan (Singapore) Limited  |
+Culina Pte Ltd  |
+Singapore Airlines Limited  |
+Yeo Hiap Seng Limited  |
+Streetdirectory Pte Ltd  |
+NESCAFÉ  |
+Bai-Quo Pte Ltd  |
+Green Turf Pte Ltd  |
+Kranji Countryside Association  |
+NTUC Fairprice Co-operative Ltd  |
+Culina Pte Ltd  |
 IKEA Singapore |
 
 <b>About the Project</b><br>
