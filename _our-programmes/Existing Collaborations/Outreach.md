@@ -6,6 +6,7 @@ third_nav_title: Existing Collaborations
 ---
 # Singapore Garden Festival (on-going)
 <b>Partnership</b><br>
+
 | Amount Above S$50,000 (cash and in-kind)  |
 | -------- |
 | Suntec Singapore |
