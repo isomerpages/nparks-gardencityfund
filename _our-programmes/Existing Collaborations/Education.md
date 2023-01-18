@@ -30,6 +30,6 @@ Singapore is a transit hub for travellers of all kinds – even avian ones. The 
 
 An ASEAN Heritage Park, the Wetland Reserve is sited along the East Asian-Australasian Flyway Partnership, making it a unique asset for conservation, education and recreation in a land-scarce city-state. It is also home to a wide variety of flora and fauna, including over 220 species of birds.
 
-The first edition of the guidebook documents 108 species of migratory birds which have been sighted at Sungei Buloh Wetland Reserve, with photos and descriptions of their behaviour. It is a useful resource to complement tours, workshops and talks at the Wetland Reserve, and will help visitors to learn about and appreciate these fascinating birds.
+The first edition of the guidebook documents 108 species of migratory birds which have been sighted at Sungei Buloh Wetland Reserve (SBWR), with photos and descriptions of their behaviour. It is a useful resource to complement tours, workshops and talks at the Wetland Reserve, and will help visitors to learn about and appreciate these fascinating birds.
 
 In addition, Hyatt also supported the project by providing guided tours of SBWR for their hotel guests led by their staff volunteers.
