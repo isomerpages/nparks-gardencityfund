@@ -2,5 +2,6 @@ collections:
   our-partners:
     output: true
     order:
+      - Partners' Testimonials/.keep
       - Lifetime Contributors.md
       - GCF Partners.md
