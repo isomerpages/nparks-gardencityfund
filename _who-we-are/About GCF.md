@@ -12,7 +12,7 @@ Let's Make Singapore our City in Nature
 
 Garden City Fund (GCF) is a registered charity and IPC in the Republic of Singapore. It was established in 2002 under our founding patron, Mr Lee Kuan Yew.  
   
-GCF is established by the National Parks Board (NParks).  
+GCF is established by the [National Parks Board (NParks)](https://www.nparks.gov.sg/).  
   
 100% of donations raised go towards projects it supports.  
   
@@ -28,4 +28,3 @@ Through partnerships with organisations and individuals, GCF provides a platfo
 By engaging the community, we hope to cultivate a love for the environment and promote a sense of ownership in our natural heritage.
 
 <p>
-
