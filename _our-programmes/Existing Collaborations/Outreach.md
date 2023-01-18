@@ -8,13 +8,13 @@ third_nav_title: Existing Collaborations
 <b>Partnership</b><br>
 | Amount Above S$50,000 (cash and in-kind)  |
 | -------- |
-| Suntec Singapore  |
-City Developments Limited  |
-Moove Media Pte Ltd  |
-Clarins Singapore  |
-Sony Singapore Marketing Company  |
-Korean Air Lines Co., Ltd.  |
-StarHub Limited  |
+| Suntec Singapore |
+City Developments Limited |
+Moove Media Pte Ltd |
+Clarins Singapore |
+Sony Singapore Marketing Company|
+Korean Air Lines Co., Ltd.|
+StarHub Limited |
 
 
 | Amount Below S$50,000 (cash and in-kind) | 
