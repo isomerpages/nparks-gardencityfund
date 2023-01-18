@@ -57,7 +57,7 @@ Read more [here](http://mygreenspace.nparks.gov.sg/a-helping-hand-for-local-ree
 
 <b>Partnership</b><br>
 * **Panasonic**<br>
-* S$15,000 cash and in-kind support for the survey. Panasonic's  employees also volunteered their time to carry out 16 survey sessions conducted over the two years.
+S$15,000 cash and in-kind support for the survey. Panasonic's  employees also volunteered their time to carry out 16 survey sessions conducted over the two years.
 
 <b>About the Project</b>
 NParks carried out the first mangrove biodiversity monitoring study in Pasir Ris Park's mangrove forest. The study, which commenced in March 2012, consisted of 16 biodiversity monitoring sessions conducted over two years. It included the monitoring and data collection of mangrove trees, snails and mudskippers.
