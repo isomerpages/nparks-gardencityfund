@@ -28,12 +28,11 @@ If you are our existing donor and wish to inform us of any changes in personal p
 
 Contribute to your City in Nature by making an outright donation towards our conservation, outreach and education efforts.
 
-
 |Donate now by |
 | -------- | 
 |[Credit Card](https://www.giving.sg/garden-city-fund)|
-|Cheque|
-|GIRO|
+|[Cheque](/files/GCF%20cheque%20donation%20online%20form.pdf)|
+|[GIRO](/files/Giro%20Form.pdf)|
 
 (Sample)
 [![](/images/Banner1.gif)](www.gardencityfund.gov.sg)
