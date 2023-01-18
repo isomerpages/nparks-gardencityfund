@@ -14,15 +14,12 @@ sections:
         - title: Plant A Tree Programme
           description: Enhance Singapore's Greenery
           url: /make-a-difference/Plant-A-Tree-Programme/about/
-        - title: Make A Difference
-          description: Contribute and Leave a Legacy
-          url: /make-a-difference/
-        - title: Frequently Asked Questions
-          description: ""
-          url: /faq
         - title: Give to the Gardens
           description: Support our UNESCO World Heritage Site
           url: our-programmes/give-to-the-gardens/
+        - title: Make A Difference
+          description: Contribute and Leave a Legacy
+          url: /make-a-difference/
   - infopic:
       title: Be Our Partner
       subtitle: Make an impact
