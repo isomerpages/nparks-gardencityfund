@@ -18,39 +18,28 @@ Shell, Chairman<br>
 
 **Singapore Oxygen Air Liquide Pte Ltd**
 <br>Singapore Oxygen Air Liquide Pte Ltd, Managing Director
-<br><i>Respect and preservation of the environment are at the heart of the Air Liquide Group's concerns and the creation of the Air Liquide Foundation was very much in line with this commitment. Air Liquide's gases are used to protect lives and support technologies that contribute to environmental protection. This project has strong synergies with our environmental objectives and we are proud to be associated with this meaningful project.</i>**
-Singapore Oxygen Air Liquide Pte Ltd
+<br><i>Respect and preservation of the environment are at the heart of the Air Liquide Group's concerns and the creation of the Air Liquide Foundation was very much in line with this commitment. Air Liquide's gases are used to protect lives and support technologies that contribute to environmental protection. This project has strong synergies with our environmental objectives and we are proud to be associated with this meaningful project.</i><br>
 
-Singapore Oxygen Air Liquide Pte Ltd, Managing Director
+**Singapore Oxygen Air Liquide Pte Ltd**
+<br>Singapore Oxygen Air Liquide Pte Ltd, Managing Director<br>
+<i>In commemorating our centennial presence in Singapore, we find it appropriate to collaborate with the Garden City Fund to support their admirable efforts to drive key environmental concerns. Air Liquide's gases are used to protect lives and support technologies that contribute to environment protection. Similarly, many of the gases we supply to our customers in Singapore are used to decrease polluting emissions or to produce energies of tomorrow. In addition, we believe that we can always do more and as such, we are constantly looking at different ways to make meaningful contributions to the environmental landmark in Singapore and this opportunity could not have come at a better time.</i><br>
 
-In commemorating our centennial presence in Singapore, we find it appropriate to collaborate with the Garden City Fund to support their admirable efforts to drive key environmental concerns. Air Liquide's gases are used to protect lives and support technologies that contribute to environment protection. Similarly, many of the gases we supply to our customers in Singapore are used to decrease polluting emissions or to produce energies of tomorrow. In addition, we believe that we can always do more and as such, we are constantly looking at different ways to make meaningful contributions to the environmental landmark in Singapore and this opportunity could not have come at a better time,
+**Singapore Press Holdings (SPH) Foundation**<br>
+Singapore Press Holdings (SPH) Foundation, former Chairman<br>
+<i>With the close partnership between SPH Foundation and NParks, I am sure the programme will flourish in the years to come. I also hope that more special needs students will venture out of their classrooms to learn about the wonders of nature.</i><br>
 
-Singapore Press Holdings (SPH) Foundation
+**St Theresa's Home**<br>
+St Theresa's Home, Administrator<br>
+<i>This is a meaningful programme which will enable our residents to get out of their homes and enjoy nature. Nature brings serenity and vitality to our residents.</i><br>
 
-Singapore Press Holdings (SPH) Foundation, former Chairman
+**Starhub Ltd**<br>
+Starhub Ltd, Senior Manager, CSR<br>
+<i>StarHub recognises the need to act in an environmentally responsible manner in order to minimise our overall footprint impacting the environment. One way we do this is by supporting environmental conservation initiatives, in close partnership with local communities. We also try to implement educational programmes to raise environmental awareness among our employees. Through our Seeds of Hope Edible Community in Bloom Garden for the Singapore Boys Hostel and the planting of native tree species at Pulau Ubin; we have been happy to do our part to conserve our natural environment. We look forward to continuing our partnership with the Garden City Fund.</i><br>
 
-With the close partnership between SPH Foundation and NParks, I am sure the programme will flourish in the years to come. I also hope that more special needs students will venture out of their classrooms to learn about the wonders of nature.
+**Sumitomo Chemical Singapore Pte Ltd**<br>
+Sumitomo Chemical Singapore Pte Ltd, Managing Director<br>
+<i>Plant-A-Tree Programme provides an opportunity for employees and family members of Sumitomo Chemical & Affiliates to contribute towards the enhancement of green spaces in Singapore and also foster a culture of corporate social responsibility & environmental responsibility.</i><br>
 
-St Theresa's Home
-
-St Theresa's Home, Administrator
-
-This is a meaningful programme which will enable our residents to get out of their homes and enjoy nature. Nature brings serenity and vitality to our residents.
-
-Starhub Ltd
-
-Starhub Ltd, Senior Manager, CSR
-
-StarHub recognises the need to act in an environmentally responsible manner in order to minimise our overall footprint impacting the environment. One way we do this is by supporting environmental conservation initiatives, in close partnership with local communities. We also try to implement educational programmes to raise environmental awareness among our employees. Through our Seeds of Hope Edible Community in Bloom Garden for the Singapore Boys Hostel and the planting of native tree species at Pulau Ubin; we have been happy to do our part to conserve our natural environment. We look forward to continuing our partnership with the Garden City Fund.
-
-Sumitomo Chemical Singapore Pte Ltd
-
-Sumitomo Chemical Singapore Pte Ltd, Managing Director
-
-Plant-A-Tree Programme provides an opportunity for employees and family members of Sumitomo Chemical & Affiliates to contribute towards the enhancement of green spaces in Singapore and also foster a culture of corporate social responsibility & environmental responsibility.
-
-TANGS
-
-TANGS, CEO
-
-We are truly delighted to join NParks and Clarins in their efforts at orchid conservation. As a company with nearly 80 years of history, we understand the importance of preserving our heritage for generations to come. The reintroduction of rare orchids into the cityscape will not only help in the promotion of orchid conservation, but is a great way for the public to experience the wonders of nature in the very heart of Orchard Road.
+**TANGS**<br>
+TANGS, CEO<br>
+<i>We are truly delighted to join NParks and Clarins in their efforts at orchid conservation. As a company with nearly 80 years of history, we understand the importance of preserving our heritage for generations to come. The reintroduction of rare orchids into the cityscape will not only help in the promotion of orchid conservation, but is a great way for the public to experience the wonders of nature in the very heart of Orchard Road.</i>
