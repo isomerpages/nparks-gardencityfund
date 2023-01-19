@@ -85,7 +85,7 @@ Visit the Wetland Reserve's website [here](https://www.nparks.gov.sg/gardens-pa
 ---
 # Sembcorp Forest of Giants
 <b>Partnership</b><br>
-* **Sembcorp Industries**
+* **Sembcorp Industries**<br>
 S$1 million to set up a living gallery of giant tree species which are threatened in the region, and to fund green educational programmes at the Southern Ridges to benefit the community.
 
 <b>About the Project</b>
