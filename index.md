@@ -32,7 +32,6 @@ sections:
       alt: Image alt text
   - infobar:
       title: Be Our Partner
-      subtitle: City in Nature
       description: Create a sustainable future and a viable environment
       button: Support us
       url: our-programmes/be-our-partner/
