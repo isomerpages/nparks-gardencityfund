@@ -28,11 +28,10 @@ If you are our existing donor and wish to inform us of any changes in personal p
 
 Contribute to your City in Nature by making an outright donation towards our conservation, outreach and education efforts.
 
-|Donate now by |
-| -------- | 
-|[Credit Card](https://www.giving.sg/garden-city-fund)|
-|[Cheque](/files/GCF%20cheque%20donation%20online%20form.pdf)|
-|[GIRO](/files/Giro%20Form.pdf)|
+**Donate now by**
+* [Credit Card](https://www.giving.sg/garden-city-fund)<br>
+* [Cheque](/files/GCF%20cheque%20donation%20online%20form.pdf)<br>
+* [GIRO](/files/Giro%20Form.pdf)
 
 
 Note: All donations to Garden City Fund are eligible for 2.5 times tax deduction, with a valid NRIC/FIN number (individual) or local UEN/Business Registration Number (organisation). We will provide your details to IRAS. Tax-deduction for your donation will automatically be included in your tax assessment.
