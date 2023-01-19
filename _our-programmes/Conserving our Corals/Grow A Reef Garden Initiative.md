@@ -4,8 +4,6 @@ permalink: /our-programmes/Conserving-our-Corals/grow-a-reef/
 description: ""
 third_nav_title: Conserving our Corals
 ---
-
-
 Conserving our coral reefs
 --------------------------
 
@@ -16,7 +14,7 @@ Unfortunately, coral reefs are under increasing threats from both natural and ma
 What is this Initiative About?
 ------------------------------
 
-A collaboration between JTC and the National Parks Board (NParks), the “Grow-a-Reef Garden Initiative aims to support the installation of purpose-built artificial reef units to enhance marine biodiversity at the Sisters’ Islands Marine Park.
+A collaboration between JTC and the National Parks Board (NParks), the “Grow-a-Reef Garden" Initiative aims to support the installation of purpose-built artificial reef units to enhance marine biodiversity at the Sisters’ Islands Marine Park.
 
 This is the country’s largest reef garden project to date. The large 3-story artificial reef structures were pre-fabricated off-site and sunk in the waters off Small Sister’s Island, within the Sisters’ Islands Marine Park.
 
