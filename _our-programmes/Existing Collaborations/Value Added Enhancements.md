@@ -88,7 +88,7 @@ Visit the Wetland Reserve's website [here](https://www.nparks.gov.sg/gardens-pa
 * **Sembcorp Industries**<br>
 S$1 million to set up a living gallery of giant tree species which are threatened in the region, and to fund green educational programmes at the Southern Ridges to benefit the community.
 
-<b>About the Project</b>
+<b>About the Project</b><br>
 Visitors to the Southern Ridges can now learn more about a special collection of giant trees native to the region. Named the Sembcorp Forest of Giants in appreciation of a sponsorship of S$1 million from Sembcorp Industries, the arboretum - a living gallery of trees for education and research is part of the NParks' initiative to enhance biodiversity within urban areas.
 
 The Sembcorp Forest of Giants collection comprises over 600 trees that originally dominated our regional landscape before the advent of urbanisation.
