@@ -23,7 +23,7 @@ sections:
   - infopic:
       title: Research and Outreach Efforts
       subtitle: Support our
-      description: Help protect, conserve and enhance our natural heritage.
+      description: Help protect, conserve and enhance our natural heritage
       button: Donate here
       url: https://www.giving.sg/garden-city-fund
       alt: Image alt text
