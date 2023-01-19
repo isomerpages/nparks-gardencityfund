@@ -21,11 +21,11 @@ sections:
           description: Contribute and Leave a Legacy
           url: /make-a-difference/
   - infopic:
-      title: Be Our Partner
-      subtitle: Make an impact
-      description: Contribute and make a legacy
-      button: Join us
-      url: /partnerships/
+      title: Research and Outreach Efforts
+      subtitle: Support our
+      description: Help protect, conserve and enhance our natural heritage.
+      button: Donate here
+      url: https://www.giving.sg/garden-city-fund
       alt: Image alt text
   - infobar:
       title: Infobar Title
