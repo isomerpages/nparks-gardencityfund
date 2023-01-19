@@ -4,7 +4,7 @@ permalink: /faq/
 description: ""
 ---
 <b>1. What is GCF?</b><br>
-Garden City Fund (GCF) is a registered charity and IPC established by the National Parks Board but managed independently as a charity.  <br>
+Garden City Fund (GCF) is a registered charity and IPC established by the [National Parks Board](nparks.gov.sg) but managed independently as a charity.  <br>
 All donations raised will go towards projects and initiatives supported by (GCF).  <br>
 More information about (GCF) available [here](https://www.gardencityfund.gov.sg/who-we-are/about-gcf).
 
