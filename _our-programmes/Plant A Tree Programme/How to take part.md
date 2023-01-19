@@ -40,6 +40,6 @@ Please take note of the following terms and conditions:
 *   Please respond to our confirmation emails pertaining to your donation and tree planting slots within 1 month.
 *   There will be no postponement after confirmation of planting slots. If you are unable to make it for the tree planting after you have acknowledged the confirmation email, trees will be planted on your behalf.
 *   If the planting has to be cancelled due to heightened Covid-19 measures or inclement weather, trees will be planted on your behalf.
-*   Please note that prevailing safe management measures apply i.e. **maximum of 2 people per tree** **(****of all ages****,** **including children below 12 years old).**
+*   Please note that prevailing safe management measures apply.
 
 _Garden City Fund reserves the right to change the planting site when necessary._
