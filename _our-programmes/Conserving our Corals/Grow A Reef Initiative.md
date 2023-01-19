@@ -58,7 +58,7 @@ How Do I Contribute?
 
 It just takes 2 simple steps:
 
-*   Step 1: Complete this form ([Grow a Reef Garden Sponsorship Annex A](https://www.gardencityfund.gov.sg/-/media/files/grow-a-reef-garden-sponsorship-annex-a.ashx)) 
+*   Step 1: Complete this form ([Grow a Reef Garden Sponsorship Annex A](/files/Grow%20a%20Reef%20Garden%20Sponsorship%20Annex%20A.pdf))
 *   Step 2: Mail your cheque, payable to Garden City Fund, with your full name written at the back of the cheque, to:
 
 **Garden City Fund  
