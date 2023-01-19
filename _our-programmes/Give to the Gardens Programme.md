@@ -24,6 +24,8 @@ Singapore 259569**
 
 Your donation will entitle you to a 2.5 times tax deduction, with a valid NRIC/FIN number (individual) or local UEN/Business Registration Number (organisation).
 
+## Benefits for Donors
+![](/images/Give%20to%20the%20Gardens%20Donor%20info.jpg)
 *Based on total donations received on annual basis.
 
 For a list of tenants and benefits, please click [here](/files/List%20of%20Tenants%20and%20Benefits.pdf).
