@@ -40,7 +40,7 @@ The Plant-A-Tree Programme is a platform for organisations and individuals to ac
 
 With a minimum donation of $300, you can plant one tree in our parks. This amount has been revised due to the increase in cost of trees, especially native trees.
 
-For individual donations, check out the Plant-A-Tree schedule [here](https://gardencityfund.nparks.gov.sg/our-programmes/plant-a-tree/howtotakepart/)
+For individual donations, check out the Plant-A-Tree schedule [here](https://gardencityfund.nparks.gov.sg/our-programmes/plant-a-tree/howtotakepart/).
 
 For private donations with a minimum requirement of 50 trees, please send us an email at [garden_city_fund@nparks.gov.sg](mailto:garden_city_fund@nparks.gov.sg).
 
