@@ -17,9 +17,12 @@ sections:
         - title: Give to the Gardens
           description: Support our UNESCO World Heritage Site
           url: our-programmes/give-to-the-gardens/
-        - title: Make A Difference
-          description: Contribute and Leave a Legacy
-          url: /make-a-difference/
+        - title: Support Our Conservation Efforts
+          description: Conserve our natural heritage
+          url: /our-programmes/conservation-efforts/
+        - title: Orchid Conservation Fund
+          description: Save our native orchids
+          url: our-programmes/orchid-conservation-fund/
   - infopic:
       title: Research and Outreach Efforts
       subtitle: Support our
@@ -28,14 +31,9 @@ sections:
       url: https://www.giving.sg/garden-city-fund
       alt: Image alt text
   - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      title: Be Our Partner
+      subtitle: City in Nature
+      description: Create a sustainable future and a viable environment
+      button: Support us
+      url: our-programmes/be-our-partner/
 ---
