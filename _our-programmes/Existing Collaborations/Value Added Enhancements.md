@@ -39,7 +39,7 @@ Click [here](https://www.nparks.gov.sg/sbg/our-gardens/bukit-timah-core/jacob-b
 # Mingxin Foundation Rambler's Ridge at Gallop Extension
 
 <b>Partnership</b><br>
-* **Mingxin Foundation**
+* **Mingxin Foundation**<br>
 $1.2 million to develop the Mingxin Foundation Rambler’s Ridge, allowing visitors to learn and get up close and personal with forest ecology
 
 <b>About the Project</b><br>
