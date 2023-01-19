@@ -16,6 +16,8 @@ Donations can be made via:
 *   Cheque donation
 *   GIRO donation
 
+[Click here](/make-a-difference/contribute/) for more information on how to donate.
+
 <b>3. What are the other projects that I can support?</b><br>
 There are indeed other projects and initiatives within NParks that you can lend your support. We appreciate both financial support and volunteerism efforts. If you have other projects in mind that you are keen to support, email us at [garden_city_fund@nparks.gov.sg](mailto:garden_city_fund@nparks.gov.sg).
 
