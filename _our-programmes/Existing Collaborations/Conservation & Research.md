@@ -8,7 +8,7 @@ Comprehensive Marine Biodiversity Survey (ongoing, since 2010)
 
 
 <b>Partnership</b><br>
-* **Asia Pacific Breweries (Singapore) Pte Ltd**
+* **Asia Pacific Breweries (Singapore) Pte Ltd**<br>
 S$250,000 to finance the seabed survey and a roving marine biodiversity exhibition
 
 * **HSBC Care for Nature Trust Fund**<br>
