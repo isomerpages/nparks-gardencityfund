@@ -33,7 +33,7 @@ The Jacob Ballas Children's Garden has an annual visitorship of more than 200,00
 
 The estimated cost of expanding the Jacob Ballas Children's Garden is S$4.5 million. This is made possible by NParks and generous support of the Jacob Ballas Trust Fund.
 
-Visit Jacob Ballas Children's Garden website [here](https://www.nparks.gov.sg/sbg/our-gardens/bukit-timah-core/jacob-ballas-childrens-garden).
+Click [here](https://www.nparks.gov.sg/sbg/our-gardens/bukit-timah-core/jacob-ballas-childrens-garden) for more information on Jacob Ballas Children's Garden.
 
 ---
 # Mingxin Foundation Rambler's Ridge at Gallop Extension
