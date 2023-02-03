@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Garden City Fund
       subtitle: Let's Make Singapore Our City in Nature
-      background: /images/Opening2.gif
+      background: /images/Opening3.gif
       key_highlights:
         - title: Plant A Tree Programme
           description: Enhance Singapore's Greenery
