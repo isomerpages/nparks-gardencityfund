@@ -3,9 +3,7 @@ title: About GCF
 permalink: /who-we-are/about-gcf/
 description: ""
 ---
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l6P22HBnZ44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l6P22HBnZ44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Vision
 Let's Make Singapore our City in Nature
