@@ -30,6 +30,7 @@ sections:
       button: Donate here
       url: https://www.giving.sg/garden-city-fund
       alt: Image alt text
+      image: /images/Opening3.gif
   - infobar:
       title: Be Our Partner
       description: Create a sustainable future and a viable environment
