@@ -2,7 +2,7 @@
 title: How to take part
 permalink: /our-programmes/plant-a-tree/howtotakepart/
 description: ""
-third_nav_title: Plant A Tree Programme
+third_nav_title: Plant-A-Tree Programme
 ---
 With every donation of $300, organisations and individuals will be able to plant a tree in one of NParks-managed green spaces. 
 
