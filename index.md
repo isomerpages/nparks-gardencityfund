@@ -2,7 +2,7 @@
 layout: homepage
 title: Garden City Fund
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/Logos/isomer-logo.svg
 permalink: /
 notification: ""
 sections:
@@ -37,3 +37,4 @@ sections:
       button: Support us
       url: our-programmes/be-our-partner/
 ---
+
