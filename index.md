@@ -22,6 +22,7 @@ sections:
         - title: Orchid Conservation Fund
           description: Save our native orchids
           url: our-programmes/orchid-conservation-fund/
+      background: /images/Keppel 21 Nov 19_DSC01731.jpg
   - infopic:
       title: Research and Outreach Efforts
       subtitle: Support our
