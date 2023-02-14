@@ -9,7 +9,6 @@ sections:
   - hero:
       title: Garden City Fund
       subtitle: Let's Make Singapore Our City in Nature
-      background: /images/Keppel 21 Nov 19_DSC01731.jpg
       key_highlights:
         - title: Plant A Tree Programme
           description: Enhance Singapore's Greenery
@@ -37,4 +36,3 @@ sections:
       button: Support us
       url: our-programmes/be-our-partner/
 ---
-
