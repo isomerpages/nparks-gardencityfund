@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Garden City Fund
       subtitle: Let's Make Singapore Our City in Nature
-      background: /images/Bishan-Ang Mo Kio Park.jpg
+      background: /images/Keppel 21 Nov 19_DSC01731.jpg
       key_highlights:
         - title: Plant A Tree Programme
           description: Enhance Singapore's Greenery
