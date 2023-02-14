@@ -25,7 +25,7 @@ Together, we can make a positive impact in this City in Nature that we work, liv
 
 **Conservation & Research Projects**
 
-*   Grow-A-Reef-Garden Initiaive
+*   Grow-A-Reef-Garden Initiative
 *   Habitat Enhancements in Parks
 *   Heritage Tree Scheme
 *   Orchid Conservation Fund
