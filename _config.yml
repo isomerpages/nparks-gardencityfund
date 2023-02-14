@@ -1,6 +1,6 @@
 title: Garden City Fund
 url: https://gardencityfund.nparks.gov.sg
-favicon: /images/gcf.png
+favicon: /images/Logos/gcf.png
 colors:
   primary-color: "#215732"
   secondary-color: "#215732"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d16d8gntgh1e3h.amplifyapp.com
 prod: https://master.d16d8gntgh1e3h.amplifyapp.com
-shareicon: /images/isomer-logo.svg
+shareicon: /images/Logos/isomer-logo.svg
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
