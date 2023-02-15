@@ -10,7 +10,7 @@ sections:
       title: Garden City Fund
       subtitle: Let's Make Singapore Our City in Nature
       key_highlights:
-        - title: Plant A Tree Programme
+        - title: Plant-A-Tree Programme
           description: Enhance Singapore's Greenery
           url: /make-a-difference/Plant-A-Tree-Programme/about/
         - title: Give to the Gardens
