@@ -49,4 +49,4 @@ For private donations with a minimum requirement of 50 trees, please send us an 
 For more information about the Plant-A-Tree Programme, click [here](https://gardencityfund.nparks.gov.sg/our-programmes/plant-a-tree/about).
 
 <b>9. None of my questions were answered. How can I submit query?</b><br>
-Please write in to us at [garden_city_fund@nparks.gov.sg](mailto:garden_city_fund@nparks.gov.sg). Alternatively, you may submit your query via [NParks' feedback form](nparks.gov.sg/feedback).
+Please write in to us at [garden_city_fund@nparks.gov.sg](mailto:garden_city_fund@nparks.gov.sg). Alternatively, you may submit your query via nparks.gov.sg/feedback.
