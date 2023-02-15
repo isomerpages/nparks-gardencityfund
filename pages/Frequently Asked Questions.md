@@ -37,7 +37,7 @@ If you have provided us with your details (Name/NRIC/FIN/UEN Number), we will su
 <b>7. Can I get a refund of my donation?</b><br>
 All donations to Garden City Fund are generally non-refundable unless there is a proven unauthorised usage of credit card. We seek your understanding that donations received may have already been used for the intended projects. On the basis of the foregoing, we will nevertheless review all refund requests on a case-by-case basis. Please write to [garden_city_fund@nparks.gov.sg](mailto:garden_city_fund@nparks.gov.sg) within 30 days from the date the donation was made.
 
-<b>8. What is the Plant-A Tree Programme and how do I donate?</b><br>
+<b>8. What is the Plant-A-Tree Programme and how do I donate?</b><br>
 The Plant-A-Tree Programme is a platform for organisations and individuals to actively participate in the greening of our City in Nature.
 
 With a minimum donation of $300, you can plant one tree in our parks. This amount has been revised due to the increase in cost of trees, especially native trees.
