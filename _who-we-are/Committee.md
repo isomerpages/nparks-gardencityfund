@@ -40,9 +40,10 @@ Members
 **Mr Gerald Tan**  
 <i>Head of Reputational Risk for Asia, Credit Suisse </i>
 
+**Mr Goh Kong Aik** 
 
-**Mr Goh Kong Aik**  
-  
+**Mr Guy Daniel Harvey-Samuel**
+
 **Mr Han Jok Kwang**  
 <i>Business Development Advisor, Schneider Electric</i>
 
