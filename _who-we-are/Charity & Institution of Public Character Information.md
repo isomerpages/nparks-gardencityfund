@@ -1,6 +1,6 @@
 ---
-title: Charity & Institution of Public Character Information
-permalink: /who-we-are/charity-and-institution-of-public-character-information/
+title: Charity & Institution of a Public Character Information
+permalink: /who-we-are/charity-and-institution-of-a-public-character-information/
 description: ""
 ---
 **Charity Registration No.**  
