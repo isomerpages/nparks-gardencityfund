@@ -36,4 +36,7 @@ sections:
       description: Create a sustainable future and a viable environment
       button: Support us
       url: our-programmes/be-our-partner/
+  - resources:
+      title: Partner Collaborations
+      button: Explore our newest projects
 ---
