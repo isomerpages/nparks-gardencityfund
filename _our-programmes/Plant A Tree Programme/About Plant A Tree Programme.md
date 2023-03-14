@@ -37,4 +37,4 @@ Another way to contribute is to donate to the Garden City Fund. The support you 
 Pledge your support 
 --------------------
 
-Please [click here](https://gardencityfund.nparks.gov.sg/our-programmes/plant-a-tree/howtotakepart/) to find out more on how to take part in the Plant-A-Tree Programme.
+Please [click here](https://www.gardencityfund.gov.sg/make-a-difference/contribute-to-our-city-in-nature/plant-a-tree-programme/how-to-take-part) to find out more on how to take part in the Plant-A-Tree Programme.
