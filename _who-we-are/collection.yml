@@ -2,7 +2,7 @@ collections:
   who-we-are:
     output: true
     order:
-      - Donor Impact Report.md
       - About GCF.md
       - Committee.md
       - Charity & Institution of Public Character Information.md
+      - Donor Impact Report.md
