@@ -13,7 +13,7 @@ Why plant more trees in Singapore? Aren't there enough trees already? Well, defi
 
 Trees are like any other living organism, which will grow old and become weak. Hence, in order to sustain our lush greenery, we need to constantly plant new trees.
 
-Plant a tree and enhance Singapore's greenery
+**Plant a tree and enhance Singapore's greenery**<br>
 The aim of this programme is to give you a chance to donate to the cost of a young tree and plant it yourself.
 
 It's a special kind of connection with Nature when you plant a tree yourself.
