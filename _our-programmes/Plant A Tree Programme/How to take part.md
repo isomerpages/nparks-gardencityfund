@@ -11,7 +11,7 @@ With every donation of $300, organisations and individuals will be able to plant
 *   **Step 1:** Check the tree planting schedule below.
 *   **Step 2:** Donate **[here](https://www.giving.sg/garden-city-fund/plantatreeprogramme)** or via cheque.
 
-For cheque donations, complete the form in Step 2 above, and mail the cheque, payable to **Garden City Fund**, with your full name and purpose of donation written at the back of the cheque, to:
+For cheque donations, mail the cheque, payable to **Garden City Fund**, with your full name and purpose of donation written at the back of the cheque, to:
 
 <b>Garden City Fund  
 c/o National Parks Board HQ  
