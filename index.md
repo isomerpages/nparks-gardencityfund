@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Garden City Fund
-description: An Isomer site of the Singapore Government
+description: A registered charity and IPC, established by the National Parks Board
 image: /images/Logos/isomer-logo.svg
 permalink: /
 notification: ""
@@ -40,3 +40,4 @@ sections:
       title: Partner Collaborations
       button: Explore our newest projects
 ---
+
