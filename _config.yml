@@ -6,15 +6,15 @@ colors:
   secondary-color: "#7a9a01"
   media-colors:
     - title: media-color-one
-      color: "#744f28"
+      color: "#215732"
     - title: media-color-two
-      color: "#ef3340"
+      color: "#7a9a01"
     - title: media-color-three
       color: "#ddcba4"
     - title: media-color-four
-      color: "#7a9a01"
+      color: "#744f28"
     - title: media-color-five
-      color: "#7a9a01"
+      color: "#ef3340"
 description: A registered charity and IPC, established by the National Parks Board
 permalink: none
 baseurl: ""
