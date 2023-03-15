@@ -22,7 +22,7 @@ Foo Kon Tan LLP
 Please click [here](https://www.nparks.gov.sg/portals/annualreport/garden-city-fund/index.htm) to view our annual report  
   
 **Financial Information**  
-Please click [here](/files/FS%20Online%20Disclosure%20FY2020.pdf) to view our financial information  
+Please click [here]([FY2021](/files/FY2021%20Online%20Summary.pdf)) to view our financial information  
   
 **Honour Roll**  
-Please click [here](/files/NParks%20GCF%20Honour%20Roll%202016-2020.pdf) for a list of donors who have supported the Garden City Fund
+Please click [here]([Honour Roll 2017 - 2021]()) for a list of donors who have supported the Garden City Fund
