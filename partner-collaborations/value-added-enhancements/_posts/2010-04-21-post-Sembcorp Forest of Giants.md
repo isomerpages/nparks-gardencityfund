@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 In partnership with  **Sembcorp Industries**
 
 *S$1 million to set up a living gallery of giant tree species which are threatened in the region, and to fund green educational programmes at the Southern Ridges to benefit the community.*
