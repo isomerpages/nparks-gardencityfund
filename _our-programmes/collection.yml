@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Singapore Botanic Gardens Seed Bank.md
       - Be Our Partner.md
       - Plant A Tree Programme/.keep
       - Plant A Tree Programme/About Plant A Tree Programme.md
