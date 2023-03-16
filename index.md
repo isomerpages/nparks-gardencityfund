@@ -24,9 +24,9 @@ sections:
           url: our-programmes/orchid-conservation-fund/
       background: /images/Deloitte participants 2.jpg
   - infopic:
-      title: Research and Outreach Efforts
-      subtitle: Support our
-      description: Help protect, conserve and enhance our natural heritage
+      title: Conservation of our natural heritage
+      subtitle: Support the
+      description: Towards our vision of becoming a City in Nature
       button: Donate here
       url: https://www.giving.sg/garden-city-fund
       alt: Image alt text
@@ -40,4 +40,3 @@ sections:
       title: Partner Collaborations
       button: Explore our newest projects
 ---
-
