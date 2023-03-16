@@ -17,7 +17,7 @@ sections:
           description: Support our UNESCO World Heritage Site
           url: our-programmes/give-to-the-gardens/
         - title: Support Our Conservation Efforts
-          description: Conserve our natural heritage
+          description: Conserve our Natural Heritage
           url: /our-programmes/conservation-efforts/
         - title: Plant-A-Coral, Seed-A-Reef
           description: Support Marine Conservation
