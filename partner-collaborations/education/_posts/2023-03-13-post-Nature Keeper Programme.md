@@ -6,14 +6,11 @@ layout: post
 description: ""
 image: ""
 ---
-
 In partnership with **Mitsubishi Corporation**
 
 *S$55,000 to fund the Programme.*
 
 **About the Project**
-
-![nature keeper event](https://ap-southeast-1-02880055-view.menlosecurity.com/c/0/i/aHR0cHM6Ly93d3cuZ2FyZGVuY2l0eWZ1bmQuZ292LnNnLy0vbWVkaWEvZ2NmL3Byb2plY3RzL2VkdWNhdGlvbi9uYXR1cmVfa2VlcGVyX2V2ZW50XzAxLmFzaHg~?k=o-vpX4for2P-_-fFG5sG1nVoot4M5nyIfQn4-mUzyD4~)
 
 The Nature Keeper Programme was the first programme in Singapore to target primary school students with a focus on our local forests and its flora and fauna.
 
