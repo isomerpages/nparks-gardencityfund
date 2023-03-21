@@ -3,8 +3,6 @@ title: Orchid Conservation Fund
 permalink: /our-programmes/orchid-conservation-fund/
 description: ""
 ---
-
-
 **Our native orchids need you!**<br>
 Singapore was once home to 229 species of native wild orchids. More than two thirds of them - 170 of them – to be precise are now extinct, and have disappeared forever.
 
@@ -12,6 +10,9 @@ You may not realise that out of the remaining 59 native orchids, 54 are either c
 
 **Ensuring the survival of our native orchids**<br>
 With the help of local orchid experts at the National Parks Board, Garden City Fund started an Orchid Conservation Fund to raise some $250,000 to save our native orchids.
+
+![Tiger Orchid](/images/Fundraiser%20programmes/Tiger%20Orchid%20Grammatophyllum%20speciosum.jpg)
+*Tiger Orchid*
 
 How will your donation be used?
 -------------------------------
