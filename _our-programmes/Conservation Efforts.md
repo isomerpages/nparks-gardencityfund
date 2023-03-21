@@ -7,6 +7,9 @@ Did you know Singapore is home to a large variety of animal and plant species? W
 
 Some of these species, like the Hawksbill Turtle, Sunda Pangolin and Blue-rumped Parrot, are endangered. These species play an important role in their respective ecosystems to ensure that the nature and biodiversity in Singapore continue to thrive. 
 
+![](/images/Fundraiser%20programmes/Hawksbill%20Turtle%20-%20Karenne%20Tun.jpg)
+*Photo credit: Dr Karenne Tun*
+
 It is our duty to conserve the habitats of these species for the benefit of Singapore's natural heritage, and our future generations.
 
 How will your donation be used?
