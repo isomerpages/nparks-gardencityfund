@@ -19,4 +19,4 @@ Some of our current and past fundraising partners include:
 *   Takashimaya Department Store
 *   Triumph International Singapore
 
-Please note that public fundraisers by organisations may require licence approval from the Singapore Police Force. For more details, please visit SPF's website <a href=“https://www.police.gov.sg/e-Services/Police-Licences/House-To-House-and-Street-Establishment-Licence”>here.</a>
+Please note that public fundraisers by organisations may require licence approval from the Singapore Police Force. For more details, please visit SPF's website <a href=“https://www.police.gov.sg/e-Services/Police-Licences/House-To-House-and-Street-Establishment-Licence>here.</a>
