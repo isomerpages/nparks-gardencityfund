@@ -6,10 +6,13 @@ third_nav_title: Conserving our Corals
 ---
 Caring and conserving our marine biodiversity is the social responsibility of every individual.
 
-
 The Garden City Fund’s Plant-A-Coral, Seed-A-Reef Programme is a platform for organisations and individuals to support the habitat enhancement efforts at the Sisters’ Islands Marine Park.
 
 The Programme aims to enhance our marine biodiversity by providing areas for marine organisms to grow and reef fish to seek refuge. Coral nubbins (small coral fragments) will be transplanted from a coral nursery to Reef Enhancement Units (REUs).
+
+![](/images/Staff%20preparing%20corals%20for%20attachment.jpg)
+*Staff preparing corals for attachment to the Reef Enhancement Unit*
+
 
 # Process of Reef Enhancement
 
