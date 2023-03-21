@@ -6,6 +6,7 @@ third_nav_title: Conserving our Corals
 ---
 Caring and conserving our marine biodiversity is the social responsibility of every individual.
 
+
 The Garden City Fund’s Plant-A-Coral, Seed-A-Reef Programme is a platform for organisations and individuals to support the habitat enhancement efforts at the Sisters’ Islands Marine Park.
 
 The Programme aims to enhance our marine biodiversity by providing areas for marine organisms to grow and reef fish to seek refuge. Coral nubbins (small coral fragments) will be transplanted from a coral nursery to Reef Enhancement Units (REUs).
@@ -48,7 +49,4 @@ Under the Seed-A-Reef initiative, organisations and individuals will be able to 
 
 To kick off the programme, HSBC has fully supported the first phase of the Seed-A-Reef initiative, donating $180,000 for nine REUs.
 
-More REUs will be put up for sponsorship in subsequent phases of the Seed-A-Reef initiative. More details will be shared later.
-
-In partnership with
-![HSBC logo](https://www.gardencityfund.gov.sg/-/media/gcf/logos/in_partnership_with_hsbc_cmyk.ashx?h=106&w=200&hash=7E42CC4021EB4D42BA652C7AF36510CD)
+More REUs will be put up for support in subsequent phases of the Seed-A-Reef initiative. More details will be shared later.
