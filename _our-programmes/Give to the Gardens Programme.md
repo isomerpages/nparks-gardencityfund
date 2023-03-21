@@ -7,6 +7,8 @@ Think "green" and show extra love for our environment by pledging a donation tow
 
 The programme is a platform for individuals and businesses to make a contribution in support of our UNESCO World Heritage Site.
 
+![](/images/Fundraiser%20programmes/The%20Bandstand%20at%20Singapore%20Botanic%20Gardens.jpg)
+
 Pledge your support to the Give to the Gardens programme
 --------------------------------------------------------
 
