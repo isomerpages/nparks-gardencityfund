@@ -6,14 +6,12 @@ layout: post
 description: ""
 image: ""
 ---
-
 In partnership with **Grand Hyatt Singapore**
-*
+
 *S$14,731 (USD$10,000) to fund the cost of producing and printing the Migratory Birds of Sungei Buloh Wetland Reserve (1st edition).*
 
 **About the Project**
-
-![migratory birds event](https://www.gardencityfund.gov.sg/-/media/gcf/projects/education/migratory_birds_event_01.ashx)\\
+![](/images/Migratory%20Birds%20of%20Sungei%20Buloh%20Wetland%20Reserve%20(Publication)%20(10%20October%202009).jpg)
 
 Singapore is a transit hub for travellers of all kinds – even avian ones. The migratory birds seen at Sungei Buloh Wetland Reserve are now featured in a guidebook. This is the first comprehensive photographic guide on migratory birds to be published in Singapore.
 
