@@ -6,14 +6,13 @@ layout: post
 description: ""
 image: ""
 ---
-
-
 In partnership with **Jacob Ballas Trust Fund**
 
 *Over S$3 million to make possible Asia's first children's garden.*  
  
 **About the Project**
- **![Jacob Ballas Event 01](https://www.gardencityfund.gov.sg/-/media/gcf/projects/value-added-enhancements/jacob-ballas-event-01.ashx?w=159&hash=E25C9518507CF326DE2B833C8BE91447) ![Jacob Ballas Event 02](https://www.gardencityfund.gov.sg/-/media/gcf/projects/value-added-enhancements/jacob-ballas-event-02.ashx)**
+
+![](/images/Partner%20Collaborations/Value%20Added%20Enhancements/Jacob%20Ballas%20Children's%20Garden%20(1%20October%202007).jpeg)
 
 Named the Jacob Ballas Children's Garden in appreciation of the donation from Jacob Ballas Trust Fund, it is designed to provide young visitors a unique discovery and learning experience in a garden setting.
 
