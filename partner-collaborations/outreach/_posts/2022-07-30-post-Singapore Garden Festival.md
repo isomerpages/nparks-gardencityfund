@@ -6,13 +6,13 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/Partner%20Collaborations/Outreach/SGF%201.jpeg)In partnership with:
+In partnership with:
 
 
 Amount Above S$50,000 (cash and in-kind)  
 **Suntec Singapore**  
 **City Developments Limited**  
-**Moove Media Pte Ltd** 
+**Moove Media Pte Ltd** <br>
 **Clarins Singapore**  
 **Sony Singapore Marketing Company**  
 **Korean Air Lines Co., Ltd.**  
