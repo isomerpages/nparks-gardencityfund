@@ -22,6 +22,7 @@ The total length of the walkway is about 250 m and its height from the forest fl
 
 The TreeTop Walk, besides providing another avenue for nature recreation for Singaporeans, also plays an important role in forest canopy research – an area many researchers were not able to study previously because of the lack of access.
 
+
 HSBC and NParks established the HSBC-GCF TreeTop Walk Fund to support a host of programmes and activities for conservation, education and outreach, including programmes for school children, workshops for teachers, training of nature guides as well as the production of educational materials.
 
 Read more [here](https://safe.menlosecurity.com/https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/central-catchment-nature-reserve/treetop-walk).
