@@ -6,8 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
-
 In partnership with :
 **Banyan Tree Holdings Limited**
 
@@ -15,7 +13,7 @@ In partnership with :
 
 **About the Project**
 
-**![yishun park event](https://www.gardencityfund.gov.sg/-/media/gcf/projects/value-added-enhancements/yishun_park_event_01.ashx)**
+![](/images/Partner%20Collaborations/Value%20Added%20Enhancements/Yishun%20Park%20Dipterocarp%20Arboretum%20project%20ΓÇô%20Raising%20the%20Forest%20Giants%20(10%20July%202008)%20.jpeg)
 
 Towering nearly 80 m high, Dipterocarps are iconic trees unique to this region and form the backbone of the Indo-Malayan rainforests. However, many of these forests have diminished over the years.
 
