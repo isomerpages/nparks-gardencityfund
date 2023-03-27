@@ -6,15 +6,13 @@ layout: post
 description: ""
 image: ""
 ---
-
-
 In partnership with **The Hongkong and Shanghai Banking Corporation Limited (HSBC)**
 
 *S$300,000 to support programmes at the TreeTop Walk.*
 
 **About the Project**
 
-**![hsbc tree top event](https://ap-southeast-1-02880055-view.menlosecurity.com/c/0/i/aHR0cHM6Ly93d3cuZ2FyZGVuY2l0eWZ1bmQuZ292LnNnLy0vbWVkaWEvZ2NmL3Byb2plY3RzL3ZhbHVlLWFkZGVkLWVuaGFuY2VtZW50cy9oc2JjX3RyZWVfdG9wX2V2ZW50XzAxLmFzaHg~?k=EJj0ngV5-nypvy7kTOmn5L-v5Sf-0TVvbMTJrXbbtGw~)**
+![](/images/Partner%20Collaborations/Value%20Added%20Enhancements/The%20TreeTop%20Walk%20image%201%20(5%20Nov%202004).jpeg)
 
 The first of its kind in Singapore and in the region, this free-standing suspension bridge connects the two highest points in the Centre Catchment Nature Reserve.
 
