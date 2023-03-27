@@ -6,12 +6,11 @@ layout: post
 description: ""
 image: ""
 ---
-
 In partnership with **OCBC**
 
 *S$4 million for the development of and outreach programming at the OCBC Arboretum, home to 2,000 specimens of over 200 species of dipterocarps, and the upcoming Forest Discovery Centre @OCBC Arboretum.*
 
-**About the project**
+**About the project**<br>
 The OCBC Arboretum is a conservation project for trees of the family of Dipterocarpaceae. The work at the Arboretum may have an impact on climate action, as the 2,000 trees at the Arboretum alone can store 80 million kg of CO2 in their lifetimes!
 
 Conservation, research and education are key focus areas of the OCBC Arboretum. It acts as a ‘gene bank’ for the dipterocarp species where the seeds produced from these trees will be used in forestation projects. The OCBC Arboretum will be instrumental to scientists’ understanding of dipterocarps, and provides students with an outdoor classroom to learn about conservation efforts as well as participate in forest restoration activities.
