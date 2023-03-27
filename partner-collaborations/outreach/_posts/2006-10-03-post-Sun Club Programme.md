@@ -11,7 +11,7 @@ In partnership with **Singapore Press Holdings (SPH Foundation)**
 *S$46,000 to fund the programme.  *
   
 **About the Project**
-**![sun club event](https://www.gardencityfund.gov.sg/-/media/gcf/projects/outreach/sun_club_event_01.ashx)**
+![](/images/Partner%20Collaborations/Outreach/Sun%20Club%20Programme%20(3%20October%202006).jpg)
 
 Initiated by NParks and launched on 3 October 2006, the SUN Club programme has been supported by Singapore Press Holding Foundation (SPH Foundation) since inception.  
   
