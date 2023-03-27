@@ -13,7 +13,7 @@ Amount Above S$50,000 (cash and in-kind)
 **Suntec Singapore**  
 **City Developments Limited**  
 **Moove Media Pte Ltd** 
-***Clarins Singapore**  
+**Clarins Singapore**  
 **Sony Singapore Marketing Company**  
 **Korean Air Lines Co., Ltd.**  
 **StarHub Limited**
