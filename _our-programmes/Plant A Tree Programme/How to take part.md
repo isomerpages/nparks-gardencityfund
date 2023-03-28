@@ -6,6 +6,8 @@ third_nav_title: Plant-A-Tree Programme
 ---
 With every donation of $300, organisations and individuals will be able to plant a tree in one of NParks-managed green spaces. 
 
+![](/images/Tree%20Planting%20(Pls%20credit%20NParks)%20(3).jpg)
+
 [](mailto:garden_city_fund@nparks.gov.sg)Your donation will support the cost of the tree and site preparation. Any balance would go towards helping outreach and education programmes connect our local community with our natural heritage. 
 
 *   **Step 1:** Check the tree planting schedule below.
@@ -27,10 +29,11 @@ We will send you a confirmation email when we have received your donation.
 
 
 
-| Date | Location| Deadline for GCF to receive donation |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
+| Date | Location| 
+| -------- | -------- | 
+| 19 May 2023   | Alexandra Canal Linear Park     | 
+| 23 Jun 2023     | Simei Street 3  | 
+| 23 Jun 2023  | Anchorvale Drive   | 
 
 Please take note of the following terms and conditions:
 
