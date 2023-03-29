@@ -10,17 +10,15 @@ In partnership with  **Sembcorp Industries**
 
 *S$1 million to set up a living gallery of giant tree species which are threatened in the region, and to fund green educational programmes at the Southern Ridges to benefit the community.*
 
-**About the Project**
-
-**![sembcorp forest event](https://www.gardencityfund.gov.sg/-/media/gcf/projects/value-added-enhancements/sembcorp_forest_event_01.ashx)**
-
-![](/images/Sembcorp%20Forests%20of%20Giants%20-%20Dyera%20costulata.jpeg)
-
+**About the Project**<br>
 Visitors to the Southern Ridges can now learn more about a special collection of giant trees native to the region. Named the Sembcorp Forest of Giants in appreciation of a sponsorship of S$1 million from Sembcorp Industries, the arboretum - a living gallery of trees for education and research is part of the NParks' initiative to enhance biodiversity within urban areas.
 
 The Sembcorp Forest of Giants collection comprises over 600 trees that originally dominated our regional landscape before the advent of urbanisation.
 
 Also known as emergents - large trees that grow above the forest canopy - some of the 55 species selected for the collection can attain heights of over 80m in the wild. These giant tree species can take more than 50 years to mature and reach such great heights. NParks has also planted a visually striking collection of trees with large leaves.
+
+![](/images/Sembcorp%20Forests%20of%20Giants%20-%20Dyera%20costulata.jpeg)
+One of the giant trees, the Jelutong (_Dyera costulata_), at its full height in the Singapore Botanic Gardens. See how it towers over the surrounding trees?
 
 The generous donation funded the planting of these giant trees, as well as outreach programmes to promote awareness and enjoyment of the Forest. Part of the donation was also used to establish the Sembcorp Education and Conservation Fund to support deserving projects under the GCF.
 
