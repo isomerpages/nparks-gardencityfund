@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 In partnership with  **Sembcorp Industries**
 
 *S$1 million to set up a living gallery of giant tree species which are threatened in the region, and to fund green educational programmes at the Southern Ridges to benefit the community.*
@@ -14,6 +13,8 @@ In partnership with  **Sembcorp Industries**
 **About the Project**
 
 **![sembcorp forest event](https://www.gardencityfund.gov.sg/-/media/gcf/projects/value-added-enhancements/sembcorp_forest_event_01.ashx)**
+
+![](/images/Sembcorp%20Forests%20of%20Giants%20-%20Dyera%20costulata.jpeg)
 
 Visitors to the Southern Ridges can now learn more about a special collection of giant trees native to the region. Named the Sembcorp Forest of Giants in appreciation of a sponsorship of S$1 million from Sembcorp Industries, the arboretum - a living gallery of trees for education and research is part of the NParks' initiative to enhance biodiversity within urban areas.
 
