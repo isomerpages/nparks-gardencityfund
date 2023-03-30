@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Plant-A-Tree Programme
           description: Enhance Singapore's Greenery
-          url: our-programmes/Plant-A-Tree-Programme/
+          url: our-programmes/plant-a-tree/about/
         - title: Give to the Gardens
           description: Support our UNESCO World Heritage Site
           url: our-programmes/give-to-the-gardens/
