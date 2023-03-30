@@ -6,10 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
-
-
 In partnership with **Toyota**
-*
+
 S$70,000 to build the first Outdoor Classroom at the Sungei Buloh Wetland Reserve.*
 
 **About the Project**<Br>
