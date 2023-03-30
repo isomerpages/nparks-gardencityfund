@@ -13,6 +13,7 @@ In partnership with **Sharp Roxy**
 **About the Project**
 
 ![Common Tiger](/images/Partner%20Collaborations/Value%20Added%20Enhancements/IMG_4559.jpeg)
+Photo Credit: Zhou Boyi
 
 The Butterfly Garden, about half the size of a basketball field, houses a wide array of plant species to attract butterflies, and offers a visual treat for nature lovers and enthusiasts. These plants included Lantana camara (host plant), and several nectar plants such as Asystasia gangetica, Arachnothryx leucophylla, and Ixora Javanica 'Red'. This is also one of many initiatives to infuse more biodiversity into the city's urban environment.
 
