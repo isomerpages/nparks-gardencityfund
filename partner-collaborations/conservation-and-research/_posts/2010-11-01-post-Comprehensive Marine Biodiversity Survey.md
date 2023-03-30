@@ -6,8 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
-
 In partnership with
 
 **Asia Pacific Breweries (Singapore) Pte Ltd**
@@ -26,7 +24,7 @@ Euro$20,000 to finance the coral reef survey.
 
 **About the Project**
 
-![cmbs event 01](https://www.gardencityfund.gov.sg/-/media/gcf/projects/collaborations-and-research/cmbs_even_01.ashx) ![cmbs event 02](https://www.gardencityfund.gov.sg/-/media/gcf/projects/collaborations-and-research/cmbs_even_02.ashx)
+![](/images/Partner%20Collaborations/Research%20and%20Conservation/Comprehensive-Marine-Bio-Survey.jpeg)
 
 The Comprehensive Marine Biodiversity Survey (CMBS) was initiated by a proposal from the Blue Plan Group which was submitted to the Singapore government in 2009. It was agreed that Singapore should conduct a comprehensive survey to document all of our marine life in all of our natural marine habitats.
 
