@@ -21,7 +21,7 @@ sections:
           url: /our-programmes/conservation-efforts/
         - title: Plant-A-Coral, Seed-A-Reef
           description: Support Marine Conservation
-          url: https://www.gardencityfund.gov.sg/make-a-difference/contribute-to-our-city-in-nature/plant-a-coral-initiative/plantacoral
+          url: /our-programmes/plant-a-coral/
       background: /images/Deloitte participants 2.jpg
   - infopic:
       title: "City in Nature "
