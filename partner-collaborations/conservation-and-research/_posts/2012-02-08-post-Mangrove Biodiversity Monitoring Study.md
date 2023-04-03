@@ -17,4 +17,4 @@ Results of the study study enabled the collection of valuable information to aid
 
 Covering an area of 6 hectares, the mangrove forest at Pasir Ris Park is one of the few mangrove sites left in Singapore. It is also a popular attraction – scores of nature lovers and families visit the mangrove forest every month to experience and learn about its rich biodiversity.
 
-Read more&nbsp;[here](http://www.nparks.gov.sg/cms/index.php?option=com_news&amp;task=view&amp;id=301&amp;Itemid=247).
+Read more&nbsp;[here](https://www.nparks.gov.sg/news/2012/6/nparks-and-panasonic-embark-on-first--mangrove-biodiversity-monitoring-initiative-at-pasir-ris-park).
