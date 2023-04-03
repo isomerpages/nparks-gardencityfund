@@ -25,4 +25,4 @@ The method is akin to a horticultural nursery providing seedlings to be planted 
 
 Coral fragments that have been successfully grown in the coral nursery are transplanted onto the degraded reef sites off the southern coast of Singapore.
 
-Read more [here](http://mygreenspace.nparks.gov.sg/a-helping-hand-for-local-reefs/).
+Read more [here](https://www.nparks.gov.sg/nparksbuzz/issue-03-vol-3-2009/conservation/a-helping-hand-for-local-reefs).
