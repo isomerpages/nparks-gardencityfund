@@ -1,0 +1,11 @@
+collections:
+  our-partners:
+    output: true
+    order:
+      - Lifetime Contributors.md
+      - GCF Partners.md
+      - Partners' Testimonials/A to F.md
+      - Partners' Testimonials/G to L.md
+      - Partners' Testimonials/M to R.md
+      - Partners' Testimonials/S to Z.md
+      - Partners' Testimonials/.keep
