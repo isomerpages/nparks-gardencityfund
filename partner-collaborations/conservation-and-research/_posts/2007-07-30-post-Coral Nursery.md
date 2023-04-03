@@ -6,16 +6,12 @@ layout: post
 description: ""
 image: ""
 ---
-
-
 In partnership with
 **Keppel Group**
 
 *S$250,000 to finance a coral nursery research project. Keppel Group's employees also volunteered their time on dives to maintain the coral nursery.*
 
 **About the Project**
-
-![keppel event](https://www.gardencityfund.gov.sg/-/media/gcf/projects/collaborations-and-research/keppel_event_01.ashx)
 
 Development and industrialisation have impacted on coral reefs in Singapore over the years. Even though it has been reported that 60% of the local original reefs have been lost, Singapore still boasts high biological diversity with almost 200 species of reef-forming hard corals. This accounts for about 25% of the global total species.
 
