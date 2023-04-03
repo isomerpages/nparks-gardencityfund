@@ -5,6 +5,7 @@ description: ""
 ---
 We would particularly like to recognise the generosity of those who have given S$1 million and above cumulatively to the Garden City Fund since 2002. We extend our deepest appreciation to the following major donors, as well as those who wish to remain anonymous.
 
+* AIA Singapore
 * Cathay Organisation Holdings Ltd
 * City Developments Limited
 * ExxonMobil Asia Pacific Pte Ltd
@@ -12,6 +13,7 @@ We would particularly like to recognise the generosity of those who have given S
 * Keppel Care Foundation
 * Kikkoman (S) Pte Ltd
 * Leong Sou Fong Rosslyn
+* LU Foundation
 * Mingxin Foundation
 * Oversea-Chinese Banking Corporation Limited
 * Peter Lim
