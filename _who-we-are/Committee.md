@@ -14,7 +14,7 @@ Chairman
 --------
 
 **Professor Leo Tan**  
-<i>Director (Special Projects), National University of Singapore</i>
+
 
 * * *
 
@@ -22,7 +22,7 @@ Treasurer
 ---------
 
 **Mr Daren Shiau**  
-<i>Partner, Allen & Gledhill LLP</i>
+<i>Partner, Allen &amp; Gledhill LLP</i>
 
 * * *
 
@@ -30,7 +30,7 @@ Secretary
 ---------
 
 **Dr Leong Chee Chiew**  
-<i>Executive Director, National Parks, Gardens & Nature Reserves / Commissioner of Parks & Recreation, National Parks Board</i>
+<i>Executive Director, National Parks, Gardens &amp; Nature Reserves / Commissioner of Parks &amp; Recreation, National Parks Board</i>
 
 * * *
 

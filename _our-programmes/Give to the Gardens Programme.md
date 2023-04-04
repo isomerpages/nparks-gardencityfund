@@ -30,6 +30,6 @@ Your donation will entitle you to a 2.5 times tax deduction, with a valid NRIC/F
 ![](/images/Give%20to%20the%20Gardens%20Donor%20info.jpg)
 *Based on total donations received on annual basis.
 
-For a list of tenants and benefits, please click [here](/files/List%20of%20Tenants%20and%20Benefits.pdf).
+For a list of tenants and benefits, please click [here](/files/Give%20to%20the%20Gardens/give%20to%20the%20gardens%20-%20list%20of%20tenants%20and%20benefits%20(23feb2023).pdf).
 
 **IMPORTANT**: By donating, you are consenting to be enrolled into the Give to the Gardens Programme and to be bound by the Terms and Conditions of the Give to the Gardens Programme.

@@ -4,11 +4,11 @@ permalink: /our-programmes/plant-a-tree/about/
 description: ""
 third_nav_title: Plant-A-Tree Programme
 ---
-Caring for trees and the environment is the social responsibility of every individual. The Plant-A-Tree Programme is a platform for organisations and individuals to actively participate in the greening of our [City in Nature](https://www.nparks.gov.sg/about-us/city-in-nature) by planting trees.
+Caring for trees and the environment is the social responsibility of every individual. The Plant-A-Tree Programme is a platform for organisations and individuals to actively participate in the greening of our&nbsp;[City in Nature](https://www.nparks.gov.sg/about-us/city-in-nature)&nbsp;by planting trees.
 
 ![](/images/Tree%20Planting%20(Pls%20credit%20NParks)%20(1).jpeg)
 
-Every tree planted will also contribute to the OneMillionTrees movement to plant one million more trees across Singapore over ten years till 2030. This aims to restore nature back to our city and redouble our efforts to green our urban infrastructure on an unprecedented scale. Read more about the movement [here](https://www.nparks.gov.sg/treessg/one-million-trees-movement).
+Every tree planted will also contribute to the OneMillionTrees movement to plant one million more trees across Singapore over ten years till 2030. This aims to restore nature back to our city and redouble our efforts to green our urban infrastructure on an unprecedented scale. Read more about the movement&nbsp;[here](https://www.nparks.gov.sg/treessg/one-million-trees-movement).
 
 **Why plant trees?**<br>
 Why plant more trees in Singapore? Aren't there enough trees already? Well, definitely not.
@@ -36,7 +36,7 @@ Another way to contribute is to donate to the Garden City Fund. The support you 
 *   Enhance amenities and add special features such as access for the disabled, so that more people can enjoy our parks
 *   Fund research and conservation projects
 
-Pledge your support 
+Pledge your support&nbsp;
 --------------------
 
-Please [click here](https://www.gardencityfund.gov.sg/make-a-difference/contribute-to-our-city-in-nature/plant-a-tree-programme/how-to-take-part) to find out more on how to take part in the Plant-A-Tree Programme.
+Please [click here](https://www.gardencityfund.gov.sg/our-programmes/plant-a-tree/howtotakepart/) to find out more on how to take part in the Plant-A-Tree Programme.

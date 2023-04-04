@@ -23,4 +23,4 @@ Visitors to Yishun Park can learn more about this unique family of rainforest tr
 
 Banyan Tree's contribution supported the costs of implementing the project, installing educational signage, and organising educational programmes for the public, including guided walks and tree hunts. The arboretum was officially opened on 10 July 2008.
 
-Read more [here](https://www.nparks.gov.sg/news/2008/7/singapores-first-dipterocarp-arboretum-at-yishun-park).
+Read more [here](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/yishun-park/what-to-see).

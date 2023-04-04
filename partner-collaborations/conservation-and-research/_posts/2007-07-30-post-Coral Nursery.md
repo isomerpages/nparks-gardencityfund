@@ -6,16 +6,12 @@ layout: post
 description: ""
 image: ""
 ---
-
-
 In partnership with
 **Keppel Group**
 
 *S$250,000 to finance a coral nursery research project. Keppel Group's employees also volunteered their time on dives to maintain the coral nursery.*
 
 **About the Project**
-
-![keppel event](https://www.gardencityfund.gov.sg/-/media/gcf/projects/collaborations-and-research/keppel_event_01.ashx)
 
 Development and industrialisation have impacted on coral reefs in Singapore over the years. Even though it has been reported that 60% of the local original reefs have been lost, Singapore still boasts high biological diversity with almost 200 species of reef-forming hard corals. This accounts for about 25% of the global total species.
 
@@ -29,4 +25,4 @@ The method is akin to a horticultural nursery providing seedlings to be planted 
 
 Coral fragments that have been successfully grown in the coral nursery are transplanted onto the degraded reef sites off the southern coast of Singapore.
 
-Read more [here](http://mygreenspace.nparks.gov.sg/a-helping-hand-for-local-reefs/).
+Read more [here](https://www.nparks.gov.sg/nparksbuzz/issue-03-vol-3-2009/conservation/a-helping-hand-for-local-reefs).

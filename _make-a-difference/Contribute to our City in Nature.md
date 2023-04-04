@@ -20,9 +20,9 @@ Provide us your full name as in NRIC/FIN and your NRIC/FIN number. We will proce
 
 Provide us your company registered full name and UEN number issued by ACRA/ROC/ROB. We will submit your information to IRAS and you can proceed to claim the tax deduction in your tax returns. You are not required to support your claim with the donation receipt.
 
-For more details on donations to charities and tax deductions, please visit IRAS portal [here](https://www.iras.gov.sg/irashome/Other-Taxes/Charities/Donations-and-Tax-Deductions/).
+For more details on donations to charities and tax deductions, please visit IRAS portal&nbsp;[here](https://www.iras.gov.sg/irashome/Other-Taxes/Charities/Donations-and-Tax-Deductions/).
 
-If you are our existing donor and wish to inform us of any changes in personal particulars, pledge or payment details, please send us an email at garden_city_fund@nparks.gov.sg.
+If you are our existing donor and wish to inform us of any changes in personal particulars, pledge or payment details, please send us an email at [garden_city_fund@nparks.gov.sg](garden_city_fund@nparks.gov.sg)
 
 ### Make your donation now
 
