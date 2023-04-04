@@ -22,7 +22,7 @@ Provide us your company registered full name and UEN number issued by ACRA/ROC/R
 
 For more details on donations to charities and tax deductions, please visit IRAS portal&nbsp;[here](https://www.iras.gov.sg/irashome/Other-Taxes/Charities/Donations-and-Tax-Deductions/).
 
-If you are our existing donor and wish to inform us of any changes in personal particulars, pledge or payment details, please send us an email at [undefined](garden_city_fund@nparks.gov.sg).
+If you are our existing donor and wish to inform us of any changes in personal particulars, pledge or payment details, please send us an email at [garden_city_fund@nparks.gov.sg](garden_city_fund@nparks.gov.sg).
 
 ### Make your donation now
 
