@@ -1,5 +1,5 @@
 ---
-title: Committee
+title: Garden City Fund Management Committee
 permalink: /who-we-are/committee/
 description: ""
 ---
