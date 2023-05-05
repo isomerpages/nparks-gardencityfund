@@ -1,6 +1,6 @@
 ---
-title: About Plant-A-Tree Programme
-permalink: /our-programmes/plant-a-tree/about/
+title: About Plant A Tree Programme
+permalink: /plantatree/
 description: ""
 third_nav_title: Plant-A-Tree Programme
 ---

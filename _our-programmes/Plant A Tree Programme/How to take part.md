@@ -31,11 +31,10 @@ We will send you a confirmation email when we have received your donation.
 
 | Date | Location| 
 | -------- | -------- | 
-| 27 May 2023 | Binchang Rise Playground | 
-| 27 May 2023 | Gloucester Road |
-| 23 Jun 2023 | Anchorvale Drive | 
 | 23 Jun 2023 | Simei Street 3 | 
-| 23 Jun 2023 | West Coast Park | 
+| 23 Jun 2023 | West Coast Park Connector| 
+| 28 July 2023 | Buangkok Drive | 
+| 29 July 2023 | Yung Ho Walk |
 
 Please take note of the following terms and conditions:
 
