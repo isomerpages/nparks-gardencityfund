@@ -31,9 +31,9 @@ We will send you a confirmation email when we have received your donation.
 
 | Date | Location| 
 | -------- | -------- | 
-| 23 Jun 2023 | Simei Street 3 | 
-| 23 Jun 2023 | West Coast Park Connector| 
+| 15 July 2023 |Bedok Park Connector (Guards Ave) | 
 | 28 July 2023 | Buangkok Drive | 
+| 29 July 2023 | 18 Jalan Kembangan | 
 | 29 July 2023 | Yung Ho Walk |
 
 Please take note of the following terms and conditions:
