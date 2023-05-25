@@ -39,7 +39,7 @@ We will send you a confirmation email when we have received your donation.
 Please take note of the following terms and conditions:
 
 *   Confirmation and allocation of planting slots is on a&nbsp;**first-come, first-served basis**,&nbsp;**upon receipt of donation**. &nbsp;If the options you have indicated are unavailable, we will contact you to share the next availability.
-*   Donations should reach Garden City Fund by the deadline provided. Upon receipt of donation, Garden City Fund will send you an acknowledgement email. Please email garden_city_fund@nparks.gov.sg if you do not receive an email from us within 1 month.
+*   Upon receipt of donation, Garden City Fund will send you an acknowledgement email. Please email garden_city_fund@nparks.gov.sg if you do not receive an email from us within 1 month.
 *   We will do our best to allocate you with a tree planting slot if you are unavailable on the next available date. Do note that&nbsp;**donors will need to plant their donated trees&nbsp;within&nbsp;6 months&nbsp;upon receipt of donation.**&nbsp;Otherwise, we will plant the trees on your behalf.
 *   Please respond to our confirmation emails pertaining to your donation and tree planting slots within 1 month.
 *   There will be no postponement after confirmation of planting slots. If you are unable to make it for the tree planting after you have acknowledged the confirmation email, trees will be planted on your behalf.
