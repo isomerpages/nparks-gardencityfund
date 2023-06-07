@@ -34,6 +34,11 @@ We will send you a confirmation email when we have received your donation.
 | 15 July 2023 |Bedok Park Connector (Guards Ave) | 
 | 29 July 2023 | 18 Jalan Kembangan | 
 | 29 July 2023 | Yung Ho Walk |
+| 26 August 2023 | Coney Island Park |
+| 30 September 2023 | Upper East Coast Road |
+| 30 September 2023 | Upper Seletar Reservoir Park |
+| 28 October 2023 | Jurong Park Connector (Jalan Boon Lay to Enterprise Road) |
+| 25 November 2023 | Changi Beach Park |
 
 Please take note of the following terms and conditions:
 
