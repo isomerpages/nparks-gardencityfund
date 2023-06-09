@@ -1,5 +1,5 @@
 ---
-title: Plant A Coral Initiative
+title: Plant-A-Coral Initiative
 permalink: /our-programmes/plant-a-coral/
 description: ""
 third_nav_title: Conserving our Corals
