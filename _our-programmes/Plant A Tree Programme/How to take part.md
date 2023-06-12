@@ -31,10 +31,11 @@ We will send you a confirmation email when we have received your donation.
 
 | Date | Location| 
 | -------- | -------- | 
-| 15 July 2023 |Bedok Park Connector (Guards Ave) | 
-| 29 July 2023 | 18 Jalan Kembangan | 
-| 29 July 2023 | Yung Ho Walk |
+| 18 August 2023 |Sin Ming Lane | 
+| 25 August 2023 | Ang Mo Kio Ave 5 Park Connector | 
 | 26 August 2023 | Coney Island Park |
+| 30 September 2023 | Upper East Coast Road |
+| 30 September 2023 | Upper East Coast Road |
 | 30 September 2023 | Upper East Coast Road |
 | 30 September 2023 | Upper Seletar Reservoir Park |
 | 28 October 2023 | Jurong Park Connector (Jalan Boon Lay to Enterprise Road) |
