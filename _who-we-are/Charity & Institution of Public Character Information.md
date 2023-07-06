@@ -30,5 +30,5 @@ Please click [here](/files/IPC%20information/NParks_GCF_Honour_Roll_2017-2021.pd
 **Conflict of Interest Policy**  
 The Garden City Fund Management Committee members are required to comply with the charity’s conflict of interest policy. The charity has put in place documented procedures for committee members to declare actual or potential conflicts of interests on a regular and need-to basis. Committee members also abstain and do not participate in discussion or decision-making on matters where they have a conflict of interest.
 
-**Whistle-blowing Policy**
+**Whistle-blowing Policy**<br>
 Garden City Fund follows National Parks Board's whistle-blowing policy for reporting improper conduct and to address concerns about possible wrong-doing or improprieties in financial or other matters within the charity.
