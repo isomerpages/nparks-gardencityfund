@@ -1,5 +1,5 @@
 ---
-title: Charity &amp; Institution of a Public Character Information
+title: Charity & Institution of a Public Character Information
 permalink: /who-we-are/charity-and-institution-of-a-public-character-information/
 description: ""
 ---
@@ -26,3 +26,11 @@ Please click&nbsp;[here](/files/IPC%20information/FY2021%20Online%20Summary.pdf)
   
 **Honour Roll**  
 Please click [here](/files/IPC%20information/NParks_GCF_Honour_Roll_2017-2021.pdf)  for a list of donors who have supported the Garden City Fund
+
+**Conflict of Interest Policy**  
+The Garden City Fund Management Committee members are required to comply with the charity’s conflict of interest policy. The charity has put in place documented procedures for committee members to declare actual or potential conflicts of interests on a regular and need-to basis. Committee members also abstain and do not participate in discussion or decision-making on matters where they have a conflict of interest.
+
+**Whistle-blowing Policy**<br>
+Garden City Fund follows National Parks Board's whistle-blowing policy for reporting improper conduct and to address concerns about possible wrong-doing or improprieties in financial or other matters within the charity.
+
+If you have any feedback or queries, please contact [garden_city_fund@nparks.gov.sg](garden_city_fund@nparks.gov.sg).
