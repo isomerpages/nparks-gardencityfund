@@ -32,3 +32,5 @@ The Garden City Fund Management Committee members are required to comply with th
 
 **Whistle-blowing Policy**<br>
 Garden City Fund follows National Parks Board's whistle-blowing policy for reporting improper conduct and to address concerns about possible wrong-doing or improprieties in financial or other matters within the charity.
+
+If you have any feedback or queries, please contact [garden_city_fund@nparks.gov.sg](garden_city_fund@nparks.gov.sg).
