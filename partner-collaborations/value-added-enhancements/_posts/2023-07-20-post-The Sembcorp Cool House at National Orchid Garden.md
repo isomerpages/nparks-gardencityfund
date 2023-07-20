@@ -8,7 +8,7 @@ description: Supported by Sembcorp through registered charity, Garden City Fund,
   flower rare orchids found naturally at higher elevations.
 image: ""
 ---
-In partnership with Sembcorp Industries 
+In partnership with **Sembcorp Industries** 
 
 *S$10 million donation to rejuvenate the Tropical Montane Orchidetum, one of the National Orchid Garden’s key features.*
 
@@ -18,4 +18,4 @@ Designed to emulate a high elevation montane forest, the Sembcorp Cool House’s
 
 In addition to monetary contributions, Sembcorp also partnered NParks to design programmes and tours led by their staff.
 
-Watch a virtual tour of the Tropical Montane Orchidetum at the National Orchid Gardens [here](https://www.youtube.com/watch?v=-rH7noEt0n0). 
+Watch a virtual tour of the Tropical Montane Orchidetum at the National Orchid Gardens [here](https://www.youtube.com/watch?v=-rH7noEt0n0).
