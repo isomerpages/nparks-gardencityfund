@@ -14,7 +14,6 @@ Chairman
 --------
 
 **Professor Emeritus Leo Tan**  
-<i>National University of Singapore</i>
 
 * * *
 
