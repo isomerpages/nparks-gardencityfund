@@ -13,8 +13,7 @@ Founding Patron
 Chairman
 --------
 
-**Professor Leo Tan**  
-
+**Professor Emeritus Leo Tan**  
 
 * * *
 

@@ -31,9 +31,6 @@ We will send you a confirmation email when we have received your donation.
 
 | Date | Location| 
 | -------- | -------- | 
-| 18 August 2023 | Sin Ming Lane | 
-| 26 August 2023 | Coney Island Park |
-| 15 September 2023 | Alexandra Canal Linear Park |
 | 29 September 2023 | Clementi Ave 1 |
 | 30 September 2023 | Upper East Coast Road |
 | 30 September 2023 | Upper Seletar Reservoir Park |
