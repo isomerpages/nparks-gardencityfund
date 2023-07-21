@@ -13,8 +13,8 @@ Founding Patron
 Chairman
 --------
 
-**Professor Leo Tan**  
-<i>Emeritus Professor, National University of Singapore</i>
+**Professor Emeritus Leo Tan**  
+<i>National University of Singapore</i>
 
 * * *
 
