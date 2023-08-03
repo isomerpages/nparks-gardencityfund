@@ -19,4 +19,4 @@ Your donation will support:
 * Collaboration with seed bank partners and institutions  
 * Education and outreach efforts on seed banking and conservation
 
-Donate to the Seed Bank via this link [here](https://www.giving.sg/garden-city-fund/seedbank).
+Donate to the Seed Bank via this link [here](https://www.giving.sg/garden-city-fund/seedbank2023).
