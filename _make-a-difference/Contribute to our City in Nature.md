@@ -32,6 +32,9 @@ Contribute to your City in Nature by making an outright donation towards our con
 * [Credit Card via Giving.sg](https://www.giving.sg/garden-city-fund)<br>
 * [Cheque](/files/GCF%20cheque%20donation%20online%20form.pdf)<br>
 * [GIRO](/files/Giro%20Form.pdf)
+* DBS LiveBetter via QR code below (DBS/POSB digibank app user only)
+  
+ ![DBS LiveBetter](/images/GCF%20Main%20Page_QR.png)
 
 
 Note: All donations to Garden City Fund are eligible for 2.5 times tax deduction, with a valid NRIC/FIN number (individual) or local UEN/Business Registration Number (organisation). We will provide your details to IRAS. Tax-deduction for your donation will automatically be included in your tax assessment.
