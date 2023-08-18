@@ -14,8 +14,8 @@ Pledge your support to the Give to the Gardens programme
 
 Lend your support to us by pledging a donation to the Gardens through this Programme via
 
-*   Credit card on [Giving.sg](https://www.giving.sg/garden-city-fund/give-to-the-gardens-programme)
-*   [](https://www.giving.sg/garden-city-fund/givetothegardensprogramme)Cheque
+*   Credit card on [Giving.sg](https://www.giving.sg/garden-city-fund/gttg)
+*   Cheque
 
 For cheque donations, mail the cheque, payable to **Garden City Fund**, with your full name/company name, NRIC/FIN/UEN and purpose of donation written at the back of the cheque, to:
 

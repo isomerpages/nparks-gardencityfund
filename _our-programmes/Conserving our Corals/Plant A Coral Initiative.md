@@ -29,7 +29,7 @@ Plant-A-Coral Initiative
 
 With a minimum donation of $200, organisations and individuals will be able to sponsor a coral. These coral nubbins will be transplanted to Reef Enhancement Units.
 
-*   Step 1: Donate [here](https://www.giving.sg/garden-city-fund/plantacoral-initiative) or via cheque.
+*   Step 1: Donate [here](https://www.giving.sg/garden-city-fund/pacsar) or via cheque.
 *   Step 2: Upon receipt of donation, we will send you an email on the available tour dates.
 
 For cheque donations, mail the cheque, payable to **Garden City Fund**, with your full name/company name, NRIC/FIN/UEN and purpose of donation written at the back of the cheque, to: 
