@@ -14,11 +14,11 @@ With every donation of $300, organisations and individuals will be able to plant
  
  **Step 2:**&nbsp;Donate&nbsp;to Garden City Fund via:
 
-* **[Giving.sg](https://www.giving.sg/garden-city-fund/[plantatreeprogramme)**
+* **[Giving.sg](https://www.giving.sg/garden-city-fund/plantatreeprogramme)**
 * DBS LiveBetter with QR code below (DBS/POSB digibank app user only)
 
   (note: every $300 donated via DBS LiveBetter collectively will support the planting of one tree by NParks)
-![](/images/DBS%20LiveBetter%20CyN.png)
+![](/images/DBS%20LiveBetter%20CyN%20(1).png)
 * Cheque
 
   Mail the cheque, payable to&nbsp;**Garden City Fund**, with your full name and purpose of donation written at the back of the cheque, to:
