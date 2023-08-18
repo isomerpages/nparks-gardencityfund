@@ -10,15 +10,23 @@ With every donation of $300, organisations and individuals will be able to plant
 
 [](mailto:garden_city_fund@nparks.gov.sg)Your donation will support the cost of the tree and site preparation. Any balance would go towards helping outreach and education programmes connect our local community with our natural heritage.&nbsp;
 
-*   **Step 1:**&nbsp;Check the tree planting schedule below.
-*   **Step 2:**&nbsp;Donate&nbsp;**[here](https://www.giving.sg/garden-city-fund/plantatreeprogramme)**&nbsp;or via cheque.
+ **Step 1:**&nbsp;Check the tree planting schedule below.
+ 
+ **Step 2:**&nbsp;Donate&nbsp;to Garden City Fund via:
 
-For cheque donations, mail the cheque, payable to&nbsp;**Garden City Fund**, with your full name and purpose of donation written at the back of the cheque, to:
+* **[Giving.sg](https://www.giving.sg/garden-city-fund/[plantatreeprogramme)**
+* DBS LiveBetter with QR code below (DBS/POSB digibank app user only)
 
-<b>Garden City Fund  
-c/o National Parks Board HQ  
-1 Cluny Road  
-Singapore 259569 </b>
+  (note: every $300 donated via DBS LiveBetter collectively will support the planting of one tree by NParks)
+![](/images/DBS%20LiveBetter%20CyN.png)
+* Cheque
+
+  Mail the cheque, payable to&nbsp;**Garden City Fund**, with your full name and purpose of donation written at the back of the cheque, to:
+
+  <b>Garden City Fund  
+  c/o National Parks Board HQ  
+  1 Cluny Road  
+  Singapore 259569 </b>
 
 
 Your donation will entitle you to a 2.5 times tax deduction, with a valid NRIC/FIN number (individual) or local UEN/Business Registration Number (organisation). Donation details will be filed with IRAS and automatically reflected in your tax assessment the following year.&nbsp;To support the environment, we will issue e-tax deductible receipts only upon request.
