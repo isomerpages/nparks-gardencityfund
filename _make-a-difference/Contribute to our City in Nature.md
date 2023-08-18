@@ -34,7 +34,7 @@ Contribute to your City in Nature by making an outright donation towards our con
 * [GIRO](/files/Giro%20Form.pdf)
 * DBS LiveBetter via QR code below (DBS/POSB digibank app user only)
   
- ![image](https://github.com/isomerpages/nparks-gardencityfund/assets/132528852/8911c3bb-e2c9-4cff-909a-28e9df1fd097)
+ ![](/images/DBS%20GCF%20page.png)
 
 
 Note: All donations to Garden City Fund are eligible for 2.5 times tax deduction, with a valid NRIC/FIN number (individual) or local UEN/Business Registration Number (organisation). We will provide your details to IRAS. Tax-deduction for your donation will automatically be included in your tax assessment.
