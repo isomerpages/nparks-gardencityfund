@@ -40,12 +40,10 @@ We will send you a confirmation email when we have received your donation.
 | Date | Location| 
 | -------- | -------- | 
 | 29 September 2023 | Clementi Ave 1 |
-| 30 September 2023 | Upper Seletar Reservoir Park |
 | 27 October 2023 | Tampines Eco Green |
 | 27 October 2023 | Serangoon Park Connector |
 | 28 October 2023 | Jurong Park Connector (Jalan Boon Lay to Enterprise Road) |
 | 3 November 2023 | East Coast Park Area G |
-| 24 November 2023 | Pasir Ris Drive 6 |
 | 25 November 2023 | Changi Beach Park |
 
 Please take note of the following terms and conditions:
