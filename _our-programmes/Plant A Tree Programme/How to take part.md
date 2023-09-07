@@ -39,10 +39,7 @@ We will send you a confirmation email when we have received your donation.
 
 | Date | Location| 
 | -------- | -------- | 
-| 27 October 2023 | Tampines Eco Green |
-| 27 October 2023 | Serangoon Park Connector |
-| 3 November 2023 | East Coast Park Area G |
-| 25 November 2023 | Changi Beach Park |
+| 27 October 2023 | Tampines Eco Green (*filling fast*) |
 
 Please take note of the following terms and conditions:
 
