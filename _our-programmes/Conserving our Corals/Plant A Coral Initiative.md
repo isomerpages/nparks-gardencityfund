@@ -25,7 +25,7 @@ Plant-A-Coral Initiative
 
 *   Be entitled to participate in a free guided walk\* on St John's Islands to experience its rich marine biodiversity and heritage.
 *   Receive a personalised certificate of recognition.
-*   Get access to photo update every six months on the progress of the REU, for a period of three years.
+
 
 With a minimum donation of $200, organisations and individuals will be able to sponsor a coral. These coral nubbins will be transplanted to Reef Enhancement Units.
 
