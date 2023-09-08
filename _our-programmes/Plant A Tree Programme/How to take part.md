@@ -41,7 +41,7 @@ We will send you a confirmation email when we have received your donation.
 | -------- | -------- | 
 | 27 October 2023 | Tampines Eco Green (*filling fast*) 
 
-*Thank you for your support! Slots for our last remaining tree planting session are filling up fast. If you would like to support the Plant-A-Tree programme, do note that your planting would most likely be in 2024. *
+**Thank you for your support! Slots for our last remaining tree planting session are filling up fast. If you would like to support the Plant-A-Tree programme, do note that your planting would most likely be in 2024. *
 
 Please take note of the following terms and conditions:
 
