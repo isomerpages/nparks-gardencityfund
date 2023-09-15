@@ -36,10 +36,7 @@ We will send you a confirmation email when we have received your donation.
 # Tree Planting Schedule
 
 
-
-| Date | Location| 
-| -------- | -------- | 
-| 27 October 2023 | Tampines Eco Green (*filling fast*) |
+`Thank you for your support! Our 2023 planting sessions are fully subscribed to. Please visit our website again to view our 2024 planting schedule, which will be released in December 2023.`
 
 Please take note of the following terms and conditions:
 
@@ -48,7 +45,7 @@ Please take note of the following terms and conditions:
 *   We will do our best to allocate you with a tree planting slot if you are unavailable on the next available date. Do note that&nbsp;**donors will need to plant their donated trees&nbsp;within&nbsp;6 months&nbsp;upon receipt of donation.**&nbsp;Otherwise, we will plant the trees on your behalf.
 *   Please respond to our confirmation emails pertaining to your donation and tree planting slots within 1 month.
 *   There will be no postponement after confirmation of planting slots. If you are unable to make it for the tree planting after you have acknowledged the confirmation email, trees will be planted on your behalf.
-*   If the planting has to be cancelled due to heightened Covid-19 measures or inclement weather, trees will be planted on your behalf.
+*   If the planting has to be cancelled due to heightened Covid-19 measures or inclement weather, the trees will be planted on your behalf.
 *   Please note that prevailing safe management measures apply.
 
 _Garden City Fund reserves the right to change the planting site when necessary._
