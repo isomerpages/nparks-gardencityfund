@@ -36,7 +36,7 @@ We will send you a confirmation email when we have received your donation.
 # Tree Planting Schedule
 
 
-\## Thank you for your support! Our 2023 planting sessions are fully subscribed to. Please visit our website again to view our 2024 planting schedule, which will be released in December 2023.
+`## Thank you for your support! Our 2023 planting sessions are fully subscribed to. Please visit our website again to view our 2024 planting schedule, which will be released in December 2023.`
 
 Please take note of the following terms and conditions:
 
