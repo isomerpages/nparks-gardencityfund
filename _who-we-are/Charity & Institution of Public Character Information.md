@@ -25,7 +25,7 @@ Please click&nbsp;[here](https://www.nparks.gov.sg/portals/annualreport/garden-c
 Please click&nbsp;[here](/files/IPC%20information/FY2021%20Online%20Summary.pdf)&nbsp;to view our financial information  
   
 **Honour Roll**  
-Please click [here](/files/IPC%20information/NParks_GCF_Honour_Roll_2017-2021.pdf)  for a list of donors who have supported the Garden City Fund
+Please click [here](/files/gcf%20honour%20roll%20fy18-22.pdf)  for a list of donors who have supported the Garden City Fund
 
 **Conflict of Interest Policy**  
 The Garden City Fund Management Committee members are required to comply with the charity’s conflict of interest policy. The charity has put in place documented procedures for committee members to declare actual or potential conflicts of interests on a regular and need-to basis. Committee members also abstain and do not participate in discussion or decision-making on matters where they have a conflict of interest.
