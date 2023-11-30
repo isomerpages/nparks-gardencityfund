@@ -21,7 +21,12 @@ In June 2023, NParks announced a new initiative to scale up existing coral resto
 
 In what way can I contribute?
 ------------------------
+One way to contribute is to donate to the Garden City Fund’s Plant-A-Coral, Seed-A-Reef (PACSAR) programme. The support you provide will go towards the following initiatives:
 
+* Coral cultivation in coral nurseries
+* Expanding existing coral nurseries
+*  Exploring new coral cultivation methods to boost growth and ecological resilience of corals
+* Transplanting corals onto degraded reefs and REUs
 ### As a donor, you will
 
 *   Be entitled to participate in a free guided walk\* on St John's Islands to experience its rich marine biodiversity and heritage.
