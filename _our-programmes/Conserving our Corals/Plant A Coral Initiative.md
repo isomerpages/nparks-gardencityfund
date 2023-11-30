@@ -48,6 +48,16 @@ Your donation will entitle you to a 2.5 times tax deduction, with a valid NRIC/F
 Donor Benefits
 ----------------------
 
+
+| Donation amount | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| $200 and     | Text     | Tes to be outplanted   |
+| $2,000 or more  | Enable 10 coral nubbin     | Text     |
+
+
+
+
+
 Under the Seed-A-Reef initiative, organisations and individuals will be able to sponsor a Reef Enhancement Unit (REU) with a minimal donation of $20,000.
 
 To kick off the programme, HSBC has fully supported the first phase of the Seed-A-Reef initiative, donating $180,000 for nine REUs.
