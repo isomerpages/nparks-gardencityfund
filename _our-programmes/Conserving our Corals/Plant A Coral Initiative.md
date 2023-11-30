@@ -30,10 +30,10 @@ One way to contribute is to donate to the Garden City Fund’s Plant-A-Coral, Se
 
 How to donate?
 ------------------------
-Lend your support to us by donating to the PLant-A-coral, Seed-A-Reef programme via
+Lend your support to us by donating to the Plant-A-coral, Seed-A-Reef programme via
 
-*   Step 1: Donate [here](https://www.giving.sg/garden-city-fund/pacsar) or via cheque.
-*   Step 2: Upon receipt of donation, we will send you an email on the available tour dates.
+*   Credit card on [here](https://www.giving.sg/garden-city-fund/pacsar) 
+*   Cheque
 
 For cheque donations, mail the cheque, payable to **Garden City Fund**, with your full name/company name, NRIC/FIN/UEN and purpose of donation written at the back of the cheque, to: 
 
@@ -44,9 +44,6 @@ Singapore 259569**
 
 Your donation will entitle you to a 2.5 times tax deduction, with a valid NRIC/FIN number (individual) or local UEN/Business Registration Number (organisation).
 
-_\* Space is limited and allocation will be on a first-come, first-served basis and upon receipt of the full donation amount._
-
-_\* Limited to one pax sign up per $200 donation._
 
 Donor Benefits
 ----------------------
