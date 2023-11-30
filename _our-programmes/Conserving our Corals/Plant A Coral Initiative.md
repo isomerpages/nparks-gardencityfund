@@ -48,18 +48,23 @@ Your donation will entitle you to a 2.5 times tax deduction, with a valid NRIC/F
 Donor Benefits
 ----------------------
 
+    
+With a minimum donation of $200, donors will be able to sponsor a coral and receive the following benefits:
 
-| Donation amount | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| $200 and     | Text     | Tes to be outplanted   |
-| $2,000 or more  | Enable 10 coral nubbin     | Text     |
+*   A personalised e-certificate of recognition.
+*   An e-brochure on local marine conservation.
+*   Join an exclusive mailing list that will include invitation to talks, events and updates on 100k corals initiative.
+
+With a minimum donation of $2,000,donors will be able to sponsor 10 corals and receive the following benefits:
+
+*   A personalised e-certificate of recognition.
+*   An e-brochure on local marine conservation.  
+*   Join an exclusive mailing list that will include invitation to talks, events and updates on 100k corals initiative.
+*   4 participants are entitled to join a St John’s Island Guided Walk.
+
+Donors who are interested in donating $20,000 or more may contact Garden City Fund at [garden\_city\_fund@nparks.gov.sg](mailto:garden_city_fund@nparks.gov.sg) for more information.
 
 
 
 
 
-Under the Seed-A-Reef initiative, organisations and individuals will be able to sponsor a Reef Enhancement Unit (REU) with a minimal donation of $20,000.
-
-To kick off the programme, HSBC has fully supported the first phase of the Seed-A-Reef initiative, donating $180,000 for nine REUs.
-
-More REUs will be put up for support in subsequent phases of the Seed-A-Reef initiative. More details will be shared later.
