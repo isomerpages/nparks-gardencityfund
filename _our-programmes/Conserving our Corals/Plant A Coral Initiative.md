@@ -3,22 +3,23 @@ title: Plant-A-Coral Initiative
 permalink: /our-programmes/plant-a-coral/
 description: ""
 third_nav_title: Conserving our Corals
+variant: markdown
 ---
-Caring and conserving our marine biodiversity is the social responsibility of every individual.
+The corals in Singapore’s waters are vulnerable to impact from climate change. The Garden City Fund’s Plant-A-Coral, Seed-A-Reef (PACSAR) Programme is a platform for organisations and individuals to support habitat enhancement efforts to improve coral reef cover and resilience.
 
-The Garden City Fund’s Plant-A-Coral, Seed-A-Reef Programme is a platform for organisations and individuals to support the habitat enhancement efforts at the Sisters’ Islands Marine Park.
+Coral nubbins (small coral fragments) will be transplanted from a coral nursery to degraded or artificial reefs. This aims to enhance our marine biodiversity by providing areas for marine organisms to grow and reef fish to seek refuge.
 
-The Programme aims to enhance our marine biodiversity by providing areas for marine organisms to grow and reef fish to seek refuge. Coral nubbins (small coral fragments) will be transplanted from a coral nursery to Reef Enhancement Units (REUs).
+In June 2023, NParks announced a new initiative to scale up existing coral restoration efforts and plant 100,000 corals in Singapore’s waters under PACSAR. Each transplanted coral nubbin will contribute towards this ambitious target.
 
 ![](/images/Staff%20preparing%20corals%20for%20attachment.jpg)
-*Staff preparing corals for attachment to the Reef Enhancement Unit*
+*Staff preparing corals for attachment to a Reef Enhancement Unit (REU)*
 
 
 # Process of Reef Enhancement
 
 ![](/images/Plant%20a%20Coral.png)
 
-Plant-A-Coral Initiative
+In what way can I contribute?
 ------------------------
 
 ### As a donor, you will
@@ -45,7 +46,7 @@ _\* Space is limited and allocation will be on a first-come, first-served basis 
 
 _\* Limited to one pax sign up per $200 donation._
 
-Seed-A-Reef Initiative
+Donor Benefits
 ----------------------
 
 Under the Seed-A-Reef initiative, organisations and individuals will be able to sponsor a Reef Enhancement Unit (REU) with a minimal donation of $20,000.
