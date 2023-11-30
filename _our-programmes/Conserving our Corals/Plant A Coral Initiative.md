@@ -32,7 +32,7 @@ How to donate?
 ------------------------
 Lend your support to us by donating to the Plant-A-coral, Seed-A-Reef programme via
 
-*   Credit card on [here](https://www.giving.sg/garden-city-fund/pacsar) 
+*   Credit card on [Giving.sg](https://www.giving.sg/garden-city-fund/pacsar) 
 *   Cheque
 
 For cheque donations, mail the cheque, payable to **Garden City Fund**, with your full name/company name, NRIC/FIN/UEN and purpose of donation written at the back of the cheque, to: 
