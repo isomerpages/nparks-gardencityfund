@@ -27,13 +27,10 @@ One way to contribute is to donate to the Garden City Fund’s Plant-A-Coral, Se
 * Expanding existing coral nurseries
 *  Exploring new coral cultivation methods to boost growth and ecological resilience of corals
 * Transplanting corals onto degraded reefs and REUs
-### As a donor, you will
 
-*   Be entitled to participate in a free guided walk\* on St John's Islands to experience its rich marine biodiversity and heritage.
-*   Receive a personalised certificate of recognition.
-
-
-With a minimum donation of $200, organisations and individuals will be able to sponsor a coral. These coral nubbins will be transplanted to Reef Enhancement Units.
+How to donate?
+------------------------
+Lend your support to us by donating to the PLant-A-coral, Seed-A-Reef programme via
 
 *   Step 1: Donate [here](https://www.giving.sg/garden-city-fund/pacsar) or via cheque.
 *   Step 2: Upon receipt of donation, we will send you an email on the available tour dates.
