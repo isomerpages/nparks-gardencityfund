@@ -3,6 +3,7 @@ title: How to take part
 permalink: /our-programmes/plant-a-tree/howtotakepart/
 description: ""
 third_nav_title: Plant-A-Tree Programme
+variant: markdown
 ---
 With every donation of $300, organisations and individuals will be able to plant a tree in one of NParks-managed green spaces.&nbsp;
 
@@ -36,7 +37,13 @@ We will send you a confirmation email when we have received your donation.
 # Tree Planting Schedule
 
 
-`Thank you for your support! Our 2023 planting sessions are fully subscribed to. Please visit our website again to view our 2024 planting schedule, which will be released in December 2023.`
+| Planting Date | Planting Location | Donation deadline |
+| -------- | -------- | -------- |
+| Ang Mo Kio Street 44    | 17 Jan 2024 (Wed)    | 27 Dec 2023    |
+| Upper Serangoon Road (near Hougang Ave 2)     | 26 Jan 2024 (Fri)       | 5 Jan 2024  |
+| Dairy Farm Nature Park    | 26 Jan 2024 (Fri)     | 5 Jan 2024   |
+
+
 
 Please take note of the following terms and conditions:
 
