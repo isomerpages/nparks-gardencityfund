@@ -39,9 +39,12 @@ We will send you a confirmation email when we have received your donation.
 
 | Planting Date | Planting Location | Donation deadline |
 | -------- | -------- | -------- |
-| Ang Mo Kio Street 44    | 17 Jan 2024 (Wed)    | 27 Dec 2023    |
-| Upper Serangoon Road (near Hougang Ave 2)     | 26 Jan 2024 (Fri)       | 5 Jan 2024  |
-| Dairy Farm Nature Park    | 26 Jan 2024 (Fri)     | 5 Jan 2024   |
+| Ang Mo Kio Street 44    | 17 Jan 2024 (Wed)| 27 Dec 2023  
+| Upper Serangoon Road (near Hougang Ave 2) | 26 Jan 2024 (Fri) | 5 Jan 2024  |
+| Dairy Farm Nature Park    | 26 Jan 2024 (Fri)     | 5 Jan 2024   | Bedok South Avenue 3   | 24 Feb 2024 (Sat)     | 3 Feb 2024  
+| Lorong 5 Toa Payoh    | 28 Feb 2024 (Wed)     | 7 Feb 2024  
+| Sengkang East Way  | 14 Mar 2024 (Thu)     | 22 Feb 2024
+| Pasir Ris Drive 10  | 30 Mar 2024 (Sat)     | 9 Mar 2024  
 
 
 
