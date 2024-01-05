@@ -2,6 +2,7 @@
 title: Garden City Fund Management Committee
 permalink: /who-we-are/committee/
 description: ""
+variant: markdown
 ---
 Founding Patron
 ---------------
@@ -29,7 +30,7 @@ Secretary
 ---------
 
 **Dr Leong Chee Chiew**  
-<i>Executive Director, National Parks, Gardens &amp; Nature Reserves / Commissioner of Parks &amp; Recreation, National Parks Board</i>
+<i>Executive Director, National Parks, Gardens &amp; Nature Reserves, National Parks Board</i>
 
 * * *
 
