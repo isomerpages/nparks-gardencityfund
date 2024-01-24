@@ -1,0 +1,8 @@
+collections:
+  who-we-are:
+    output: true
+    order:
+      - About GCF.md
+      - Garden City Fund Management Committee.md
+      - Charity & Institution of Public Character Information.md
+      - Donor Impact Report.md

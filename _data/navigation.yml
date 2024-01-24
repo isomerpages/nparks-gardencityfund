@@ -1,0 +1,14 @@
+logo: /images/Logos/gcf.png
+links:
+  - title: Who We Are
+    collection: who-we-are
+  - title: Our Programmes
+    collection: our-programmes
+  - title: Make A Difference
+    collection: make-a-difference
+  - title: Partner Collaborations
+    resource_room: true
+  - title: Our Partners
+    collection: our-partners
+  - title: FAQ
+    url: /faq
