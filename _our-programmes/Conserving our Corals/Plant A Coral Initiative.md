@@ -60,6 +60,6 @@ With a minimum donation of $2,000,donors will be able to sponsor 10 coral nubbin
 *   A personalised e-certificate of recognition.
 *   An e-brochure on local marine conservation.  
 *   Join an exclusive mailing list that will include invitation to talks, events and updates on 100k corals initiative.
-*   4 participants are entitled to join a St John’s Island Guided Walk.
+*   2 participants are entitled to join a St John’s Island Guided Walk.
 
 Donors who are interested in donating $20,000 or more may contact Garden City Fund at [garden\_city\_fund@nparks.gov.sg](mailto:garden_city_fund@nparks.gov.sg) for more information.
