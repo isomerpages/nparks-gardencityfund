@@ -115,6 +115,39 @@ environment, we will issue e-tax deductible receipts only upon request.</p>
 <p>9 Mar 2024</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ulu Pandan Park Connector</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>27 Apr 2024 (Sat)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Apr 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Serangoon Ave 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>25 May 2024 (Sat)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 May 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Springleaf Nature Paark</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>29 Jun 2024 (Sat)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8 Jun 2024</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>Please take note of the following terms and conditions:</p>
