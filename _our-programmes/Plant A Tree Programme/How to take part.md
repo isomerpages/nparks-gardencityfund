@@ -128,7 +128,7 @@ environment, we will issue e-tax deductible receipts only upon request.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Serangoon Ave 1</p>
+<p>Serangoon Avenue 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>25 May 2024 (Sat)</p>
@@ -139,7 +139,7 @@ environment, we will issue e-tax deductible receipts only upon request.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Springleaf Nature Paark</p>
+<p>Springleaf Nature Park</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>29 Jun 2024 (Sat)</p>
