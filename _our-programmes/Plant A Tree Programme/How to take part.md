@@ -51,36 +51,14 @@ environment, we will issue e-tax deductible receipts only upon request.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Planting Date</p>
+<p>Planting Location</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Planting Location</p>
+<p>Planting Date</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Donation deadline</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Bedok South Avenue 3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>24 Feb 2024 (Sat)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 Feb 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lorong 5 Toa Payoh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>28 Feb 2024 (Wed)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7 Feb 2024</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
