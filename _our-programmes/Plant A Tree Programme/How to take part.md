@@ -51,10 +51,10 @@ environment, we will issue e-tax deductible receipts only upon request.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Planting Date</p>
+<p>Planting Location</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Planting Location</p>
+<p>Planting Date</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Donation deadline</p>
