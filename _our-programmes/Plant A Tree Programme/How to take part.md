@@ -62,17 +62,6 @@ environment, we will issue e-tax deductible receipts only upon request.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sengkang East Way</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>14 Mar 2024 (Thu)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>22 Feb 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ang Mo Kio Street 22</p>
 </td>
 <td rowspan="1" colspan="1">
