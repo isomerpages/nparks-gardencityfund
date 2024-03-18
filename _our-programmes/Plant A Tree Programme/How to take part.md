@@ -62,28 +62,6 @@ environment, we will issue e-tax deductible receipts only upon request.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ang Mo Kio Street 22</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>22 Mar 2024 (Fri)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 Mar 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Pasir Ris Drive 10</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>30 Mar 2024 (Sat)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9 Mar 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ulu Pandan Park Connector</p>
 </td>
 <td rowspan="1" colspan="1">
