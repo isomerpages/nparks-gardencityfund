@@ -101,7 +101,7 @@ environment, we will issue e-tax deductible receipts only upon request.</p>
 <p>30 Aug 2024 (Fri)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8 Aug 202</p>
+<p>8 Aug 2024</p>
 </td>
 </tr>
 <tr>
@@ -112,7 +112,7 @@ environment, we will issue e-tax deductible receipts only upon request.</p>
 <p>27 Sep 2024 (Fri)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6 Sep 202</p>
+<p>6 Sep 2024</p>
 </td>
 </tr>
 <tr>
