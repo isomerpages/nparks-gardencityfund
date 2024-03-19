@@ -82,6 +82,61 @@ environment, we will issue e-tax deductible receipts only upon request.</p>
 <p>4 May 2024</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tampines Eco Green</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26 Jul 2024 (Fri)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Jul 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Compassvale Lane</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30 Aug 2024 (Fri)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8 Aug 202</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Springleaf Nature Park</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>27 Sep 2024 (Fri)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Sep 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Malcolm Park</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26 Oct 2024 (Sat)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Oct 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ulu Pandan Park Connector</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30 Nov 2024 (Sat)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8 Nov 2024</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>Please take note of the following terms and conditions:</p>
