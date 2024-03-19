@@ -65,7 +65,7 @@ environment, we will issue e-tax deductible receipts only upon request.</p>
 <p>Ulu Pandan Park Connector</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>27 Apr 2024 (Sat)</p>
+<p>27 Apr 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6 Apr 2024</p>
