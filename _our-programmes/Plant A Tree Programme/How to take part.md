@@ -29,7 +29,7 @@ a key pillar of the Singapore Green Plan 2030. &nbsp;</p>
 <p>Mail the cheque, payable to&nbsp;<strong>Garden City Fund</strong>, with
 your full name and purpose of donation written at the back of the cheque,
 to:</p>
-<p><strong>Garden City Fund<br>c/o National Parks Board HQ<br>1 Cluny Road<br>Singapore 259569</strong>
+<p><strong>Garden City Fund<br>c/o National Parks Board HQ<br>1 Cluny Road<br>Singapore 259569</strong> 
 <br>
 </p>
 </li>
