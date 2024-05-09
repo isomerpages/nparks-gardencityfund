@@ -22,7 +22,6 @@ a key pillar of the Singapore Green Plan 2030. &nbsp;</p>
 <li>
 <p><strong><a href="https://www.giving.sg/garden-city-fund/plantatreeprogramme" rel="noopener noreferrer nofollow" target="_blank">Giving.sg</a></strong>
 </p>
-<p></p>
 </li>
 <li>
 <p>Cheque</p>
@@ -30,7 +29,6 @@ a key pillar of the Singapore Green Plan 2030. &nbsp;</p>
 your full name and purpose of donation written at the back of the cheque,
 to:</p>
 <p><strong>Garden City Fund<br>c/o National Parks Board HQ<br>1 Cluny Road<br>Singapore 259569</strong> 
-<br>
 </p>
 </li>
 <li>
