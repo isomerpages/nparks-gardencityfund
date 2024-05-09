@@ -22,14 +22,7 @@ a key pillar of the Singapore Green Plan 2030. &nbsp;</p>
 <li>
 <p><strong><a href="https://www.giving.sg/garden-city-fund/plantatreeprogramme" rel="noopener noreferrer nofollow" target="_blank">Giving.sg</a></strong>
 </p>
-</li>
-<li>
-<p>DBS LiveBetter with QR code below (DBS/POSB digibank app user only)</p>
-<p>(note: every $300 donated via DBS LiveBetter collectively will support
-the planting of one tree by NParks)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DBS%20LiveBetter%20CyN%20(1).png">
-</div>
+<p></p>
 </li>
 <li>
 <p>Cheque</p>
@@ -37,7 +30,18 @@ the planting of one tree by NParks)</p>
 your full name and purpose of donation written at the back of the cheque,
 to:</p>
 <p><strong>Garden City Fund<br>c/o National Parks Board HQ<br>1 Cluny Road<br>Singapore 259569</strong>
+<br>
 </p>
+</li>
+<li>
+<p>DBS LiveBetter with QR code below (DBS/POSB digibank app user only)
+<br>(note: every $300 donated via DBS LiveBetter collectively will support
+the planting of one tree by NParks. If you wish to plant the tree yourself,
+please donate via <a href="https://www.giving.sg/garden-city-fund/plantatreeprogramme" rel="noopener noreferrer nofollow" target="_blank">Giving.sg</a> or
+cheque.)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DBS LiveBetter CyN (1).png">
+</div>
 </li>
 </ul>
 <p>Your donation will entitle you to a 2.5 times tax deduction, with a valid
@@ -47,7 +51,12 @@ reflected in your tax assessment the following year.&nbsp;To support the
 environment, we will issue e-tax deductible receipts only upon request.</p>
 <p>We will send you a confirmation email when we have received your donation.</p>
 <h1>Tree Planting Schedule</h1>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -59,28 +68,6 @@ environment, we will issue e-tax deductible receipts only upon request.</p>
 <th rowspan="1" colspan="1">
 <p>Donation deadline</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ulu Pandan Park Connector</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>27 Apr 2024 (Sat)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 Apr 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Serangoon Avenue 1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>25 May 2024 (Sat)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4 May 2024</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
