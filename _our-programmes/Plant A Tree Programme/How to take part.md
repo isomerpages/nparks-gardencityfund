@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Plant-A-Tree Programme
 variant: tiptap
 ---
-<p>All 2024 public planting sessions are fully subscribed to. Please email
-<a href="mailto:garden_city_fund@nparks.gov.sg" rel="noopener noreferrer nofollow" target="_blank">garden_city_fund@nparks.gov.sg</a>if you would like to organise a private
-planting of 50 or more trees.</p>
+<p>All 2024 public planting sessions are fully subscribed to.</p>
+<p>Please email <a href="mailto:garden_city_fund@nparks.gov.sg" rel="noopener noreferrer nofollow" target="_blank">garden_city_fund@nparks.gov.sg</a> if
+you would like to organise a private planting of 50 or more trees.</p>
 <p>With every donation of $300, organisations and individuals will be able
 to plant a tree in one of NParks-managed green spaces.&nbsp;</p>
 <div class="isomer-image-wrapper">
