@@ -7,8 +7,8 @@ variant: tiptap
 ---
 <p>All 2024 public planting sessions are fully subscribed to. Please email
 <a href="mailto:garden_city_fund@nparks.gov.sg" rel="noopener noreferrer nofollow" target="_blank">garden_city_fund@nparks.gov.sg</a>if you would like to organise a private
-planting of 50 trees.</p>
-<p>ith every donation of $300, organisations and individuals will be able
+planting of 50 or more trees.</p>
+<p>With every donation of $300, organisations and individuals will be able
 to plant a tree in one of NParks-managed green spaces.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tree%20Planting%20(Pls%20credit%20NParks)%20(3).jpg">
@@ -18,7 +18,6 @@ Any balance would go towards community and capacity building projects (e.g.
 education, research, value-added features, outreach, etc) that helps connect
 people with nature, moving us closer to realising our City in Nature vision,
 a key pillar of the Singapore Green Plan 2030. &nbsp;</p>
-<p></p>
 <p><strong>Step 1:</strong>&nbsp;Check the tree planting schedule below.</p>
 <p><strong>Step 2:</strong>&nbsp;Donate&nbsp;to Garden City Fund via:</p>
 <ul>
