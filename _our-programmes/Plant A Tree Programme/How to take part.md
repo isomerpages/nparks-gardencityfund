@@ -5,6 +5,9 @@ description: ""
 third_nav_title: Plant-A-Tree Programme
 variant: tiptap
 ---
+<p>All 2024 public planting sessions are fully subscribed to.</p>
+<p>Please email <a href="mailto:garden_city_fund@nparks.gov.sg" rel="noopener noreferrer nofollow" target="_blank">garden_city_fund@nparks.gov.sg</a> if
+you would like to organise a private planting of 50 or more trees.</p>
 <p>With every donation of $300, organisations and individuals will be able
 to plant a tree in one of NParks-managed green spaces.&nbsp;</p>
 <div class="isomer-image-wrapper">
@@ -15,22 +18,19 @@ Any balance would go towards community and capacity building projects (e.g.
 education, research, value-added features, outreach, etc) that helps connect
 people with nature, moving us closer to realising our City in Nature vision,
 a key pillar of the Singapore Green Plan 2030. &nbsp;</p>
-<p></p>
 <p><strong>Step 1:</strong>&nbsp;Check the tree planting schedule below.</p>
 <p><strong>Step 2:</strong>&nbsp;Donate&nbsp;to Garden City Fund via:</p>
 <ul>
 <li>
 <p><strong><a href="https://www.giving.sg/garden-city-fund/plantatreeprogramme" rel="noopener noreferrer nofollow" target="_blank">Giving.sg</a></strong>
 </p>
-<p></p>
 </li>
 <li>
 <p>Cheque</p>
 <p>Mail the cheque, payable to&nbsp;<strong>Garden City Fund</strong>, with
 your full name and purpose of donation written at the back of the cheque,
 to:</p>
-<p><strong>Garden City Fund<br>c/o National Parks Board HQ<br>1 Cluny Road<br>Singapore 259569</strong> 
-<br>
+<p><strong>Garden City Fund<br>c/o National Parks Board HQ<br>1 Cluny Road<br>Singapore 259569</strong>
 </p>
 </li>
 <li>
@@ -51,81 +51,8 @@ reflected in your tax assessment the following year.&nbsp;To support the
 environment, we will issue e-tax deductible receipts only upon request.</p>
 <p>We will send you a confirmation email when we have received your donation.</p>
 <h1>Tree Planting Schedule</h1>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Planting Location</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Planting Date</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Donation deadline</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tampines Eco Green</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>26 Jul 2024 (Fri)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 Jul 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Compassvale Lane</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>30 Aug 2024 (Fri)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8 Aug 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Springleaf Nature Park</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>27 Sep 2024 (Fri)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 Sep 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Malcolm Park</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>26 Oct 2024 (Sat)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4 Oct 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ulu Pandan Park Connector</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>30 Nov 2024 (Sat)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8 Nov 2024</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p>All 2024 public planting sessions are fully subscribed to. Please check
+this webpage for the latest planting schedule.</p>
 <p>Please take note of the following terms and conditions:</p>
 <ul data-tight="true" class="tight">
 <li>
