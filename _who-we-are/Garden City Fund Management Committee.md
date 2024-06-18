@@ -26,14 +26,6 @@ Treasurer
 
 * * *
 
-Secretary
----------
-
-**Dr Leong Chee Chiew**  
-<i>Executive Director, National Parks, Gardens &amp; Nature Reserves, National Parks Board</i>
-
-* * *
-
 Members
 -------
 
