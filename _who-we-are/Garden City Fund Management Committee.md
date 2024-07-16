@@ -25,6 +25,7 @@ Treasurer
 <i>Partner, Allen &amp; Gledhill LLP</i>
 
 * * *
+
 Secretary
 ---------
 
