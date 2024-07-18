@@ -26,6 +26,14 @@ Treasurer
 
 * * *
 
+Secretary
+---------
+
+**Dr Yap Him Hoo**  
+<i>Deputy Chief Executive Officer, Professional Development &amp; Services Cluster, National Parks Board</i>
+
+* * *
+
 Members
 -------
 
