@@ -2,6 +2,7 @@
 title: Singapore Botanic Gardens Seed Bank
 permalink: /our-programmes/SBGSeedBank/
 description: ""
+variant: markdown
 ---
 Did you know that every flowering plant, from the diminutive orchids to the tallest trees on earth, begins life as a seed? Seeds come in all shapes and sizes, and contain tiny plant embryos that will grow to become the next generation of plants.  
   
@@ -19,4 +20,4 @@ Your donation will support:
 * Collaboration with seed bank partners and institutions  
 * Education and outreach efforts on seed banking and conservation
 
-Donate to the Seed Bank via this link [here](https://www.giving.sg/garden-city-fund/seedbank2023).
+Donate to the Seed Bank via this link [here](https://go.gov.sg/supportseedbank).
