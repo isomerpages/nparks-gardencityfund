@@ -22,7 +22,7 @@ a key pillar of the Singapore Green Plan 2030. &nbsp;</p>
 <p><strong>Step 2:</strong>&nbsp;Donate&nbsp;to Garden City Fund via:</p>
 <ul>
 <li>
-<p><strong><a href="https://www.giving.sg/garden-city-fund/plantatreeprogramme" rel="noopener noreferrer nofollow" target="_blank">Giving.sg</a></strong>
+<p><strong><a href="https://go.gov.sg/supportpat" rel="noopener noreferrer nofollow" target="_blank">Giving.sg</a></strong>
 </p>
 </li>
 <li>
