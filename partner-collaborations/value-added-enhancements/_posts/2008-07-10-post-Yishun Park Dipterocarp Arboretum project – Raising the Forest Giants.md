@@ -5,6 +5,7 @@ date: 2008-07-10
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 In partnership with :
 **Banyan Tree Holdings Limited**
@@ -23,4 +24,4 @@ Visitors to Yishun Park can learn more about this unique family of rainforest tr
 
 Banyan Tree's contribution supported the costs of implementing the project, installing educational signage, and organising educational programmes for the public, including guided walks and tree hunts. The arboretum was officially opened on 10 July 2008.
 
-Read more [here](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/yishun-park/what-to-see).
+Read more [here](https://beta.nparks.gov.sg/visit/parks/yishun-park/special-features/yishun-arboretum).

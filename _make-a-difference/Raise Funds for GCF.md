@@ -2,12 +2,13 @@
 title: Raise Funds for GCF
 permalink: /make-a-difference/raise-funds/
 description: ""
+variant: markdown
 ---
 Be our advocate and choose us as the beneficiary in your fundraising efforts.
 
 Support the Garden City Fund by organising a fundraiser.
 
-To start, contact us at [garden\_city\_fund@nparks.gov.sg](mailto:garden_city_fund@nparks.gov.sg) and share with us your fundraising proposal.
+To start, contact us at&nbsp;[garden\_city\_fund@nparks.gov.sg](mailto:garden_city_fund@nparks.gov.sg)&nbsp;and share with us your fundraising proposal.
 
 Some of our current and past fundraising partners include:
 
@@ -19,4 +20,4 @@ Some of our current and past fundraising partners include:
 *   Takashimaya Department Store
 *   Triumph International Singapore
 
-Please note that public fundraisers by organisations may require licence approval from the Singapore Police Force. For more details, please visit SPF's website <a href=" https://www.police.gov.sg/e-Services/Police-Licences/House-To-House-and-Street-Establishment-Licence" target="_blank">here</a>.
+Please note that public fundraisers by organisations may require disclosures on Charity's Portal. For more details, please visit their website&nbsp;<a href="https://www.charities.gov.sg/Pages/Fund-Raising/Types-of-FR-Permits/Fund-Raising-for-Local-Charitable-Purposes.aspx#" target="_blank">here</a>.
