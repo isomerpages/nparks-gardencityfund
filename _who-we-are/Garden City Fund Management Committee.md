@@ -38,7 +38,7 @@ Members
 -------
 
 **Mr Gerald Tan**  
-<i>Head of Reputational Risk for Asia, Credit Suisse </i>
+<i>Executive Director, Business Selection, Reputational Risk and Conflicts, UBS Global Banking</i>
 
 **Mr Goh Kong Aik** 
 
