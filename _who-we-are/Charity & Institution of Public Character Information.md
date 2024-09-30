@@ -2,6 +2,7 @@
 title: Charity & Institution of a Public Character Information
 permalink: /who-we-are/charity-and-institution-of-a-public-character-information/
 description: ""
+variant: markdown
 ---
 **Charity Registration No.**  
 T02CC1634C  
@@ -22,7 +23,7 @@ Foo Kon Tan LLP
 Please click&nbsp;[here](https://www.nparks.gov.sg/portals/annualreport/garden-city-fund/index.htm)&nbsp;to view our annual report  
   
 **Financial Information**  
-Please click [here](/files/fy22%20fs_online%20disclosure.pdf) to view our financial information.  
+Please click [here](/files/FY23_FS_online_disclosure.pdf) to view our financial information.  
   
 **Honour Roll**  
 Please click [here](/files/gcf%20honour%20roll%20fy18-22.pdf)  for a list of donors who have supported the Garden City Fund

@@ -2,6 +2,7 @@
 title: Contribute to our City in Nature
 permalink: /make-a-difference/contribute/
 description: ""
+variant: markdown
 ---
 Over the years, more corporations, foundations and individuals have stepped forward to support our City in Nature as they understood the importance of their involvement to conserve our natural heritage and unique biodiversity.
 
@@ -29,7 +30,7 @@ If you are our existing donor and wish to inform us of any changes in personal p
 Contribute to your City in Nature by making an outright donation towards our conservation, outreach and education efforts.
 
 **Donate now by**
-* [Credit Card via Giving.sg](https://www.giving.sg/garden-city-fund)<br>
+* [Credit Card via Giving.sg](https://www.giving.sg/seo/share/profile/e245d0e8-c15a-4e52-8902-52189e2a5257?utm_source=giving.sg)<br>
 * [Cheque](/files/GCF%20cheque%20donation%20online%20form.pdf)<br>
 * [GIRO](/files/Giro%20Form.pdf)
 * DBS LiveBetter via QR code below (DBS/POSB digibank app user only)

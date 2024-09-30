@@ -24,11 +24,11 @@ sections:
           url: /our-programmes/plant-a-coral/
       background: /images/Deloitte participants 2.jpg
   - infopic:
-      title: "City in Nature "
+      title: City in Nature
       subtitle: Support our
       description: Conserve our natural heritage
       button: Donate here
-      url: https://www.giving.sg/garden-city-fund
+      url: https://www.giving.sg/seo/share/profile/e245d0e8-c15a-4e52-8902-52189e2a5257?utm_source=giving.sg
       alt: Image alt text
       image: /images/Opening3.gif
   - infobar:
