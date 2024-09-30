@@ -37,8 +37,7 @@ to:</p>
 <p>DBS LiveBetter with QR code below (DBS/POSB digibank app user only)
 <br>(note: every $300 donated via DBS LiveBetter collectively will support
 the planting of one tree by NParks. If you wish to plant the tree yourself,
-please donate via <a href="https://www.giving.sg/garden-city-fund/plantatreeprogramme" rel="noopener noreferrer nofollow" target="_blank">Giving.sg</a> or
-cheque.)</p>
+please donate via <a href="https://go.gov.sg/supportpat" rel="noopener noreferrer nofollow" target="_blank">Giving.sg</a> or cheque.)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DBS LiveBetter CyN (1).png">
 </div>
