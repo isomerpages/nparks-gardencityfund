@@ -14,15 +14,7 @@ Founding Patron
 Chairman
 --------
 
-**Professor Emeritus Leo Tan**  
-
-* * *
-
-Treasurer
----------
-
-**Mr Daren Shiau**  
-<i>Partner, Allen &amp; Gledhill LLP</i>
+**Mr Guy Daniel Harvey-Samuel**  
 
 * * *
 
@@ -37,15 +29,19 @@ Secretary
 Members
 -------
 
-**Mr Gerald Tan**  
-<i>Executive Director, Business Selection, Reputational Risk and Conflicts, UBS Global Banking</i>
+**Mr Daren Shiau**  
+<i>Partner, Allen &amp; Gledhill LLP</i>
 
 **Mr Goh Kong Aik** 
-
-**Mr Guy Daniel Harvey-Samuel**
 
 **Mr Han Jok Kwang**  
 <i>Business Development Advisor, Schneider Electric</i>
 
-**Mrs Kirtida Mekani**  
-<i>Director, CISTECH International Pte Ltd</i>
+**Mr Ho Hin Wah**  
+<i>Chief Investment Officer, Genedant Capital</i>
+
+**Ms May Loh**  
+<i>Partner and Singapore Office Head, Albright Stonebridge Group</i>
+
+**Ms Shantini Ramachandra**  
+<i>Managind Director, Alvarez &amp; Marsal Tax</i>
