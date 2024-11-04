@@ -8,12 +8,12 @@ Founding Patron
 ---------------
 **Mr Lee Kuan Yew**
 
-
+* * *
 Chairman
 --------
 **Mr Guy Daniel Harvey-Samuel**  
 
-
+* * *
 Treasurer
 ---------
 **Mr Goh Kong Aik**
@@ -24,6 +24,7 @@ Secretary
 **Dr Yap Him Hoo**  
 <i>Deputy Chief Executive Officer, Professional Development &amp; Service Cluster, National Parks Board</i>
 
+* * *
 Members
 -------
 **Mr Daren Shiau**  
