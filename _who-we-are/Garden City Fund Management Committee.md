@@ -44,4 +44,4 @@ Members
 <i>Partner and Singapore Office Head, Albright Stonebridge Group</i>
 
 **Ms Shantini Ramachandra**  
-<i>Managind Director, Alvarez &amp; Marsal Tax</i>
+<i>Managing Director, Alvarez &amp; Marsal Tax</i>
