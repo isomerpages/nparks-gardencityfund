@@ -18,7 +18,8 @@ variant: tiptap
 <hr>
 <h2>Secretary</h2>
 <p><strong>Dr Yap Him Hoo</strong>
-<br><em>Deputy Chief Executive Officer, Professional Development &amp; Service Cluster, National Parks Board</em>
+<br><em>Deputy Chief Executive Officer, Professional Development &amp; Service Cluster, </em>
+<br><em>National Parks Board</em>
 </p>
 <hr>
 <h2>Members</h2>
