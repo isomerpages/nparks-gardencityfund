@@ -10,7 +10,7 @@ variant: tiptap
 <hr>
 <h2>Chairman</h2>
 <p><strong>Mr Guy Daniel Harvey-Samuel</strong>
-</p><pre><code></code></pre>
+</p>
 <hr>
 <h2>Treasurer</h2>
 <p><strong>Mr Goh Kong Aik</strong>
