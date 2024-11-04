@@ -2,46 +2,38 @@
 title: Garden City Fund Management Committee
 permalink: /who-we-are/committee/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-Founding Patron
----------------
-**Mr Lee Kuan Yew**
-
-
-* * *
-Chairman
---------
-**Mr Guy Daniel Harvey-Samuel**  
-
-
-* * *
-Treasurer
----------
-**Mr Goh Kong Aik**
-
-
-* * *
-Secretary
----------
-**Dr Yap Him Hoo**  
-<i>Deputy Chief Executive Officer, Professional Development &amp; Service Cluster, National Parks Board</i>
-
-
-* * *
-Members
--------
-**Mr Daren Shiau**  
-<i>Partner, Allen &amp; Gledhill LLP</i>
-
-**Mr Han Jok Kwang**  
-<i>Business Development Advisor, Schneider Electric</i>
-
-**Mr Ho Hin Wah**  
-<i>Chief Investment Officer, Genedant Capital</i>
-
-**Ms May Loh**  
-<i>Partner and Singapore Office Head, Albright Stonebridge Group</i>
-
-**Ms Shantini Ramachandra**  
-<i>Managing Director, Alvarez &amp; Marsal Tax</i>
+<h2>Founding Patron</h2>
+<p><strong>Mr Lee Kuan Yew</strong>
+</p>
+<hr>
+<h2>Chairman</h2>
+<p><strong>Mr Guy Daniel Harvey-Samuel</strong>
+</p><pre><code></code></pre>
+<hr>
+<h2>Treasurer</h2>
+<p><strong>Mr Goh Kong Aik</strong>
+</p>
+<hr>
+<h2>Secretary</h2>
+<p><strong>Dr Yap Him Hoo</strong>
+<br><em>Deputy Chief Executive Officer, Professional Development &amp; Service Cluster, National Parks Board</em>
+</p>
+<hr>
+<h2>Members</h2>
+<p><strong>Mr Daren Shiau</strong>
+<br><em>Partner, Allen &amp; Gledhill LLP</em>
+</p>
+<p><strong>Mr Han Jok Kwang</strong>
+<br><em>Business Development Advisor, Schneider Electric</em>
+</p>
+<p><strong>Mr Ho Hin Wah</strong>
+<br><em>Chief Investment Officer, Genedant Capital</em>
+</p>
+<p><strong>Ms May Loh</strong>
+<br><em>Partner and Singapore Office Head, Albright Stonebridge Group</em>
+</p>
+<p><strong>Ms Shantini Ramachandra</strong>
+<br><em>Managing Director, Alvarez &amp; Marsal Tax</em>
+</p>
