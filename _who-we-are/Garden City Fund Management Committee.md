@@ -6,33 +6,28 @@ variant: markdown
 ---
 Founding Patron
 ---------------
-
 **Mr Lee Kuan Yew**
 
-* * *
 
 Chairman
 --------
-
 **Mr Guy Daniel Harvey-Samuel**  
 
-* * *
 
+Treasurer
+---------
+**Mr Goh Kong Aik**
+
+* * *
 Secretary
 ---------
-
 **Dr Yap Him Hoo**  
 <i>Deputy Chief Executive Officer, Professional Development &amp; Services Cluster, National Parks Board</i>
 
-* * *
-
 Members
 -------
-
 **Mr Daren Shiau**  
 <i>Partner, Allen &amp; Gledhill LLP</i>
-
-**Mr Goh Kong Aik** 
 
 **Mr Han Jok Kwang**  
 <i>Business Development Advisor, Schneider Electric</i>
