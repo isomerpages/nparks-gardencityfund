@@ -36,5 +36,5 @@ variant: tiptap
 <br><em>Partner and Singapore Office Head, Albright Stonebridge Group</em>
 </p>
 <p><strong>Ms Shantini Ramachandra</strong>
-<br><em>Managing Director, Alvarez &amp; Marsal Tax</em>
+<br>
 </p>
