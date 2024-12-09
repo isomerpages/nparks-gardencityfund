@@ -5,17 +5,17 @@ description: ""
 third_nav_title: Conserving our Corals
 variant: tiptap
 ---
-<p>The corals in Singapore’s waters are vulnerable to impact from climate
-change. The Garden City Fund’s Plant-A-Coral, Seed-A-Reef&nbsp;(PACSAR)
-Programme is a platform for organisations and individuals to support habitat
-enhancement efforts to improve coral reef cover and resilience.</p>
-<p>Coral nubbins (small coral fragments) will be transplanted from a coral
-nursery to degraded or artificial reefs. This aims to enhance our marine
-biodiversity by providing areas for marine organisms to grow and reef fish
-to seek refuge.</p>
-<p>In June 2023, NParks announced a new initiative to scale up existing coral
-restoration efforts and plant 100,000 corals in Singapore’s waters under
-PACSAR. Each transplanted coral nubbin will contribute towards this ambitious
+<p>The corals in Singapore’s waters are vulnerable to various impact from
+climate change. The Garden City Fund’s 100k Corals Initiative is a platform
+for organisations and individuals to support habitat enhancement efforts
+to improve coral reef cover and resilience.</p>
+<p>Coral nubbins (small coral fragments) will be transplanted from the Marine
+Park Outreach and Education Centre (MPOEC) coral culturing facility to
+degraded or artificial reefs. This aims to enhance our marine biodiversity
+by increasing coral abundance and diversity.</p>
+<p>In December 2024, NParks launched the 100k Corals Initiative to scale
+up existing coral restoration efforts and plant 100,000 corals in Singapore’s
+waters. Each transplanted coral nubbin will contribute towards this ambitious
 target.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff%20preparing%20corals%20for%20attachment.jpg">
@@ -26,31 +26,38 @@ target.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Plant%20a%20Coral.png">
 </div>
+<h2>Importance of coral conservation</h2>
+<p>Corals are keystone reef-building animals that support a marine ecosystem,
+and an estimated one-quarter of marine species depend on coral reefs to
+survive. They are also a potential nature-based solution to help mitigate
+the impacts of climate change, serving as a natural defence against shoreline
+erosion while providing habitats for a rich array of marine biodiversity.</p>
+<p>Hence, to safeguard this valuable ecosystem, it is imperative to scale
+up coral restoration efforts locally, which will contribute towards a high-quality
+living environment in our City in Nature.</p>
 <h2>In what way can I contribute?</h2>
-<p>One way to contribute is to donate to the Garden City Fund’s Plant-A-Coral,
-Seed-A-Reef (PACSAR) programme. The support you provide will go towards
-the following initiatives:</p>
+<p>One way to contribute is to donate to the Garden City Fund’s 100k Corals
+Initiative. The support you provide will go towards the following:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Coral cultivation in coral nurseries</p>
+<p>Scaling up coral cultivation in coral culture facility</p>
 </li>
 <li>
-<p>Expanding existing coral nurseries</p>
+<p>Build capacity and technical know-how in large-scale coral restoration
+for future conservation efforts</p>
 </li>
 <li>
-<p>Exploring new coral cultivation methods to boost growth and ecological
-resilience of corals</p>
+<p>Transplanting corals onto degraded reefs or new areas</p>
 </li>
 <li>
-<p>Transplanting corals onto degraded reefs and REUs</p>
+<p>Species recovery of rarer coral species</p>
 </li>
 </ul>
 <h2>How to donate?</h2>
-<p>Lend your support to us by donating to the Plant-A-coral, Seed-A-Reef
-programme via</p>
+<p>Lend your support to us by donating to the 100k Corals Initiative via</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Credit card on&nbsp;<a href="https://go.gov.sg/pacsar" rel="noopener noreferrer nofollow" target="_blank">Giving.sg</a>
+<p>Credit card on&nbsp;<a href="https://go.gov.sg/donate100kcorals" rel="noopener noreferrer nofollow" target="_blank">Giving.sg</a>
 </p>
 </li>
 <li>
@@ -66,8 +73,8 @@ written at the back of the cheque, to:</p>
 NRIC/FIN number (individual) or local UEN/Business Registration Number
 (organisation).</p>
 <h2>Donor Benefits</h2>
-<p>With a minimum donation of $200, donors will be able to sponsor a coral
-nubbin and receive the following benefits:</p>
+<p>With a minimum donation of $200, donors will be able to receive the following
+benefits:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>A personalised e-certificate of recognition.</p>
@@ -77,11 +84,11 @@ nubbin and receive the following benefits:</p>
 </li>
 <li>
 <p>Join an exclusive mailing list that will include invitation to talks,
-events and updates on 100k corals initiative.</p>
+events and updates on 10k CoraIs Initiative.</p>
 </li>
 </ul>
-<p>With a minimum donation of $2,000,donors will be able to sponsor 10 coral
-nubbins and receive the following benefits:</p>
+<p>With a minimum donation of $2,000, donors will be able to receive the
+following benefits:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>A personalised e-certificate of recognition.</p>
