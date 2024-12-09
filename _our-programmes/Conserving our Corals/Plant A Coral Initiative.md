@@ -6,21 +6,21 @@ third_nav_title: Conserving our Corals
 variant: tiptap
 ---
 <p>The corals in Singapore’s waters are vulnerable to various impact from
-climate change. The Garden City Fund’s 100k Corals Initiative is a platform
-for organisations and individuals to support habitat enhancement efforts
-to improve coral reef cover and resilience.</p>
+climate change. In December 2024, NParks launched the 100k Corals Initiative
+to scale up existing coral restoration efforts and plant 100,000 corals
+in Singapore's waters. The Garden City Fund’s 100k Corals Initiative is
+a platform for organisations and individuals to support habitat enhancement
+efforts to improve coral reef cover and resilience. This is the most extensive
+coral restoration effort in Singapore to date.</p>
 <p>Coral nubbins (small coral fragments) will be transplanted from the Marine
-Park Outreach and Education Centre (MPOEC) coral culturing facility to
-degraded or artificial reefs. This aims to enhance our marine biodiversity
-by increasing coral abundance and diversity.</p>
-<p>In December 2024, NParks launched the 100k Corals Initiative to scale
-up existing coral restoration efforts and plant 100,000 corals in Singapore’s
-waters. Each transplanted coral nubbin will contribute towards this ambitious
-target.</p>
+Park Outreach and Education Centre (MPOEC) coral culture facility to degraded
+reefs or new areas. This aims to enhance our marine biodiversity by increasing
+coral abundance and diversity. Each transplanted coral nubbin will contribute
+towards this ambitious target.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff%20preparing%20corals%20for%20attachment.jpg">
 </div>
-<p><em>Staff preparing corals for attachment to a Reef Enhancement Unit (REU)</em>
+<p><em>Staff preparing corals for attachment </em>
 </p>
 <h1>Process of Reef Enhancement</h1>
 <div class="isomer-image-wrapper">
