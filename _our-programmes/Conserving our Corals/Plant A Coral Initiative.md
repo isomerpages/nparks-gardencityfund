@@ -20,7 +20,7 @@ towards this ambitious target.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff%20preparing%20corals%20for%20attachment.jpg">
 </div>
-<p><em>Staff preparing corals for attachment </em>
+<p><em>Staff preparing corals for attachment</em>
 </p>
 <h1>Process of Reef Enhancement</h1>
 <div class="isomer-image-wrapper">
