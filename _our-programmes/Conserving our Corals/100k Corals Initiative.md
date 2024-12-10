@@ -23,8 +23,12 @@ towards this ambitious target.</p>
 <p><em>Staff preparing corals for attachment</em>
 </p>
 <h1>Process of Reef Enhancement</h1>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Plant%20a%20Coral.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Process_of_Reef_Enhancement.jpg">
 </div>
 <h2>Importance of coral conservation</h2>
 <p>Corals are keystone reef-building animals that support a marine ecosystem,
