@@ -19,9 +19,9 @@ sections:
         - title: Support Our Conservation Efforts
           description: Conserve our Natural Heritage
           url: /our-programmes/conservation-efforts/
-        - title: Plant-A-Coral, Seed-A-Reef
+        - title: 100k Corals Initiative
           description: Support Marine Conservation
-          url: /our-programmes/plant-a-coral/
+          url: /our-programmes/100k-corals
       background: /images/Deloitte participants 2.jpg
   - infopic:
       title: City in Nature
