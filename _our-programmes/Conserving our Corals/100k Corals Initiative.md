@@ -111,9 +111,9 @@ more information.</p>
 <h2>Volunteer with Us</h2>
 <p>Help restore Singapore's coral reefs with the 100k Corals Initiative!
 Individuals and community groups can sign up for the mailing list at
-<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/volunteer100kcorals</a>to register your interest. You
+<a href="https://go.gov.sg/volunteer100kcorals" rel="noopener nofollow" target="_blank">https://go.gov.sg/volunteer100kcorals</a>to register your interest. You
 will only be notified if there are any upcoming activities.</p>
 <p>For corporations that would like to donate and be involved as part of
-your CSR or company/staff activity, please contact <a rel="noopener noreferrer nofollow" target="_blank">garden_city_fund@nparks.gov.sg</a>.</p>
+your CSR or company/staff activity, please contact <a href="garden_city_fund@nparks.gov.sg" rel="noopener noreferrer nofollow" target="_blank">garden_city_fund@nparks.gov.sg</a>.</p>
 <p></p>
 <p></p>
