@@ -5,14 +5,22 @@ description: ""
 third_nav_title: Plant-A-Tree Programme
 variant: tiptap
 ---
-<p>All 2024 public planting sessions are fully subscribed to.</p>
+<p>Thank you for your interest to support the Plant-A-Tree programme.</p>
+<p>The Plant-A-Tree Programme has received strong support and our public
+planting sessions (&lt; 50 trees) till April 2025 have been fully subscribed.</p>
+<p>Please check in April 2025 for subsequent public planting sessions <strong>before</strong> you
+proceed with your donation for the programme.</p>
+<p>You may wish to support other meaningful donation campaigns under the
+Garden City Fund that contribute to the conservation of our biodiversity,
+enhancement of our Gardens, as well as our care for community animals.
+More details can be found <a href="https://www.giving.sg/organisation/profile/e245d0e8-c15a-4e52-8902-52189e2a5257" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>Please email <a href="mailto:garden_city_fund@nparks.gov.sg" rel="noopener noreferrer nofollow" target="_blank">garden_city_fund@nparks.gov.sg</a> if
 you would like to organise a private planting of 50 or more trees.</p>
-<p>With every donation of $300, organisations and individuals will be able
-to plant a tree in one of NParks-managed green spaces.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tree%20Planting%20(Pls%20credit%20NParks)%20(3).jpg">
 </div>
+<p>With every donation of $300, organisations and individuals will be able
+to plant a tree in one of NParks-managed green spaces.&nbsp;</p>
 <p>Your donation will support the cost of the tree and site preparation.
 Any balance would go towards community and capacity building projects (e.g.
 education, research, value-added features, outreach, etc) that helps connect
@@ -50,8 +58,8 @@ reflected in your tax assessment the following year.&nbsp;To support the
 environment, we will issue e-tax deductible receipts only upon request.</p>
 <p>We will send you a confirmation email when we have received your donation.</p>
 <h1>Tree Planting Schedule</h1>
-<p>All 2024 public planting sessions are fully subscribed to. Please check
-this webpage for the latest planting schedule.</p>
+<p>All public planting sessions are fully subscribed to. Please check this
+webpage for the latest planting schedule.</p>
 <p>Please take note of the following terms and conditions:</p>
 <ul data-tight="true" class="tight">
 <li>
