@@ -84,8 +84,7 @@ benefits:</p>
 <p>An e-brochure on local marine conservation.</p>
 </li>
 <li>
-<p>Join an exclusive mailing list that will include invitation to talks,
-events and updates on 100k CoraIs Initiative.</p>
+<p>Receive updates on 100k CoraIs Initiative.</p>
 </li>
 </ul>
 <p>With a minimum donation of $2,000, donors will be able to receive the
@@ -98,8 +97,7 @@ following benefits:</p>
 <p>An e-brochure on local marine conservation.</p>
 </li>
 <li>
-<p>Join an exclusive mailing list that will include invitation to talks,
-events and updates on 100k corals initiative.</p>
+<p>Receive updates on 100k corals initiative.</p>
 </li>
 <li>
 <p>2 participants are entitled to join a St John’s Island Guided Walk.</p>
