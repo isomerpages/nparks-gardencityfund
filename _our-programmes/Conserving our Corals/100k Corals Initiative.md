@@ -85,7 +85,7 @@ benefits:</p>
 </li>
 <li>
 <p>Join an exclusive mailing list that will include invitation to talks,
-events and updates on 10k CoraIs Initiative.</p>
+events and updates on 100k CoraIs Initiative.</p>
 </li>
 </ul>
 <p>With a minimum donation of $2,000, donors will be able to receive the
