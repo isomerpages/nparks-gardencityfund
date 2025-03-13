@@ -26,4 +26,4 @@ The method is akin to a horticultural nursery providing seedlings to be planted 
 
 Coral fragments that have been successfully grown in the coral nursery are transplanted onto the degraded reef sites off the southern coast of Singapore.
 
-If you are keen to support NParks' coral restoration efforts, please check out our [100K Corals Initiative](https://www.gardencityfund.gov.sg/our-programmes/100k-corals/)!
+If you are keen to support NParks' coral restoration efforts, please check out our [100k Corals Initiative](https://www.gardencityfund.gov.sg/our-programmes/100k-corals/)!
