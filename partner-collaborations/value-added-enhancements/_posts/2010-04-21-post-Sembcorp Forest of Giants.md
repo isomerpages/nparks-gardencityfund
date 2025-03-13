@@ -25,4 +25,4 @@ The generous donation funded the planting of these giant trees, as well as outre
 
 As the number of giant trees has dwindled within the region, the Sembcorp Forest of Giants will enable park visitors to view and experience firsthand, rare and majestic specimens of the biodiversity that once thrived in our regional landscape. The Forest also allows researchers to better identify suitable species for future urban planting along our roads and in our parks.
 
-If you would like to learn more about current conservation efforts and how to contribute to these, please email [garden_city_fund@nparks.gov.sg](garden_city_fund@nparks.gov.sg).
+If you would like to learn more about current conservation efforts and how to contribute to these, please email [garden_city_fund@nparks.gov.sg](mailto:garden_city_fund@nparks.gov.sg).
