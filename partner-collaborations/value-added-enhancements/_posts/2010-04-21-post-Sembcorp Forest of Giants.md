@@ -5,6 +5,7 @@ date: 2010-04-21
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 In partnership with  **Sembcorp Industries**
 
@@ -24,4 +25,4 @@ The generous donation funded the planting of these giant trees, as well as outre
 
 As the number of giant trees has dwindled within the region, the Sembcorp Forest of Giants will enable park visitors to view and experience firsthand, rare and majestic specimens of the biodiversity that once thrived in our regional landscape. The Forest also allows researchers to better identify suitable species for future urban planting along our roads and in our parks.
 
-Read more [here](https://www.nparks.gov.sg/nparksbuzz/issue-06-vol-3-2010/conservation/giants-alive-at-the-southern-ridges).
+If you would like to learn more about current conservation efforts and how to contribute to these, please email [garden_city_fund@nparks.gov.sg](garden_city_fund@nparks.gov.sg).
