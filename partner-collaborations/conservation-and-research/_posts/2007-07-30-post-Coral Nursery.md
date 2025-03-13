@@ -5,6 +5,7 @@ date: 2007-07-30
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 In partnership with
 **Keppel Group**
@@ -24,5 +25,3 @@ In order to enhance and restore the current coral cover in Singapore, a coral nu
 The method is akin to a horticultural nursery providing seedlings to be planted in forest sites that need to be reforested. The coral nursery enabled efforts to proactively enhance existing marine habitats by maximising the survival of naturally occurring corals.
 
 Coral fragments that have been successfully grown in the coral nursery are transplanted onto the degraded reef sites off the southern coast of Singapore.
-
-Read more [here](https://www.nparks.gov.sg/nparksbuzz/issue-03-vol-3-2009/conservation/a-helping-hand-for-local-reefs).
