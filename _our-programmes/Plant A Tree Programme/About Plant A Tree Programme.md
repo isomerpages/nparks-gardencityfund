@@ -3,8 +3,9 @@ title: About Plant A Tree Programme
 permalink: /plantatree/
 description: ""
 third_nav_title: Plant-A-Tree Programme
+variant: markdown
 ---
-Caring for trees and the environment is the social responsibility of every individual. The Plant-A-Tree Programme is a platform for organisations and individuals to actively participate in the greening of our&nbsp;[City in Nature](https://www.nparks.gov.sg/about-us/city-in-nature)&nbsp;by planting trees.
+Caring for trees and the environment is the social responsibility of every individual. The Plant-A-Tree Programme is a platform for organisations and individuals to actively participate in the greening of our [City in Nature](https://www.nparks.gov.sg/who-we-are/city-in-nature-key-strategies) by planting trees.
 
 ![](/images/Tree%20Planting%20(Pls%20credit%20NParks)%20(1).jpeg)
 
