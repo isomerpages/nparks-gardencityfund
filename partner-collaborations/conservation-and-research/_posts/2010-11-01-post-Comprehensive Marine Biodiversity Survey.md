@@ -5,6 +5,7 @@ date: 2010-11-01
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 In partnership with
 
@@ -35,5 +36,3 @@ Led by the NParks, the survey brings together experts and partners from tertiary
 Launched in November 2010, the CMBS will be carried out in phases over five years. Some 350 local volunteers have contributed in various aspects of the CMBS, including photography, outdoor field sampling and collection, specimen processing, database support as well as organising outreach programmes.
 
 As of May 2013, the project has collected some 30,000 specimens through surveys conducted in mudflats, seabeds and reef habitats. Of these, 14 species have been identified as possibly new to science, more than 80 new records for Singapore have been found and about 10 species have been rediscovered.
-
-Read more [here](http://www.nparks.gov.sg/cmbs/).
