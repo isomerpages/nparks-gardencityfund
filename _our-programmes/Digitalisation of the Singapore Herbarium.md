@@ -20,7 +20,7 @@ for accurate communication, effective use and conservation.</p>
 <li>
 <p>Herbaria are the guardians of specimens on which plant names are based
 around the world; SING is a key herbarium in our region, housing amazing
-collections of specimens gathered across Southeast Asia for over 230 years</p>
+collections of specimens gathered across Southeast Asia for over 230 years.</p>
 </li>
 <li>
 <p>The data derived from digitised specimens and their associated labels
@@ -151,15 +151,25 @@ digitalised by 2027. You will also be supporting research and conservation
 work undertaken by the Singapore Botanic Gardens and other researchers
 who use the Singapore Herbarium (SING) as an invaluable resource of botany
 information.</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Each of the approximately 800,000 physical plant and fungi specimens has
 to be photographed or scanned in ultra-high definition.</p>
+</li>
+<li>
 <p>Accompanying the digital copy of each specimen is a set of metadata, including
 the scientific name, collection date, location and collector of the specimen.</p>
+</li>
+<li>
 <p>To support the digitised specimens, a data management system is developed
 to store and manage the vast collection. This enables the plant data to
 be categorised, arranged and easily searched.</p>
+</li>
+<li>
 <p>The collection has to be updated continuously when new specimens are collected
 or new information is obtained.</p>
+</li>
+</ul>
 <p>You can observe the digitisation process through a live viewing gallery
 later this year, offering a rare behind-the-scenes look at this meticulous
 work. Stay tuned for more details!</p>
