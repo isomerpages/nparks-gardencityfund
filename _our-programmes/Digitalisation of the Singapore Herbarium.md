@@ -140,10 +140,10 @@ at the back of the cheque, to:</p>
 <br>1 Cluny Road
 <br>Singapore 259569</p>
 <h2>Donor Benefits:</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Fundraiser programmes/Herbarium_Digitalisation_Donor_Benefits_240325.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Fundraiser programmes/Herbarium_Digitalisation_Donor_Benefits_240325.png">
+</div>
 <h2>What it takes to digitalise a herbarium and how my donation helps</h2>
 <p>Digitalising a herbarium is a complex process. Your donation will go towards
 bringing in technology that will enable the Singapore Herbarium to be fully
