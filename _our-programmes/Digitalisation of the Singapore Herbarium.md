@@ -120,10 +120,18 @@ Heritage status for the Gardens in 2015.</p>
 <p><em>Figure 3: Public Tour of the Herbarium</em>
 </p>
 <h2>How to Donate:</h2>
+<ul data-tight="true" class="tight">
+<li>
 <p>Giving.sg (link will be updated in mid-April 2025)</p>
+</li>
+<li>
 <p>Bank Transfer (please email <a href="garden_city_fund@nparks.gov.sg" rel="noopener nofollow" target="_blank">garden_city_fund@nparks.gov.sg</a> for
 details)</p>
+</li>
+<li>
 <p>Cheque</p>
+</li>
+</ul>
 <p>For cheque donations, mail the cheque, payable to&nbsp;Garden City Fund,
 with your full name/company name, NRIC/FIN/UEN and “herbarium digitalisation”
 at the back of the cheque, to:</p>
