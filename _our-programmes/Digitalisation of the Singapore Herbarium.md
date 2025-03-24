@@ -1,7 +1,7 @@
 ---
 title: Digitalisation of the Singapore Herbarium
 permalink: /digitalherbarium/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <p>From 2025 - 2027, the Singapore Botanic Gardens will be embarking on its
@@ -12,19 +12,34 @@ potential loss or damage.</p>
 <p>Digitalising the Herbarium provides access to botanical collections, enabling
 accurate plant identification, advancing diverse research fields, and protecting
 valuable specimen data. Here’s why the Herbarium matters to all of us!</p>
+<ol data-tight="true" class="tight">
+<li>
 <p>Human life is fully dependent on plants; Precise plant names are essential
 for accurate communication, effective use and conservation.</p>
+</li>
+<li>
 <p>Herbaria are the guardians of specimens on which plant names are based
 around the world; SING is a key herbarium in our region, housing amazing
 collections of specimens gathered across Southeast Asia for over 230 years</p>
+</li>
+<li>
 <p>The data derived from digitised specimens and their associated labels
 provide basis for future research, including studies on climate change
 and wild crop relatives, both of which are crucial to our future survival,
 impacting food security as well as the ecological and other services plants
 provide to humans.</p>
+</li>
+<li>
 <p>Dead plants can still “communicate” – For example, genetic information
 can be extracted from their DNA – even from extinct species collected hundreds
 of years ago!</p>
+</li>
+</ol>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fundraiser programmes/Mounting_of_specimens.jpg">
+</div>
+<p><em>Figure 1: Mounting of specimens</em>
+</p>
 <h2>What digitalisation of the Herbarium achieves:</h2>
 <ol data-tight="true" class="tight">
 <li>
@@ -80,8 +95,14 @@ and even the general public.</p>
 <p>Safeguards valuable botanical data by providing a backup of the information.</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fundraiser programmes/Inside_the_Herbarium.jpg">
+</div>
 </li>
 </ol>
+<p><em>Figure 2: Behind the scenes - Inside the Herbarium!</em>
+</p>
 <h2>What is a Herbarium?</h2>
 <p>A herbarium is a specialised research facility that houses a curated collection
 of preserved plant and fungi specimens. Amassed over a long period of time
@@ -93,6 +114,11 @@ evolved from a small office collection to the second-largest herbarium
 in Southeast Asia, with approximately 800,000 specimens of plant and fungi.
 Its invaluable collections played a key role in securing the UNESCO World
 Heritage status for the Gardens in 2015.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fundraiser programmes/Public_tour_of_the_Herbarium.jpg">
+</div>
+<p><em>Figure 3: Public Tour of the Herbarium</em>
+</p>
 <h2>How to Donate:</h2>
 <p>Giving.sg (link will be updated in mid-April 2025)</p>
 <p>Bank Transfer (please email <a href="garden_city_fund@nparks.gov.sg" rel="noopener nofollow" target="_blank">garden_city_fund@nparks.gov.sg</a> for
@@ -106,6 +132,10 @@ at the back of the cheque, to:</p>
 <br>1 Cluny Road
 <br>Singapore 259569</p>
 <h2>Donor Benefits:</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fundraiser programmes/Herbarium_Digitalisation_Donor_Benefits_240325.jpg">
+</div>
 <h2>What it takes to digitalise a herbarium and how my donation helps</h2>
 <p>Digitalising a herbarium is a complex process. Your donation will go towards
 bringing in technology that will enable the Singapore Herbarium to be fully
