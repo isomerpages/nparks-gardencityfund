@@ -86,7 +86,7 @@ and even the general public.</p>
 </ul>
 </li>
 <li>
-<p><strong>Protection of valuable botanical information: </strong>
+<p><strong>Protection of valuable botanical information:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -131,8 +131,7 @@ at the back of the cheque, to:</p>
 <br>Singapore 259569</p>
 <p><strong>Donor Benefits:</strong>
 </p>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">What </a></strong>
-<a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[YS1]</a>&nbsp;<a href="#_msocom_2" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[ML2]</a>&nbsp;<strong>it takes to digitalise a herbarium and how my donation helps</strong>
+<p><strong>What it takes to digitalise a herbarium and how my donation helps</strong>
 </p>
 <p>Digitalising a herbarium is a complex process. Your donation will go towards
 bringing in technology that will enable the Singapore Herbarium to be fully
@@ -162,5 +161,3 @@ or new information is obtained.</p>
 <p>You can observe the digitisation process through a live viewing gallery
 later this year, offering a rare behind-the-scenes look at this meticulous
 work. Stay tuned for more details!</p>
-<p></p>
-<p></p>
