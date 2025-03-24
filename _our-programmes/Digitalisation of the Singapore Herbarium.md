@@ -94,8 +94,9 @@ in Southeast Asia, with approximately 800,000 specimens of plant and fungi.
 Its invaluable collections played a key role in securing the UNESCO World
 Heritage status for the Gardens in 2015.</p>
 <h2>How to Donate:</h2>
-<p>Giving.sg (link will be updated in mid April 2025)</p>
-<p>Bank Transfer (please email garden_city_fund@nparks.gov.sg for details)</p>
+<p>Giving.sg (link will be updated in mid-April 2025)</p>
+<p>Bank Transfer (please email <a href="garden_city_fund@nparks.gov.sg" rel="noopener nofollow" target="_blank">garden_city_fund@nparks.gov.sg</a> for
+details)</p>
 <p>Cheque</p>
 <p>For cheque donations, mail the cheque, payable to&nbsp;Garden City Fund,
 with your full name/company name, NRIC/FIN/UEN and “herbarium digitalisation”
