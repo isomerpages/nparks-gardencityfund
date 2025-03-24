@@ -2,14 +2,14 @@ collections:
   our-programmes:
     output: true
     order:
-      - Digitalisation of the Singapore Herbariumitle.md
       - Be Our Partner.md
-      - Plant A Tree Programme/.keep
-      - Plant A Tree Programme/About Plant A Tree Programme.md
-      - Plant A Tree Programme/How to take part.md
+      - Digitalisation of the Singapore Herbariumitle.md
       - Conserving our Corals/.keep
       - Conserving our Corals/100k Corals Initiative.md
       - Conserving our Corals/Grow A Reef Garden Initiative.md
-      - Give to the Gardens Programme.md
-      - Singapore Botanic Gardens Seed Bank.md
       - Conservation Efforts.md
+      - Give to the Gardens Programme.md
+      - Plant A Tree Programme/.keep
+      - Plant A Tree Programme/About Plant A Tree Programme.md
+      - Plant A Tree Programme/How to take part.md
+      - Singapore Botanic Gardens Seed Bank.md
