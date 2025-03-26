@@ -5,6 +5,7 @@ date: 2007-07-30
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 In partnership with
 **Keppel Group**
@@ -25,4 +26,4 @@ The method is akin to a horticultural nursery providing seedlings to be planted 
 
 Coral fragments that have been successfully grown in the coral nursery are transplanted onto the degraded reef sites off the southern coast of Singapore.
 
-Read more [here](https://www.nparks.gov.sg/nparksbuzz/issue-03-vol-3-2009/conservation/a-helping-hand-for-local-reefs).
+If you are keen to support NParks' coral restoration efforts, please check out our [100k Corals Initiative](https://www.gardencityfund.gov.sg/our-programmes/100k-corals/)!

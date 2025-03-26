@@ -5,6 +5,7 @@ date: 2010-11-01
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 In partnership with
 
@@ -36,4 +37,4 @@ Launched in November 2010, the CMBS will be carried out in phases over five year
 
 As of May 2013, the project has collected some 30,000 specimens through surveys conducted in mudflats, seabeds and reef habitats. Of these, 14 species have been identified as possibly new to science, more than 80 new records for Singapore have been found and about 10 species have been rediscovered.
 
-Read more [here](http://www.nparks.gov.sg/cmbs/).
+We are also excited to share that phase two of CMBS was launched in October 2024. This is in collaboration with National University of Singapore (NUS), led by the Lee Kong Chian Natural History Museum (LKCNHM), and the Tropical Marine Science Institute (TMSI). This will expand on the findings from CMBS I, incorporating quantitative surveys to establish a baseline of crucial areas and conducting comprehensive surveys of key biomes which were not studied previously.  We are still short of funds for this project. If you are able to support, please email us at [garden_city_fund@nparks.gov.sg](mailto:garden_city_fund@nparks.gov.sg).
