@@ -117,7 +117,7 @@ Heritage status for the Gardens in 2015.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fundraiser programmes/Public_tour_of_the_Herbarium.jpg">
 </div>
-<p><em>Figure 3: Public Tour of the Herbarium</em>
+<p><em>Figure 3: Tour of the Herbarium</em>
 </p>
 <h2>How to Donate:</h2>
 <ul data-tight="true" class="tight">
@@ -125,7 +125,7 @@ Heritage status for the Gardens in 2015.</p>
 <p>Giving.sg (link will be updated in mid-April 2025)</p>
 </li>
 <li>
-<p>Bank Transfer (please email <a href="garden_city_fund@nparks.gov.sg" rel="noopener nofollow" target="_blank">garden_city_fund@nparks.gov.sg</a> for
+<p>Bank Transfer (please email <a href="mailto:garden_city_fund@nparks.gov.sg" rel="noopener nofollow" target="_blank">garden_city_fund@nparks.gov.sg</a> for
 details)</p>
 </li>
 <li>
@@ -140,9 +140,8 @@ at the back of the cheque, to:</p>
 <br>1 Cluny Road
 <br>Singapore 259569</p>
 <h2>Donor Benefits:</h2>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Fundraiser programmes/Herbarium_Digitalisation_Donor_Benefits_240325.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fundraiser programmes/Herbarium_Donor_benefits.png">
 </div>
 <h2>What it takes to digitalise a herbarium and how my donation helps</h2>
 <p>Digitalising a herbarium is a complex process. Your donation will go towards
