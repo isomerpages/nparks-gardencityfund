@@ -155,7 +155,7 @@ the programme's effectiveness and protect the trees.</p>
 </p>
 <h4><strong>I want to make a <u>general donation</u> to the Plant-A-Tree programme without planting</strong></h4>
 <p>We welcome general donations of any amounts and also donors that do not
-want to take part in the planting, simply indicate <strong>“General PAT donation” </strong>when
+want to take part in the planting. Simply indicate <strong>“General PAT donation” </strong>when
 making your donation through any of the below methods below.&nbsp; The
 total donations will be collated annually at the end of the year and the
 equivalent number of trees for the collective donation will be planted
