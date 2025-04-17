@@ -13,11 +13,11 @@ education and research to outreach programmes. These efforts help strengthen
 people's connection with nature, advancing our <a href="https://www.nparks.gov.sg/who-we-are/city-in-nature-key-strategiesCi" rel="noopener nofollow" target="_blank">City in Nature</a> vision
 under the Singapore Green Plan 2030.</p>
 <p>Your donation also qualifies for a 2.5 times tax deduction, provided you
-provide us with &nbsp;a valid NRIC/FIN number (for individuals) or local
-UEN/Business Registration Number (for organisations) within 5 working days
-of making your donation. We will file your donation details directly with
-IRAS, and these will be automatically reflected in your tax assessment
-the following year.</p>
+provide us with a valid NRIC/FIN number (for individuals) or local UEN/Business
+Registration Number (for organisations) within 5 working days of making
+your donation. We will file your donation details directly with IRAS, and
+these will be automatically reflected in your tax assessment the following
+year.</p>
 <p>As part of our environmental commitment since 2018, we no longer issue
 pysical receipts. However, if you would like an e-receipt, please email
 your request to <a href="mailto:garden_city_fund@nparks.gov.sg" rel="noopener noreferrer nofollow" target="_blank">garden_city_fund@nparks.gov.sg</a>.</p>
@@ -153,8 +153,7 @@ NParks booking website only.</p>
 the programme's effectiveness and protect the trees.</p>
 <p><em>Garden City Fund reserves the right to change the planting site when necessary.</em>
 </p>
-<p><strong>I do not want to take part in the planting, just want to make a <u>general donation</u> to the Plant-A-Tree programme</strong>
-</p>
+<h4><strong>I want to make a <u>general donation</u> to the Plant-A-Tree programme without planting</strong></h4>
 <p>We welcome general donations of any amounts and also donors that do not
 want to take part in the planting, simply indicate <strong>“General PAT donation” </strong>when
 making your donation through any of the below methods below.&nbsp; The
