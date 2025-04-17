@@ -10,8 +10,8 @@ variant: tiptap
 green spaces. This contribution covers not just the tree and site preparation,
 but also supports vital community and capacity building initiatives - from
 education and research to outreach programmes. These efforts help strengthen
-people's connection with nature, advancing our City in Nature vision under
-the Singapore Green Plan 2030.</p>
+people's connection with nature, advancing our <a href="https://www.nparks.gov.sg/who-we-are/city-in-nature-key-strategiesCi" rel="noopener nofollow" target="_blank">City in Nature</a> vision
+under the Singapore Green Plan 2030.</p>
 <p>Your donation also qualifies for a 2.5 times tax deduction, provided you
 provide us with &nbsp;a valid NRIC/FIN number (for individuals) or local
 UEN/Business Registration Number (for organisations) within 5 working days
@@ -24,8 +24,7 @@ your request to <a href="mailto:garden_city_fund@nparks.gov.sg" rel="noopener no
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tree%20Planting%20(Pls%20credit%20NParks)%20(3).jpg">
 </div>
-<p><strong>I would like to Plant a Tree</strong>
-</p>
+<h4><strong>I would like to Plant a Tree</strong></h4>
 <p>Please check for available planting slots in the links below and make
 the donation to confirm the slots.</p>
 <table style="minWidth: 100px">
@@ -67,6 +66,7 @@ the donation to confirm the slots.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p>If you would like to organise a private planting of 50 or more trees,
 please email&nbsp;<a href="mailto:garden_city_fund@nparks.gov.sg" rel="noopener nofollow" target="_blank">garden_city_fund@nparks.gov.sg</a>.</p>
 <p>Please take note of the following terms and conditions applicable to this
