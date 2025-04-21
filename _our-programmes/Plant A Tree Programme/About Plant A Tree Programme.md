@@ -40,4 +40,4 @@ Another way to contribute is to donate to the Garden City Fund. The support you 
 Pledge your support&nbsp;
 --------------------
 
-Please [click here](https://www.gardencityfund.gov.sg/our-programmes/plant-a-tree/howtotakepart/) to find out more on how to take part in the Plant-A-Tree Programme.
+Please [click here](https://www.gardencityfund.gov.sg/our-programmes/plant-a-tree/howtosupport/) to find out more on how to take part in the Plant-A-Tree Programme.
