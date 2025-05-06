@@ -54,13 +54,13 @@ the donation to confirm the slots.</p>
 <p>1.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10 May 2025</p>
+<p>14 June 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kaki Bukit Road 4</p>
+<p>Kaki Bukit View</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/PAT_0001/1073_Donation-of-300-per-tree-Plant-A-Tree-Programme-at-Kaki-Bukit-Road-4-on-10-May-2025" rel="noopener nofollow" target="_blank">10 May planting session</a>
+<p><a href="https://www.nparks.govhttps://www.nparks.gov.sg/visit/events/event-detail/PAT_0002/1095_Donation-of-300-per-tree-Plant-A-Tree-Programme-at-Kaki-Bukit-View-on-14-June-2025.sg/visit/events/event-detail/PAT_0001/1073_Donation-of-300-per-tree-Plant-A-Tree-Programme-at-Kaki-Bukit-Road-4-on-10-May-2025" rel="noopener nofollow" target="_blank">14 June planting session</a>
 </p>
 </td>
 </tr>
