@@ -24,7 +24,7 @@ your request to <a href="mailto:garden_city_fund@nparks.gov.sg" rel="noopener no
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tree%20Planting%20(Pls%20credit%20NParks)%20(3).jpg">
 </div>
-<h4><strong>I would like to Plant a Tree</strong></h4>
+<h4><strong>I would like to plant a tree</strong></h4>
 <p>Please check for available planting slots in the links below and make
 the donation to confirm the slots.</p>
 <table style="minWidth: 100px">
@@ -61,6 +61,21 @@ the donation to confirm the slots.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.nparks.gov.sg/visit/events/event-detail/PAT_0002/1095_Donation-of-300-per-tree-Plant-A-Tree-Programme-at-Kaki-Bukit-View-on-14-June-2025" rel="noopener nofollow" target="_blank">14 June planting session</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18 July 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ang Mo Kio Avenue 10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/PAT_0003/1125_Donation-of-300-per-tree-Plant-A-Tree-Programme-at-Ang-Mo-Kio-Avenue-10-on-18-July-2025" rel="noopener nofollow" target="_blank">18 July planting session</a>
 </p>
 </td>
 </tr>
