@@ -81,9 +81,24 @@ the donation to confirm the slots.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>The newly revamped registration process for the Plant-A-Tree (public planting)
+programme will now be through the NParks website only. This will enable
+you to:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Sign up for the tree planting based on the schedule you want</p>
+</li>
+<li>
+<p>Make the donation and</p>
+</li>
+<li>
+<p>Get an instant confirmation</p>
+</li>
+</ol>
+<p>The schedule will be available on a monthly basis. Do check in 1 month
+in advance of your preferred month. Thank you for your support!</p>
 <p>If you would like to organise a private planting of 50 or more trees,
-please email&nbsp;<a href="mailto:garden_city_fund@nparks.gov.sg" rel="noopener nofollow" target="_blank">garden_city_fund@nparks.gov.sg</a>.</p>
+or would like to feedback on the new process, please email&nbsp;<a href="mailto:garden_city_fund@nparks.gov.sg" rel="noopener nofollow" target="_blank">garden_city_fund@nparks.gov.sg</a>.</p>
 <p>Please take note of the following terms and conditions applicable to this
 programme:</p>
 <ul data-tight="true" class="tight">
