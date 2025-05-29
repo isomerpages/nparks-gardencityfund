@@ -19,7 +19,7 @@ your donation. We will file your donation details directly with IRAS, and
 these will be automatically reflected in your tax assessment the following
 year.</p>
 <p>As part of our environmental commitment since 2018, we no longer issue
-pysical receipts. However, if you would like an e-receipt, please email
+physical receipts. However, if you would like an e-receipt, please email
 your request to <a href="mailto:garden_city_fund@nparks.gov.sg" rel="noopener noreferrer nofollow" target="_blank">garden_city_fund@nparks.gov.sg</a>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tree%20Planting%20(Pls%20credit%20NParks)%20(3).jpg">
@@ -81,9 +81,24 @@ the donation to confirm the slots.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>The newly revamped registration process for the Plant-A-Tree (public planting)
+programme will now be through the NParks website only. This will enable
+you to:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Sign up for the tree planting based on the schedule you want</p>
+</li>
+<li>
+<p>Make the donation and</p>
+</li>
+<li>
+<p>Get an instant confirmation</p>
+</li>
+</ol>
+<p>The schedule will be available on a monthly basis. Do check in 1 month
+in advance of your preferred month. Thank you for your support!</p>
 <p>If you would like to organise a private planting of 50 or more trees,
-please email&nbsp;<a href="mailto:garden_city_fund@nparks.gov.sg" rel="noopener nofollow" target="_blank">garden_city_fund@nparks.gov.sg</a>.</p>
+or would like to feedback on the new process, please email&nbsp;<a href="mailto:garden_city_fund@nparks.gov.sg" rel="noopener nofollow" target="_blank">garden_city_fund@nparks.gov.sg</a>.</p>
 <p>Please take note of the following terms and conditions applicable to this
 programme:</p>
 <ul data-tight="true" class="tight">
