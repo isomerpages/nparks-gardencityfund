@@ -29,7 +29,6 @@ Your donation will entitle you to a 2.5 times tax deduction, with a valid NRIC/F
 
 ## Benefits for Donors
 ![Give to the Gardens Benefits as at 21 Nov 2024](/images/GTTG_Benefits__21112024_.jpg)
-*Based on total donations received on annual basis.
 
 For a list of tenants and benefits, please click [here](/files/Give%20to%20the%20Gardens/give%20to%20the%20gardens%20-%20list%20of%20tenants%20and%20benefits%20(23feb2023).pdf).
 
