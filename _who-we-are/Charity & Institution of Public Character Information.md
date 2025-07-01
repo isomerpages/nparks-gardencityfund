@@ -14,7 +14,7 @@ T02CC1634C
 IPC000104  
   
 **IPC Status**  
-From 1 July 2022 to 30 June 2025  
+From 1 July 2025 to 30 June 2028  
   
 **Auditor**  
 Foo Kon Tan LLP  
