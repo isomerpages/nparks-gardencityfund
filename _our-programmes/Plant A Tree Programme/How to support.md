@@ -54,34 +54,19 @@ the donation to confirm the slots.</p>
 <p>1.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>14 June 2025</p>
+<p>15 August 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kaki Bukit View</p>
+<p>Thomson Nature Park (entrance via Upper Thomson Road)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/PAT_0002/1095_Donation-of-300-per-tree-Plant-A-Tree-Programme-at-Kaki-Bukit-View-on-14-June-2025" rel="noopener nofollow" target="_blank">14 June planting session</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>18 July 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ang Mo Kio Avenue 10</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/PAT_0003/1125_Donation-of-300-per-tree-Plant-A-Tree-Programme-at-Ang-Mo-Kio-Avenue-10-on-18-July-2025" rel="noopener nofollow" target="_blank">18 July planting session</a>
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/PAT_0004/1295_Donation-of-300-per-tree-Plant-A-Tree-Programme-at-Thomson-Nature-Park-on-15-August-2025" rel="noopener nofollow" target="_blank">15 August planting session</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>The newly revamped registration process for the Plant-A-Tree (public planting)
+<p>he newly revamped registration process for the Plant-A-Tree (public planting)
 programme will now be through the NParks website only. This will enable
 you to:</p>
 <ol data-tight="true" class="tight">
