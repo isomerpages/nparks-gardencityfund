@@ -66,7 +66,7 @@ the donation to confirm the slots.</p>
 </tr>
 </tbody>
 </table>
-<p>he newly revamped registration process for the Plant-A-Tree (public planting)
+<p>The newly revamped registration process for the Plant-A-Tree (public planting)
 programme will now be through the NParks website only. This will enable
 you to:</p>
 <ol data-tight="true" class="tight">
