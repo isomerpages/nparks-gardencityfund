@@ -54,13 +54,13 @@ the donation to confirm the slots.</p>
 <p>1.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 August 2025</p>
+<p>25 September 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thomson Nature Park (entrance via Upper Thomson Road)</p>
+<p>Tagore Lane</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/PAT_0004/1295_Donation-of-300-per-tree-Plant-A-Tree-Programme-at-Thomson-Nature-Park-on-15-August-2025" rel="noopener nofollow" target="_blank">15 August planting session</a>
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/PAT_0005/1400_Donation-of-300-per-tree-Plant-A-Tree-Programme-at-Tagore-Lane-on-25-September-2025" rel="noopener nofollow" target="_blank">25 September planting session</a>
 </p>
 </td>
 </tr>
