@@ -54,13 +54,13 @@ the donation to confirm the slots.</p>
 <p>1.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>25 September 2025</p>
+<p>10 October 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tagore Lane</p>
+<p>Serangoon North Avenue 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/PAT_0005/1400_Donation-of-300-per-tree-Plant-A-Tree-Programme-at-Tagore-Lane-on-25-September-2025" rel="noopener nofollow" target="_blank">25 September planting session</a>
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/PAT_0006/1423_Donation-of-300-per-tree-Plant-A-Tree-Programme-at-Serangoon-North-Avenue-5-on-10-October-2025" rel="noopener nofollow" target="_blank">10 October planting session</a>
 </p>
 </td>
 </tr>
