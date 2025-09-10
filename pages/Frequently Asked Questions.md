@@ -22,7 +22,7 @@ Donations can be made via:
 <b>3. What are the other projects that I can support?</b><br>
 There are indeed other projects and initiatives within NParks that you can lend your support. We appreciate both financial support and volunteerism efforts. If you have other projects in mind that you are keen to support, email us at&nbsp;[garden_city_fund@nparks.gov.sg](mailto:garden_city_fund@nparks.gov.sg).
 
-<b>4. Are donations to GCF eligible for tax-reduction?</b><br>
+<b>4. Are donations to GCF eligible for tax-deduction?</b><br>
 All donations to Garden City Fund are eligible for 2.5 times tax deduction, with a valid NRIC/FIN number (individual) or local UEN/Business Registration Number (organisation).
 
 For more information on tax-deductions, visit [www.iras.gov.sg](https://www.iras.gov.sg/irashome/Other-Taxes/Charities/Donations-and-Tax-Deductions/).
