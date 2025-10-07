@@ -51,31 +51,16 @@ the donation to confirm the slots.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1.</p>
+<p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>25 September 2025</p>
+<p>14 November 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tagore Lane</p>
+<p>Hougang Avenue 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/PAT_0005/1400_Donation-of-300-per-tree-Plant-A-Tree-Programme-at-Tagore-Lane-on-25-September-2025" rel="noopener nofollow" target="_blank">25 September planting session</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>10 October 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Serangoon North Avenue 5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/PAT_0006/1423_Donation-of-300-per-tree-Plant-A-Tree-Programme-at-Serangoon-North-Avenue-5-on-10-October-2025" rel="noopener nofollow" target="_blank">10 October planting session</a>
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/PAT_0007/1439_Donation-of-300-per-tree-Plant-A-Tree-Programme-at-Hougang-Avenue-2-on-14-November-2025" rel="noopener nofollow" target="_blank">14 November planting session</a>
 </p>
 </td>
 </tr>
