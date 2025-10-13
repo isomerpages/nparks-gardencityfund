@@ -2,6 +2,7 @@ collections:
   our-partners:
     output: true
     order:
+      - GCF Partners FY 2024/.keep
       - Lifetime Contributors.md
       - GCF Partners.md
       - Partners' Testimonials/A to F.md
