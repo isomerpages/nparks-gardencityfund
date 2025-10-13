@@ -1,0 +1,4 @@
+collections:
+  gcf-partners:
+    output: true
+    order: []
