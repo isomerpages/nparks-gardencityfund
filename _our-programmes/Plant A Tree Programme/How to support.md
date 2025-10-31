@@ -54,13 +54,13 @@ the donation to confirm the slots.</p>
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>14 November 2025</p>
+<p>12 December 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hougang Avenue 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/PAT_0007/1439_Donation-of-300-per-tree-Plant-A-Tree-Programme-at-Hougang-Avenue-2-on-14-November-2025" rel="noopener nofollow" target="_blank">14 November planting session</a>
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/PAT_0008/1490_Donation-of-300-per-tree-Plant-A-Tree-Programme-at-Hougang-Avenue-2-on-12-December-2025" rel="noopener nofollow" target="_blank">12 December planting session</a>
 </p>
 </td>
 </tr>
