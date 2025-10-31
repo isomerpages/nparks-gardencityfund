@@ -122,11 +122,11 @@ Heritage status for the Gardens in 2015.</p>
 <h2>How to Donate:</h2>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.giving.sg/donate/campaign/digital-plants-150-years-of-the-singapore-herbarium" rel="noopener nofollow" target="_blank">Giving.sg</a>
+<p><a href="https://go.gov.sg/donateherbarium" rel="noopener nofollow" target="_blank">Giving.sg</a>
 </p>
 </li>
 <li>
-<p>Bank Transfer (please email <a href="mailto:garden_city_fund@nparks.gov.sg" rel="noopener nofollow" target="_blank">garden_city_fd@nparks.gov.sg</a> for
+<p>Bank Transfer (please email <a href="mailto:garden_city_fund@nparks.gov.sg" rel="noopener nofollow" target="_blank">garden_city_fund@nparks.gov.sg</a> for
 details)</p>
 </li>
 <li>
