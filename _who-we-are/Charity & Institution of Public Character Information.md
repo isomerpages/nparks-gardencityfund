@@ -20,7 +20,7 @@ From 1 July 2025 to 30 June 2028
 Foo Kon Tan LLP  
   
 **Annual Report**  
-Please click [here](/files/GCF_section_NParks_AR_2025.pdf) to view our annual report  
+Please click [here](https://www.nparks.gov.sg/portals/annualreport/garden-city-fund/) to view our annual report  
   
 **Financial Information**  
 Please click [here](/files/GCF_FY24_FS_online_discussion.pdf) to view our financial information.  
