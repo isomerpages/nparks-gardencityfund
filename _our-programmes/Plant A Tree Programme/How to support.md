@@ -60,7 +60,7 @@ the donation to confirm the slots.</p>
 <p>Ang Mo Kio Town Garden West</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/PAT_0009/1618_Donation-of-300-per-tree-Plant-A-Tree-Programme-at-Ang-Mo-Kio-Town-Garden-West-on-30-January-2025" rel="noopener nofollow" target="_blank">30 January planting link</a>
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/PAT_0009/1618_Donation-of-300-per-tree-Plant-A-Tree-Programme-at-Ang-Mo-Kio-Town-Garden-West-on-30-January-2026" rel="noopener nofollow" target="_blank">30 January planting link</a>
 </p>
 </td>
 </tr>
