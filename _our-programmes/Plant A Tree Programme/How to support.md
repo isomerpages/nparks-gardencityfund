@@ -54,13 +54,13 @@ the donation to confirm the slots.</p>
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12 December 2025</p>
+<p>30 January 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hougang Avenue 2</p>
+<p>Ang Mo Kio Town Garden West</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/PAT_0008/1490_Donation-of-300-per-tree-Plant-A-Tree-Programme-at-Hougang-Avenue-2-on-12-December-2025" rel="noopener nofollow" target="_blank">12 December planting session</a>
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/PAT_0009/1618_Donation-of-300-per-tree-Plant-A-Tree-Programme-at-Ang-Mo-Kio-Town-Garden-West-on-30-January-2026" rel="noopener nofollow" target="_blank">30 January planting link</a>
 </p>
 </td>
 </tr>
