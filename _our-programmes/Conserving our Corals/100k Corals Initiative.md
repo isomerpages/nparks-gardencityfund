@@ -107,10 +107,11 @@ following benefits:</p>
 City Fund at <a href="mailto:garden_city_fund@nparks.gov.sg" rel="noopener noreferrer nofollow" target="_blank">garden_city_fund@nparks.gov.sg</a> for
 more information.</p>
 <h2>Volunteer with Us</h2>
-<p>Help restore Singapore's coral reefs with the 100k Corals Initiative!
-Individuals and community groups can sign up for the mailing list at
-<a href="https://go.gov.sg/volunteer100kcorals" rel="noopener nofollow" target="_blank">https://go.gov.sg/volunteer100kcorals</a>to register your interest. You
-will only be notified if there are any upcoming activities.</p>
+<p>Due to overwhelming response, sign-ups for the 100k Corals Initiative
+volunteer mailing list are now closed. We sincerely appreciate your enthusiasm
+and interest to restore Singapore's coral reefs. If additional opportunities
+become available in the future, we will share updates on this website.
+Thank you once again for your support and passion for marine conservation.</p>
 <p>For corporations that would like to donate and be involved as part of
 your CSR or company/staff activity, please contact <a href="garden_city_fund@nparks.gov.sg" rel="noopener noreferrer nofollow" target="_blank">garden_city_fund@nparks.gov.sg</a>.</p>
 <p></p>
