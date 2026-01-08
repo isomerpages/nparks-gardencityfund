@@ -60,12 +60,14 @@ the donation to confirm the slots.</p>
 <p>Ang Mo Kio Town Garden West</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/PAT_0009/1618_Donation-of-300-per-tree-Plant-A-Tree-Programme-at-Ang-Mo-Kio-Town-Garden-West-on-30-January-2026" rel="noopener nofollow" target="_blank">30 January planting link</a>
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/PAT_0009/1618_Donation-of-300-per-tree-Plant-A-Tree-Programme-at-Ang-Mo-Kio-Town-Garden-West-on-30-January-2026" rel="noopener nofollow" target="_blank">Closed</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
+<p><strong><em>*Public Planting Sessions Update:</em></strong><em> The January 2026 planting session has reached full capacity and registration is now closed. Please note that no planting sessions are scheduled for February 2026 due to the Lunar New Year period. Registration details for our March 2026 planting session will be available in first week of February, so please check back then for updates and booking information.</em>
+</p>
 <p>The newly revamped registration process for the Plant-A-Tree (public planting)
 programme will now be through the NParks website only. This will enable
 you to:</p>
