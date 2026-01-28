@@ -2,9 +2,10 @@
 title: About GCF
 permalink: /who-we-are/about-gcf/
 description: ""
+variant: markdown
 ---
 # Vision
-Let's Make Singapore our City in Nature
+Let's Make Singapore our&nbsp;City in Nature
 
 # About Garden City Fund
 
@@ -20,11 +21,12 @@ These projects complement NParks' efforts towards fulfilling its City in Nature 
 *   Supporting the urban biodiversity conservation model
 *   Engaging the community
 *   Enhancing competencies of the landscape industry in Singapore
+*   Promoting animal health and welfare
 
-Through partnerships with organisations and individuals, GCF provides a platform for the community to be involved in conservation, research, outreach and education initiatives.
+Through&nbsp;partnerships&nbsp;with organisations and individuals, GCF provides a platform for the community to be involved in conservation, research, outreach and education initiatives.
 
 By engaging the community, we hope to cultivate a love for the environment and promote a sense of ownership in our natural heritage.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uta4HenSRzQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uta4HenSRzQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-<p>
+<p></p>
