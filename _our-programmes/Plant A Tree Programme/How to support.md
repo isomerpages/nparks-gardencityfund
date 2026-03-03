@@ -54,13 +54,13 @@ the donation to confirm the slots.</p>
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>27 March 2026</p>
+<p>2 April 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Changi Business Park Central 1</p>
+<p>Ang Mo Kio Street 23</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/PAT_0010/1700_Donation-of-300-per-tree-Plant-A-Tree-Programme-at-Changi-Business-Park-Central-1-on-27-March-2026" rel="noopener nofollow" target="_blank">Planting on 27 March 2026</a>
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/PAT_0011/1704_Registration-to-reopen-on-25-February-Donation-of-300-per-tree-Plant-A-Tree-Programme-at-Ang-Mo-Kio-Street-23-on-2-April-202" rel="noopener nofollow" target="_blank">Planting on 2 April 2026</a>
 </p>
 </td>
 </tr>
