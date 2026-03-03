@@ -27,7 +27,7 @@ Contact us at [garden_city_fund@nparks.gov.sg](garden_city_fund@nparks.gov.sg) t
 
 **Animal Health and Welfare**
 
-*   Pet Cat Steralisation Support programme
+*   Pet Cat Sterilisation Support programme
 
 # Support Our Projects 
 
