@@ -40,5 +40,5 @@ sections:
       url: our-programmes/be-our-partner/
   - resources:
       title: Partner Collaborations
-      button: Explore our newest projects
+      button: Explore our past projects
 ---
