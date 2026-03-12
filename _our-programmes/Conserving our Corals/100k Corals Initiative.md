@@ -18,9 +18,9 @@ reefs or new areas. This aims to enhance our marine biodiversity by increasing
 coral abundance and diversity. Each transplanted coral nubbin will contribute
 towards this ambitious target.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff%20preparing%20corals%20for%20attachment.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Staff attaching coral to coral panel" src="/images/Coral_planting.jpg">
 </div>
-<p><em>Staff attaching coral to coral panel.</em>
+<p><em>Staff attaching coral to coral panel</em>
 </p>
 <h1>Process of Reef Enhancement</h1>
 <p></p>
