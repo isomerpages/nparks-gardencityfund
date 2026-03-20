@@ -78,29 +78,30 @@ NRIC/FIN number (individual) or local UEN/Business Registration Number
 benefits:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>A personalised e-certificate of recognition.</p>
+<p>A personalised e-certificate of recognition</p>
 </li>
 <li>
-<p>An e-brochure on local marine conservation.</p>
+<p>An e-brochure on local marine conservatio</p>
 </li>
 <li>
-<p>Receive updates on 100k CoraIs Initiative.</p>
+<p>Updates on 100k CoraIs Initiative</p>
 </li>
 </ul>
 <p>With a minimum donation of $2,000, donors will be able to receive the
 following benefits:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>A personalised e-certificate of recognition.</p>
+<p>A personalised e-certificate of recognition</p>
 </li>
 <li>
-<p>An e-brochure on local marine conservation.</p>
+<p>An e-brochure on local marine conservation</p>
 </li>
 <li>
-<p>Receive updates on 100k corals initiative.</p>
+<p>Updates on 100k corals initiative</p>
 </li>
 <li>
-<p>2 participants are entitled to join a St John’s Island Guided Walk.</p>
+<p>2 participants are entitled to join a Sisters' Islands Marine Park Guided
+Walk.</p>
 </li>
 </ul>
 <p>Donors who are interested in donating $20,000 or more may contact Garden
@@ -114,9 +115,4 @@ become available in the future, we will share updates on this website.
 Thank you once again for your support and passion for marine conservation.</p>
 <p>For corporations that would like to donate and be involved as part of
 your CSR or company/staff activity, please contact <a href="garden_city_fund@nparks.gov.sg" rel="noopener noreferrer nofollow" target="_blank">garden_city_fund@nparks.gov.sg</a>.</p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Staff attaching coral to coral panel" src="/images/Fundraiser programmes/Coral_planting.jpg">
-</div>
 <p></p>
