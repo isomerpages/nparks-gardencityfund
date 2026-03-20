@@ -97,7 +97,7 @@ following benefits:</p>
 <p>An e-brochure on local marine conservation</p>
 </li>
 <li>
-<p>Updates on 100k Corals Intiative</p>
+<p>Updates on 100k Corals Initiative</p>
 </li>
 <li>
 <p>2 participants are entitled to join a Sisters' Islands Marine Park Guided
