@@ -81,7 +81,7 @@ benefits:</p>
 <p>A personalised e-certificate of recognition</p>
 </li>
 <li>
-<p>An e-brochure on local marine conservatio</p>
+<p>An e-brochure on local marine conservation</p>
 </li>
 <li>
 <p>Updates on 100k CoraIs Initiative</p>
@@ -97,7 +97,7 @@ following benefits:</p>
 <p>An e-brochure on local marine conservation</p>
 </li>
 <li>
-<p>Updates on 100k corals initiative</p>
+<p>Updates on 100k Corals Intiative</p>
 </li>
 <li>
 <p>2 participants are entitled to join a Sisters' Islands Marine Park Guided
