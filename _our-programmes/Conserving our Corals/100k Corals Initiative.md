@@ -8,10 +8,10 @@ variant: tiptap
 <p>The corals in Singapore’s waters are vulnerable to various impact from
 climate change. In December 2024, NParks launched the 100k Corals Initiative
 to scale up existing coral restoration efforts and plant 100,000 corals
-in Singapore's waters. The Garden City Fund’s 100k Corals Initiative is
-a platform for organisations and individuals to support habitat enhancement
-efforts to improve coral reef cover and resilience. This is the most extensive
-coral restoration effort in Singapore to date.</p>
+in Singapore's waters. The 100k Corals Initiative is a platform for organisations
+and individuals to support habitat enhancement efforts to improve coral
+reef cover and resilience. This is the most extensive coral restoration
+effort in Singapore to date.</p>
 <p>Coral nubbins (small coral fragments) will be transplanted from the Marine
 Park Outreach and Education Centre (MPOEC) coral culture facility to degraded
 reefs or new areas. This aims to enhance our marine biodiversity by increasing
