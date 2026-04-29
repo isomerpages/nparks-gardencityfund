@@ -54,13 +54,13 @@ the donation to confirm the slots.</p>
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>22 May 2026</p>
+<p>26 June 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Serangoon North Avenue 1</p>
+<p>Ang Mo Kio Town Garden West</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/PAT_0012/1767_Donation-of-300-per-tree-Plant-A-Tree-Programme-at-Serangoon-North-Ave-1-on-22-May-2026" rel="noopener nofollow" target="_blank">Planting on 22 May 2026</a>
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/PAT_0013/1836_Donation-of-300-per-tree-Plant-A-Tree-Programme-at-Ang-Mo-Kio-Town-Garden-West-on-26-June-2026" rel="noopener nofollow" target="_blank">Planting on 26 June 2026</a>
 </p>
 </td>
 </tr>
