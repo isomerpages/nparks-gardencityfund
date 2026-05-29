@@ -64,6 +64,21 @@ the donation to confirm the slots.</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>17 July 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ang Mo Kio Street 53</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.nparks.gov.sg/visit/events/event-detail/PAT_0014/1896_Donation-of-300-per-tree-Plant-A-Tree-Programme-at-Ang-Mo-Kio-Street-53-on-17-July-2026" rel="noopener nofollow" target="_blank">Planting on 17 July 2026</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
